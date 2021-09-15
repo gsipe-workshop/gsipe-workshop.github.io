@@ -297,6 +297,22 @@ In my PhD thesis I focus on the multilateral cooperation to regulate corporate f
 # Job Market Candidates by tags
 <a id='jmc_tag'></a>
 
+[//]: # (It seems that markdown does not accept more than one h1. Check https://python-markdown.github.io/extensions/toc/)
+
+{% for tag in site.tags %}
+  <div class="toc">
+    <ul>
+      <li><a href="{ tag[0] }">{{ tag[0] }}</a></li>
+    </ul>
+  </div>
+  <h1 id="{ tag[0] }">{{ tag[0] }}</h1>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
 
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
