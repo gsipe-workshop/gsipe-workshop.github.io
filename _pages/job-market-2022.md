@@ -128,7 +128,7 @@ details[open] div {
             <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://www.linkedin.com/in/siddhartha-k-rastogi-62ba1a237/"><b>Siddhartha K. Rastogi</b></a></p>
     <a href="https://www.linkedin.com/in/siddhartha-k-rastogi-62ba1a237/">
-    <img src="" width="300" height="300"
+    <img src="https://gsipe-workshop.github.io/images/Rastogi_Siddhartha - Siddhartha K. Rastogi.jpg" width="300" height="300"
     ></a>
   <br />
   <details><summary>BIO</summary><p>I am an Associate Professor, Economics Area at the Indian Institute of Management Indore, India. Completed my doctorate in 2010 from IIMA, India. I work mainly in the area of international trade, WTO agreements, and distributional nature of development. I am familiar with economic methodologies including economic modeling, econometric modeling, game theory, and partial equilibrium models. I have taught microeconomics, macroeconomics, international trade, game theory, and economic history at undergraduate, post-graduate, doctoral, as well as executive education levels. 
@@ -138,7 +138,7 @@ details[open] div {
       <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://web.sas.upenn.edu/scunial/"><b>Santiago Cunial</b></a></p>
     <a href="https://web.sas.upenn.edu/scunial/">
-    <img src="" width="300" height="300"
+    <img src="https://gsipe-workshop.github.io/images/CUNIAL_SANTIAGO - Santiago Cunial.jpeg" width="300" height="300"
     ></a>
   <br />
   <details><summary>BIO</summary><p>I am a Ph.D. candidate in political science at the University of Pennsylvania, and a graduate fellow at the Penn Development Research Initiative and the Kleinman Center for Energy Policy. I am interested in comparative politics and the political economy of development, with a substantive focus on environmental politics in the Global South. In my dissertation, I study the conditions under which states can facilitate a fast takeoff of clean energies, with a regional focus on Latin America. My research employs mixed methods to understand how business-state relations shape greening policies, with a regional focus on Latin America. I analyze how and when green policy reforms restructure incentives for key private-sector stakeholders in the energy sector.    </p>
@@ -162,7 +162,7 @@ details[open] div {
     <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://www.jcanfil.com"><b>Justin Canfil</b></a></p>
     <a href="https://www.jcanfil.com">
-    <img src="https://gsipe-workshop.github.io/images/CANFIL_JUSTIN.png" width="300" height="300"
+    <img src="https://gsipe-workshop.github.io/images/avatar-sq - Justin Canfil.png" width="300" height="300"
     ></a>
   <br />
   <details><summary>BIO</summary><p>Justin Key Canfil is a postdoctoral scholar with the Belfer Center's International Security Program at the Harvard Kennedy School. His research on the implications of emerging technologies for international law and arms control has appeared in the Journal of Cybersecurity, the Oxford Handbook of AI Governance, and more. His book project, which uses computational, experimental, and archival methods to explain the general conditions under which new technologies become subject to international regulation, has been supported by the NSF, the US Departments of State and Education, and other major sources. Justin was previously a Harvard-Columbia China and the World Fellow, a Belfer Center Cyber Project Fellow, a fellow with the Wilson Center's Kennan Institute, and an exaugural China Fulbright recipient. He recently received a PhD in Political Science from Columbia.  </p>
@@ -175,7 +175,7 @@ details[open] div {
      <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://scholar.harvard.edu/hoppenheimer"><b>Harry, Oppenheimer</b></a></p>
 <a href="https://scholar.harvard.edu/hoppenheimer">
-    <img src="" width="300" height="300"
+    <img src="https://gsipe-workshop.github.io/images/OPPENHEIMER_HARRY - Harry Oppenheimer.jpg" width="300" height="300"
     ></a>
   <br />
   <details><summary>BIO</summary><p>My research is at the intersection of international security and international political economy, focusing on the political economy of cybersecurity and digital globalization. My job market paper uses internet topographical measurements to understand how the Snowden leaks caused digital retrenchment in rival states, fostering the conditions for surveillance and digital control in parts of the world. My work under review evaluates whether data follows the flag, the impact of cybersecurity capacity assistance on digital regulatory institutions, and how the public perceives cyber threats. I also developed and teach a syllabus‚ technology and disruption in international affairs.    </p>
@@ -185,7 +185,7 @@ details[open] div {
       <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://ham.re/"><b>Sjur Hamre</b></a></p>
 <a href="https://ham.re/">
-    <img src="" width="300" height="300"
+    <img src="https://gsipe-workshop.github.io/images/Hamre Sjur - Sjur Hamre.jpg" width="300" height="300"
     ></a>
   <br />
   <details><summary>BIO</summary><p>Sjur Hamre is a PhD candidate in the Political Economy subfield at Duke University. He studies how environmental politics alters firm incentives, with an emphasis on political consumerism, public procurement, and lobbying. He has used a range of quantitative methods in his research, including various big data methods, quasi-experimental designs, and lab- and lab-in-the-field experiments.</p>
@@ -198,7 +198,7 @@ details[open] div {
     <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://smiyano.com"><b>Sayumi, Miyano</b></a></p>
 <a href="https://smiyano.com">
-    <img src="" width="300" height="300"
+    <img src="https://gsipe-workshop.github.io/images/MIYANO_SAYUMI - Sayumi Miyano.jpg" width="300" height="300"
     ></a>
   <br />
   <details><summary>BIO</summary><p>Sayumi Miyano is a  Ph.D. candidate in the Department of Politics at Princeton University. She studies politics of global governance, foreign direct investment, and trade. Her first set of research examines how international organizations publish information or standards under scientific uncertainty, such as in energy, environment, or technology, and how domestic political actors affect these decisions. Her second line of research considers how multinational firms exert political influence at home and abroad, what nationality means for MNCs, and more generally, the firm-state relationships under today's extensive global value chains.</p>
@@ -208,7 +208,7 @@ details[open] div {
     <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://www.soohyuncho.net/"><b>Soohyun Cho</b></a></p>
     <a href="https://www.soohyuncho.net/">
-    <img src="" width="300" height="300"
+    <img src="https://gsipe-workshop.github.io/images/CHO_SOOHYUN - SooHyun Cho.jpeg" width="300" height="300"
     ></a>
   <br />
   <details><summary>BIO</summary><p>I am a Ph.D. candidate in Political Science at Ohio State University. I specialize in IPE and political methodology, with a focus on the interdependence of economic globalization and labor markets. Using survey experiments, causal inference, and natural language processing (NLP), I investigate (1) norm diffusion and firm compliance in supply chains and (2) workers' attitudes toward trade (especially gender gaps in trade attitudes). Before joining Ohio State, I earned my B.A. and M.A. in Political Science at Seoul National University, South Korea. My work has been supported by the Fulbright Fellowship (2016-2018) and the Presidential Fellowship at OSU (2022-2023).</p>
@@ -221,7 +221,7 @@ details[open] div {
     <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://www.thomasflaherty.com"><b>Thomas, Flaherty</b></a></p>
     <a href="https://www.thomasflaherty.com">
-    <img src="" width="300" height="300"
+    <img src="https://gsipe-workshop.github.io/images/FLAHERTY_THOMAS - Thomas Flaherty.jpeg" width="300" height="300"
     ></a>
   <br />
   <details><summary>BIO</summary><p>I am a Ph.D. Candidate and NSF Graduate Fellow in the Department of Political Science at the UC San Diego. My research explores the political economy of place-or how local economies affect policy preferences and behaviors. Guided by economic geography theories, I identify the ways in which individuals form relationships with the places they live, and quantify these relationships with spatial and machine learning measurement techniques. My research applies these to reconsider important questions in political economy: does economic exposure to trade affect globalization attitudes, and do these attitudes affect voting; does inequality affect support for redistribution?</p>
