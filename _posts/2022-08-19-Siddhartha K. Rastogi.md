@@ -12,7 +12,7 @@ tags:
   - globalization
   - technology
 ---
-<img src="" width="300" height="500" />
+<img src="https://gsipe-workshop.github.io/images/Rastogi_Siddhartha - Siddhartha K. Rastogi.jpg" width="300" height="500" />
 
 
 I am an Associate Professor, Economics Area at the Indian Institute of Management Indore, India. Completed my doctorate in 2010 from IIMA, India. I work mainly in the area of international trade, WTO agreements, and distributional nature of development. I am familiar with economic methodologies including economic modeling, econometric modeling, game theory, and partial equilibrium models. I have taught microeconomics, macroeconomics, international trade, game theory, and economic history at undergraduate, post-graduate, doctoral, as well as executive education levels.
