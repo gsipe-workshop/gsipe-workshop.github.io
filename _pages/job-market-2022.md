@@ -205,9 +205,7 @@ details[open] div {
   
     <td class="tg-0pky">
      <p style="font-size:20px"><a href = "https://wp.nyu.edu/zoege/"><b>Zoe Ge</b></a></p>
-    <a href="https://wp.nyu.edu/zoege/">
-    <img src="" width="300" height="300"
-    ></a>
+    
   <br />
   <details><summary>BIO</summary><p>I am a PhD candidate at NYU. I study IPE with a focus on international cooperation. My research disentangles the mechanisms of how interdependence shapes incentives in international cooperation, which affects the design, functioning, and even survival of international institutions. My job market paper examines the role of the WHO in facilitating states' cooperation with disease outbreak reporting. It reveals that information dissemination by international organizations (IOs) to their members empowers weak IOs to induce deeper cooperation than what their resources permit. I also study how global value chains lead to the decline of international institutions and firms' influence over trade barriers.</p>
   </details> </td> 
@@ -217,9 +215,7 @@ details[open] div {
   <tr>
      <td class="tg-0pky">
    <p style="font-size:20px"><a href = "https://zuhadhai.com/"><b>Zuhad Hai</b></a></p>
-    <a href="https://zuhadhai.com/">
-    
-    
+   
   <br />
   <details><summary>BIO</summary><p>I study the politics of the global technological and scientific frontier, focusing on the political consequences of the free flow of knowledge across national borders. 
     <br />
@@ -274,7 +270,7 @@ details[open] div {
               
 
         <td class="tg-0pky">
-     <p style="font-size:20px"><a href = ""><b>Nicola, Nones</b></a></p>
+     <p style="font-size:20px"><a href = ""><b>Nicola Nones</b></a></p>
     
   <br />
   <details><summary>BIO</summary><p>Nicola is a PhD candidate at the University of Virginia, Charlottesville, studying International Relations and Quantitative Methods with a substantive focus on the political economy of finance and the media and a regional emphasis on European as well as Emerging Markets. His dissertation project investigates the relationship between investors' sentiments and socially constructed media categories, such as the BRICS and the PIIGS. Prior to pursuing graduate studies at UVA, he received a Bachelor and a Master in international Relations at the University of Bologna and a Master in international political economy at the London School of Economics.</p>
