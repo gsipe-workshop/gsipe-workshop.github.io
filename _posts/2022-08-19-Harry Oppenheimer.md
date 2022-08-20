@@ -16,7 +16,7 @@ tags:
   - globalization
   - technology
 ---
-<img src="" width="300" height="500" />
+<img src="https://gsipe-workshop.github.io/images/OPPENHEIMER_HARRY - Harry Oppenheimer.jpg" width="300" height="500" />
 
 
 I am a Ph.D. candidate and Hartley R. Rogers Dissertation Fellow in the Department of Government at Harvard University. My research focuses on the political economy of cybersecurity and internet digital globalization. My dissertation leverages novel data sources, from internet topography measurements to forensic malware analysis, to texts mapping bureaucratic delegation‚ to understand how internet-driven interdependence creates shared regulatory and security challenges, and how states develop digital institutions in response to the global internet environment.
