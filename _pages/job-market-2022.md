@@ -131,7 +131,8 @@ details[open] div {
     <img src="https://gsipe-workshop.github.io/images/Balcazar_Felipe - Carlos Balcazar.jpg" width="300" height="300"
     ></a>
   <br />
-  <details><summary>BIO</summary><p>I'm a Ph.D. candidate ant NYU, focusing on IPE. My research agenda focuses on i) The effects of automation on the political power of organized labor, and its implications for public policy, ii) The role of international economic competition on elite cues and identity politics, and how the latter shape policy against globalization, iii) The effect of international trade on democratization, war and secessionism, iv) The link between climate change and anti-incumbent mobilization, peaceful and otherwise. I use game theory, economic theory and natural experiments to uncover the mechanisms and circumstances under which international economic change affects domestic politics and policy.</p>
+  <details><summary>BIO</summary><p>I'm a Ph.D. candidate ant NYU, focusing on IPE. My research agenda focuses on i) The effects of automation on the political power of organized labor, and its implications for public policy, ii) The role of international economic competition on elite cues and identity politics, and how the latter shape policy against globalization, iii) The effect of international trade on democratization, war and secessionism, iv) The link between climate change and anti-incumbent mobilization, peaceful and otherwise. I use game theory, economic theory and natural experiments to uncover the mechanisms and circumstances under which international economic change affects domestic politics and policy.
+    </p>
   </details>
   </td>
       <td class="tg-0pky">
@@ -156,7 +157,6 @@ details[open] div {
   <details><summary>BIO</summary><p>Justin Key Canfil is a postdoctoral scholar with the Belfer Center's International Security Program at the Harvard Kennedy School. His research on the implications of emerging technologies for international law and arms control has appeared in the Journal of Cybersecurity, the Oxford Handbook of AI Governance, and more. His book project, which uses computational, experimental, and archival methods to explain the general conditions under which new technologies become subject to international regulation, has been supported by the NSF, the US Departments of State and Education, and other major sources. Justin was previously a Harvard-Columbia China and the World Fellow, a Belfer Center Cyber Project Fellow, a fellow with the Wilson Center's Kennan Institute, and an exaugural China Fulbright recipient. He recently received a PhD in Political Science from Columbia.  </p>
   </details>
   </td>
-    
      <td class="tg-0pky">
    <p style="font-size:20px"><a href = "https://www.soohyuncho.net/"><b>Soohyun Cho</b></a></p>
     <a href="https://www.soohyuncho.net/">
@@ -166,8 +166,7 @@ details[open] div {
   <details><summary>BIO</summary><p>I am a Ph.D. candidate in Political Science at Ohio State University. I specialize in IPE and political methodology, with a focus on the interdependence of economic globalization and labor markets. Using survey experiments, causal inference, and natural language processing (NLP), I investigate (1) norm diffusion and firm compliance in supply chains and (2) workers' attitudes toward trade (especially gender gaps in trade attitudes). Before joining Ohio State, I earned my B.A. and M.A. in Political Science at Seoul National University, South Korea. My work has been supported by the Fulbright Fellowship (2016-2018) and the Presidential Fellowship at OSU (2022-2023).</p>
   </details> 
   </td>
-    
-                </tr>
+              </tr>
 </thead>
 <thead>
   <tr>
@@ -177,7 +176,7 @@ details[open] div {
     <img src="https://gsipe-workshop.github.io/images/CUNIAL_SANTIAGO - Santiago Cunial.jpeg" width="300" height="300"
     ></a>
   <br />
-  <details><summary>BIO</summary><p>I am a Ph.D. candidate in political science at the University of Pennsylvania, and a graduate fellow at the Penn Development Research Initiative and the Kleinman Center for Energy Policy. I am interested in comparative politics and the political economy of development, with a substantive focus on environmental politics in the Global South. In my dissertation, I study the conditions under which states can facilitate a fast takeoff of clean energies, with a regional focus on Latin America. My research employs mixed methods to understand how business-state relations shape greening policies, with a regional focus on Latin America. I analyze how and when green policy reforms restructure incentives for key private-sector stakeholders in the energy sector.    </p>
+  <details><summary>BIO</summary><p>I am a Ph.D. candidate in political science at the University of Pennsylvania, and a graduate fellow at the Penn Development Research Initiative and the Kleinman Center for Energy Policy. I am interested in comparative politics and the political economy of development, with a substantive focus on environmental politics in the Global South. In my dissertation, I study the conditions under which states can facilitate a fast takeoff of clean energies, with a regional focus on Latin America. My research employs mixed methods to understand how business-state relations shape greening policies, with a regional focus on Latin America. I analyze how and when green policy reforms restructure incentives for key private-sector stakeholders in the energy sector.</p>
   </details> 
   </td>
              
@@ -205,7 +204,7 @@ details[open] div {
   </td>
   
     <td class="tg-0pky">
-     <p style="font-size:20px"><a href = "https://wp.nyu.edu/zoege/"><b>Zoe, Ge</b></a></p>
+     <p style="font-size:20px"><a href = "https://wp.nyu.edu/zoege/"><b>Zoe Ge</b></a></p>
     <a href="https://wp.nyu.edu/zoege/">
     
   <br />
@@ -330,7 +329,6 @@ details[open] div {
      </tr>
     </thead>
 </table>
-
 
 <hr>
 
