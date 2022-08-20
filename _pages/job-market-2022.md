@@ -206,7 +206,8 @@ details[open] div {
     <td class="tg-0pky">
      <p style="font-size:20px"><a href = "https://wp.nyu.edu/zoege/"><b>Zoe Ge</b></a></p>
     <a href="https://wp.nyu.edu/zoege/">
-    
+    <img src="" width="300" height="300"
+    ></a>
   <br />
   <details><summary>BIO</summary><p>I am a PhD candidate at NYU. I study IPE with a focus on international cooperation. My research disentangles the mechanisms of how interdependence shapes incentives in international cooperation, which affects the design, functioning, and even survival of international institutions. My job market paper examines the role of the WHO in facilitating states' cooperation with disease outbreak reporting. It reveals that information dissemination by international organizations (IOs) to their members empowers weak IOs to induce deeper cooperation than what their resources permit. I also study how global value chains lead to the decline of international institutions and firms' influence over trade barriers.</p>
   </details> </td> 
@@ -246,20 +247,7 @@ details[open] div {
   <br />
   <details><summary>BIO</summary><p>I am a PhD candidate in Political Science at the University of Pittsburgh. My research interests lie at the intersection of political psychology, international political economy, and party politics. I explore the determinants of citizens' attitudes towards different facets of globalization‚ economic, political, and cultural‚ as well as the role party competition plays in shaping voters' attitudes and parties' strategies. I explore these topics with a regional focus on Europe and the United States, and employing experimental, observational, survey, and text analysis methodology.   </p>
   </details> </td> 
-       
-    <td class="tg-0pky">
-    <p style="font-size:20px"><a href = "https://www.honeker.org/"><b>Alex Honeker</b></a></p>
-<a href="https://www.honeker.org/">
-    <img src="https://gsipe-workshop.github.io/images/Honeker_Alex - Alex Honeker.jpg" width="300" height="300"
-    ></a>
-  <br />
-  <details><summary>BIO</summary><p>I am a PhD candidate in Political Science at the University of Pittsburgh. My research interests lie at the intersection of political psychology, international political economy, and party politics. I explore the determinants of citizens' attitudes towards different facets of globalization‚ economic, political, and cultural‚ as well as the role party competition plays in shaping voters' attitudes and parties' strategies. I explore these topics with a regional focus on Europe and the United States, and employing experimental, observational, survey, and text analysis methodology.   </p>
-  </details> 
-  </td>
-            </tr>
-</thead>
-<thead>
-  <tr>
+           
     <td class="tg-0pky">
    <p style="font-size:20px"><a href = "https://www.linkedin.com/in/taufan-kurnianto-67296635/"><b>Taufan Kurnianto</b></a></p>
 <a href="https://www.linkedin.com/in/taufan-kurnianto-67296635/">
@@ -269,7 +257,10 @@ details[open] div {
   <details><summary>BIO</summary><p>An economist and experienced researcher with a demonstrated history of working in the Ministry of Finance Indonesia, skilled in health and behavioural economics, macroeconomics, fiscal, econometrics, Stata, internal audit and accounting.
 </p>
   </details> </td>
-                    
+                </tr>
+</thead>
+<thead>
+  <tr>                
      <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://smiyano.com"><b>Sayumi Miyano</b></a></p>
 <a href="https://smiyano.com">
@@ -280,19 +271,20 @@ details[open] div {
 
   </details>
   </td>
-                </tr>
-</thead>
-<thead>
-  <tr>
+              
 
         <td class="tg-0pky">
      <p style="font-size:20px"><a href = ""><b>Nicola, Nones</b></a></p>
     <a href="">
-    
+    <img src="https://gsipe-workshop.github.io/images/Kurnianto_Taufan - Taufan Kurnianto.jpg" width="300" height="300"
+    ></a>
   <br />
   <details><summary>BIO</summary><p>Nicola is a PhD candidate at the University of Virginia, Charlottesville, studying International Relations and Quantitative Methods with a substantive focus on the political economy of finance and the media and a regional emphasis on European as well as Emerging Markets. His dissertation project investigates the relationship between investors' sentiments and socially constructed media categories, such as the BRICS and the PIIGS. Prior to pursuing graduate studies at UVA, he received a Bachelor and a Master in international Relations at the University of Bologna and a Master in international political economy at the London School of Economics.</p>
   </details> </td>
-                      
+               </tr>
+</thead>
+<thead>
+  <tr>                   
    <td class="tg-0pky">
    <p style="font-size:20px"><a href = "https://scholar.harvard.edu/hoppenheimer"><b>Harry Oppenheimer</b></a></p>
 <a href="https://scholar.harvard.edu/hoppenheimer">
@@ -302,10 +294,7 @@ details[open] div {
   <details><summary>BIO</summary><p>My research is at the intersection of international security and international political economy, focusing on the political economy of cybersecurity and digital globalization. My job market paper uses internet topographical measurements to understand how the Snowden leaks caused digital retrenchment in rival states, fostering the conditions for surveillance and digital control in parts of the world. My work under review evaluates whether data follows the flag, the impact of cybersecurity capacity assistance on digital regulatory institutions, and how the public perceives cyber threats. I also developed and teach a syllabus‚ technology and disruption in international affairs.    </p>
   </details> 
   </td>
-                </tr>
-</thead>
-<thead>
-  <tr>
+         
     <td class="tg-0pky">
      
 <p style="font-size:20px"><a href = "https://www.linkedin.com/in/siddhartha-k-rastogi-62ba1a237/"><b>Siddhartha K. Rastogi</b></a></p>
@@ -316,7 +305,10 @@ details[open] div {
   <details><summary>BIO</summary><p>I am an Associate Professor, Economics Area at the Indian Institute of Management Indore, India. Completed my doctorate in 2010 from IIMA, India. I work mainly in the area of international trade, WTO agreements, and distributional nature of development. I am familiar with economic methodologies including economic modeling, econometric modeling, game theory, and partial equilibrium models. I have taught microeconomics, macroeconomics, international trade, game theory, and economic history at undergraduate, post-graduate, doctoral, as well as executive education levels. 
  </p>
   </details> </td>
-                         
+               </tr>
+</thead>
+<thead>
+  <tr>                      
    <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://www.rjschoner.com/"><b>Rachel Schoner</b></a></p>
     <a href="https://www.rjschoner.com/">
