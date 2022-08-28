@@ -15,7 +15,9 @@ We invite graduate students and faculty from Political Science and Economics wit
 
 <hr> 
 
-*News:* 
+*News:*
+
+- The wait is over: GSIPE is pleased to announce our [Fall 2022 Workshop lineup](https://gsipe-workshop.github.io/schedule/)!
 
 - Thanks to all who submitted an abstract for our Fall workshops! Decisions will be sent out soon.
 
