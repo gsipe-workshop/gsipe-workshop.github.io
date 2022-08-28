@@ -11,70 +11,75 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 <br />
 *Moderator:* 
 
-**September 19: Maximiliano Sosa Andres (Uppsala University), "Legal uncertainty and its consequences: 
-A natural language processing approach"**
+
+**September 19: Maximiliano Sosa Andres (Uppsala University), "Legal uncertainty and its consequences: A natural language processing approach"**
 <br />
 *Moderator:* 
 
 
-**September 26: Sabrina Arias (University of Pennsylvania), "Who Sets the Agenda? Diplomatic Capital, 
-Small States, and Legislative Activities 
-in the United Nations"**
+**September 26: Sabrina Arias (University of Pennsylvania), "Who Sets the Agenda? Diplomatic Capital, Small States, and Legislative Activities in the United Nations"**
 <br />
 *Moderator:* 
 
 
+**October 3: Sojun Park (Princeton University), "The Politics of Compulsory Licensing : Electoral Accountability and Regulatory Threat"**
+<br />
+*Moderator:* 
 
+
+**October 10: Zarlasht M. Razeq (McGill University), "Comprehensive trade agreements, domestic institutions, and GVC integration: firm-level evidence"**
+<br />
+*Moderator:* 
+
+
+**October 17: Santiago Cunial (University of Pennsylvania), "Greening the grid under sectoral reforms: the political economy of solar and wind energies in Argentina and Chile"**
+<br />
+*Moderator:* 
+
+
+**October 24: Hao Zhang (MIT), "Commerce, Coalitions, and Global Value Chains: Evidence from Coordinated and Collective Lobbying"**
+<br />
+*Moderator:* 
+
+
+**October 31: ByungKoo Kim (University of Michigan), "Global production sharing and the new demands for deep preferential trade agreements"**
+<br />
+*Moderator:* 
+
+
+**October 31: Sayumi Miyano (Princeton University), "Regime Complexity and Overlapping Information: The Case of Energy Projections"**
+<br />
+*Moderator:* 
+
+
+**November 14: Thomas Flaherty (UC San Diego), "Geographic Mobility and Globalization Backlash: Evidence from the NAFTA Import Shock and Populist Votes for Ross Perot"**
+<br />
+*Moderator:* 
+
+
+**November 21: Alex Yeandle (London School of Economics), "Why do ICTs reduce election fraud? Testing a new mechanism in Malawi"**
+<br />
+*Moderator:* 
+
+
+**November 28: Hongyi She (University of Rochester), "Learning About Trade"**
+<br />
+*Moderator:* 
  
+
+**December 5: Zenobia Chan (Princeton University), "When can economic inducements buy influence abroad?"**
+<br />
+*Moderator:* 
+ 
+
+**December 12: TBD**
+<br />
+*Moderator:* 
+ 
+ 
+
 <!---**
-October 3
-“The Politics of Compulsory Licensing : Electoral Accountability and Regulatory Threat”
-Sojun Park 
-Princeton University
-October 10
-“Comprehensive trade agreements, domestic institutions, and GVC integration: 
-firm-level evidence”
-Zarlasht M. Razeq
- McGill University 
-October 17
-“Greening the grid under sectoral reforms: the
- political economy of solar and wind 
-energies in Argentina and Chile”
-Santiago Cunial
-University of Pennsylvania
-October 24
-“Commerce, Coalitions, and Global Value Chains: Evidence from Coordinated and Collective Lobbying”
-Hao Zhang
-MIT 
-October 31
-“Global production sharing and the new demands for deep preferential trade agreements”
-ByungKoo Kim 
-University of Michigan
-November 7
-“Regime Complexity and Overlapping Information: 
-The Case of Energy Projections”
-Sayumi Miyano
-Princeton University
-November 14
-“Geographic Mobility and Globalization Backlash: Evidence from the NAFTA Import Shock and Populist Votes for Ross Perot”
-Thomas Flaherty
-UC San Diego 
-November 21
-“Why do ICTs reduce election fraud? 
-Testing a new mechanism in Malawi”
-Alex Yeandle
- London School of Economics 
-November 28
-“Learning About Trade”
-Hongyi She
-University of Rochester 
-December 5
-“When can economic inducements 
-buy influence abroad?” 
-Zenobia Chan
-Princeton University
-December 12
-TBD
+
 
 
 
