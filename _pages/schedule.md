@@ -7,7 +7,7 @@ author_profile: true
 
 All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Eastern Time (UTC−05:00).
 
-**September 12: Felipe Carlos Balcazar (New York University), "Unions and robots: International competition, automation and the political power of organized labor"**
+**September 12: Carlos Felipe Balcazar (New York University), "Unions and robots: International competition, automation and the political power of organized labor"**
 <br />
 *Moderator:* 
 
