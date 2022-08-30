@@ -131,7 +131,7 @@ details[open] div {
     <img src="https://gsipe-workshop.github.io/images/Balcazar_Felipe - Carlos Balcazar.jpg" width="300" height="300"
     ></a>
   <br />
-  <details><summary>BIO</summary><p>I'm a Ph.D. candidate ant NYU, focusing on IPE. My research agenda focuses on i) The effects of automation on the political power of organized labor, and its implications for public policy, ii) The role of international economic competition on elite cues and identity politics, and how the latter shape policy against globalization, iii) The effect of international trade on democratization, war and secessionism, iv) The link between climate change and anti-incumbent mobilization, peaceful and otherwise. I use game theory, economic theory and natural experiments to uncover the mechanisms and circumstances under which international economic change affects domestic politics and policy.
+  <details><summary>BIO</summary><p>Felipe Balcazar is a Ph.D. candidate ant NYU, focusing on IPE. His research agenda focuses on the effects of international economic change in domestic politics and policy. Specifically, he studies i) The effects of automation on the political power of organized labor, and its implications for public policy, ii) The role of international economic competition on elite cues and identity politics, and how the latter shape policy against globalization, iii) The effect of international trade on democratization, war and secessionism, iv) The link between climate change and anti-incumbent mobilization.
     </p>
   </details>
   </td>
