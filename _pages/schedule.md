@@ -72,7 +72,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 *Moderator:* 
  
 
-**December 12: TBD**
+**December 12: RyuGyung (Rio) Park (UC Davis), "Trading with China, Is It Really a Security Issue?, Causes of Securitization of Trade Among American Public"**
 <br />
 *Moderator:* 
  
