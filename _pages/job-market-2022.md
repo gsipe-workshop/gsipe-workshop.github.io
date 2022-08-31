@@ -131,7 +131,7 @@ details[open] div {
     <img src="https://gsipe-workshop.github.io/images/Balcazar_Felipe - Carlos Balcazar.jpg" width="300" height="300"
     ></a>
   <br />
-  <details><summary>BIO</summary><p>I'm a Ph.D. candidate ant NYU, focusing on IPE. My research agenda focuses on i) The effects of automation on the political power of organized labor, and its implications for public policy, ii) The role of international economic competition on elite cues and identity politics, and how the latter shape policy against globalization, iii) The effect of international trade on democratization, war and secessionism, iv) The link between climate change and anti-incumbent mobilization, peaceful and otherwise. I use game theory, economic theory and natural experiments to uncover the mechanisms and circumstances under which international economic change affects domestic politics and policy.
+  <details><summary>BIO</summary><p>Felipe Balcazar is a Ph.D. candidate ant NYU, focusing on IPE. His research agenda focuses on the effects of international economic change in domestic politics and policy. Specifically, he studies i) The effects of automation on the political power of organized labor, and its implications for public policy, ii) The role of international economic competition on elite cues and identity politics, and how the latter shape policy against globalization, iii) The effect of international trade on democratization, war and secessionism, iv) The link between climate change and anti-incumbent mobilization.
     </p>
   </details>
   </td>
@@ -213,6 +213,17 @@ details[open] div {
 </thead>
 <thead>
   <tr>
+    
+    <td class="tg-0pky">
+    <p style="font-size:20px"><a href = "https://www.allisongrossman.com/"><b>Allison Grossman</b></a></p>
+<a href="https://www.allisongrossman.com/">
+    <img src="https://gsipe-workshop.github.io/images/GROSSMAN_ALLISON - Allison Grossman.jpg" width="300" height="300"
+    ></a>
+  <br />
+  <details><summary>BIO</summary><p>I am a Postdoctoral Fellow at the Immigration Policy Lab at Stanford University and earned my PhD in Political Science from the University of California Berkeley in 2021. My research investigates how so-called "fragile" states cooperate with (0r contest) international efforts to mitigate suffering and improve the welfare of their residents. I investigate these issues of global concern in Sahelian and West African states, where foreign intervention has profound consequences for governance. My work has been published in the Journal of Politics, the Journal of Experimental Political Science, and PS: Political Science & Politics.</p>
+  </details> </td>
+    
+    
      <td class="tg-0pky">
    <p style="font-size:20px"><a href = "https://zuhadhai.com/"><b>Zuhad Hai</b></a></p>
    
@@ -222,6 +233,12 @@ details[open] div {
     In my dissertation, I study the conditions under which those made obsolete by global technological change organize and undermine the ability of societies to adjust to a changing world economy. The main case in my dissertation looks at political responses to technological obsolescence from the Industrial Revolution in South Asia during the first era of globalization.  Other cases include the invention of synthetic dyes by German chemists and the effects of industrial automation in the contemporary US. I also have a secondary research agenda in which I study the role of scientific consensus in international cooperation over environmental issues such as climate change.   </p>
 
   </details> </td> 
+    
+      </tr>
+</thead>
+<thead>
+  <tr>
+    
      
     <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://ham.re/"><b>Sjur Hamre</b></a></p>
@@ -231,10 +248,7 @@ details[open] div {
   <br />
   <details><summary>BIO</summary><p>Sjur Hamre is a PhD candidate in the Political Economy subfield at Duke University. He studies how environmental politics alters firm incentives, with an emphasis on political consumerism, public procurement, and lobbying. He has used a range of quantitative methods in his research, including various big data methods, quasi-experimental designs, and lab- and lab-in-the-field experiments.</p>
   </details> </td>
-            </tr>
-</thead>
-<thead>
-  <tr>
+           
      <td class="tg-0pky">
      <p style="font-size:20px"><a href = "https://www.honeker.org/"><b>Alex Honeker</b></a></p>
 <a href="https://www.honeker.org/">
@@ -243,6 +257,19 @@ details[open] div {
   <br />
   <details><summary>BIO</summary><p>I am a PhD candidate in Political Science at the University of Pittsburgh. My research interests lie at the intersection of political psychology, international political economy, and party politics. I explore the determinants of citizens' attitudes towards different facets of globalization‚ economic, political, and cultural‚ as well as the role party competition plays in shaping voters' attitudes and parties' strategies. I explore these topics with a regional focus on Europe and the United States, and employing experimental, observational, survey, and text analysis methodology.   </p>
   </details> </td> 
+      </tr>
+</thead>
+<thead>
+  <tr>
+    
+    <td class="tg-0pky">
+   <p style="font-size:20px"><a href = "https://lkovacikovaphd.com/"><b>Lucia Kovacikova</b></a></p>
+<a href="https://lkovacikovaphd.com/">
+    <img src="https://gsipe-workshop.github.io/images/KOVACIKOVA_LUCIA - Lucia Kovacikova.jpg" width="300" height="300"
+    ></a>
+  <br />
+  <details><summary>BIO</summary><p>I am a PhD candidate in Political Science at Tulane University. My focus is on IPE, specifically on paradiplomacy and economic development of subnational governments. Using both quantitative and qualitative data, I explore the growing role of regional governments in international markets. I received my B.A. from the University of Calgary, my M.Sc. from the University of Amsterdam, and my M.A. from Tulane University. I also worked for numerous diplomatic and international organizations, Global Affairs Canada, Woodrow Wilson International Centre for Scholars, and the UK Department of International Trade.</p>
+  </details> </td>
            
     <td class="tg-0pky">
    <p style="font-size:20px"><a href = "https://www.linkedin.com/in/taufan-kurnianto-67296635/"><b>Taufan Kurnianto</b></a></p>
