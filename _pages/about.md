@@ -17,6 +17,9 @@ We invite graduate students and faculty from Political Science and Economics wit
 
 *News:*
 
+- We are excited to announce the program for the Graduate Students in International Political Economy (GSIPE) workshop for APSA 2022! The workshop will take place at 9:00 AM (EST) at Palais des congrés de Montréal (room 512A), Montréal, Québec, Canada. Everyone is welcome to join us! Visit the program <a href="https://gsipe-workshop.github.io/files/GSIPE_APSA_2022_program.pdf">here</a>!
+
+
 - The wait is over: GSIPE is pleased to announce our [Fall 2022 Workshop lineup](https://gsipe-workshop.github.io/schedule/)!
 
 - Thanks to all who submitted an abstract for our Fall workshops! Decisions will be sent out soon.
