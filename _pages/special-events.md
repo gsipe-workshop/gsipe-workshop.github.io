@@ -6,7 +6,9 @@ author_profile: true
 ---
 Information about special events and opportunties can be found here.
 
-- We are excited to announce the program for the Graduate Students in International Political Economy (GSIPE) workshop for APSA 2022! Visit the program <a href="https://gsipe-workshop.github.io/files/GSIPE_APSA_2022 program.pdf">here</a>!
+- We are excited to announce the program for the Graduate Students in International Political Economy (GSIPE) workshop for APSA 2022! Visit the program <a href="https://gsipe-workshop.github.io/files/GSIPE_APSA_2022_program.pdf">here</a>!
+
+
 
 <hr>
 
