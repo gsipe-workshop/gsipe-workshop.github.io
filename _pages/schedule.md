@@ -47,7 +47,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 *Moderator:* 
 
 
-**October 31: Sayumi Miyano (Princeton University), "Regime Complexity and Overlapping Information: The Case of Energy Projections"**
+**Novemver 7: Sayumi Miyano (Princeton University), "Regime Complexity and Overlapping Information: The Case of Energy Projections"**
 <br />
 *Moderator:* 
 
