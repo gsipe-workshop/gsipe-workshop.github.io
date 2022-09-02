@@ -6,7 +6,10 @@ author_profile: true
 ---
 Information about special events and opportunties can be found here.
 
-- We are excited to announce a call for submissions for the Graduate Students in International Political Economy (GSIPE) workshop for APSA 2022! If you are interested in presenting your work at GSIPE’s APSA pre-conference workshop, please fill out [this form](https://forms.gle/UCCD5Wh3h6h6qchb8) by Thursday, May 26th at 11:59pm Eastern Time. In addition, we will offer five $500 travel and/or caregiving grants to selected presenters based on their need. See all details [here](https://mailchi.mp/b73569165964/call-for-papers-fall-2021-presenter-series-7109441?e=066d20204f).
+- We are excited to announce the program for the Graduate Students in International Political Economy (GSIPE) workshop for APSA 2022!
+
+<a href="https://gsipe-workshop.github.io/files/GSIPE_APSA_2022 program.pdf">Pre-Conference Workshop at APSA (September 14, 2022)</a>
+
 
 <hr>
 
