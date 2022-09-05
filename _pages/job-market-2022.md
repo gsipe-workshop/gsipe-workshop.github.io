@@ -234,22 +234,14 @@ details[open] div {
   <br />
     In my dissertation, I study the conditions under which those made obsolete by global technological change organize and undermine the ability of societies to adjust to a changing world economy. The main case in my dissertation looks at political responses to technological obsolescence from the Industrial Revolution in South Asia during the first era of globalization.  Other cases include the invention of synthetic dyes by German chemists and the effects of industrial automation in the contemporary US. I also have a secondary research agenda in which I study the role of scientific consensus in international cooperation over environmental issues such as climate change.   </p>
   </details> </td>
-    
-     <td class="tg-0pky">
-   <p style="font-size:20px"><a href = "https://zuhadhai.com/"><b>Zuhad Hai</b></a></p>
-   
-  <br />
-  <details><summary>BIO</summary><p>I study the politics of the global technological and scientific frontier, focusing on the political consequences of the free flow of knowledge across national borders. 
-    <br />
-    In my dissertation, I study the conditions under which those made obsolete by global technological change organize and undermine the ability of societies to adjust to a changing world economy. The main case in my dissertation looks at political responses to technological obsolescence from the Industrial Revolution in South Asia during the first era of globalization.  Other cases include the invention of synthetic dyes by German chemists and the effects of industrial automation in the contemporary US. I also have a secondary research agenda in which I study the role of scientific consensus in international cooperation over environmental issues such as climate change.   </p>
-
-  </details> </td> 
-    
       </tr>
 </thead>
 <thead>
   <tr>
-    
+
+     
+     
+     
      
     <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://ham.re/"><b>Sjur Hamre</b></a></p>
@@ -273,13 +265,16 @@ details[open] div {
 <thead>
   <tr>
     
+    
+    
+    
     <td class="tg-0pky">
    <p style="font-size:20px"><a href = "https://lkovacikovaphd.com/"><b>Lucia Kovacikova</b></a></p>
 <a href="https://lkovacikovaphd.com/">
     <img src="https://gsipe-workshop.github.io/images/KOVACIKOVA_LUCIA - Lucia Kovacikova.jpg" width="300" height="300"
     ></a>
   <br />
-  <details><summary>BIO</summary><p>I am a PhD candidate in Political Science at Tulane University. My focus is on IPE, specifically on paradiplomacy and economic development of subnational governments. Using both quantitative and qualitative data, I explore the growing role of regional governments in international markets. I received my B.A. from the University of Calgary, my M.Sc. from the University of Amsterdam, and my M.A. from Tulane University. I also worked for numerous diplomatic and international organizations, Global Affairs Canada, Woodrow Wilson International Centre for Scholars, and the UK Department of International Trade.</p>
+  <details><summary>BIO</summary><p>I am a PhD candidate in Political Science at Tulane University. My focus is on IPE, specifically on paradiplomacy and economic development of subnational governments. Using both quantitative and qualitative data, I explore the growing role of regional governments in international markets. I received my B.A. from the University of Calgary, my M.Sc. from the University of Amsterdam, and my M.A. from Tulane University. I also worked for numerous diplomatic and international organizations, including Global Affairs Canada, Woodrow Wilson International Centre for Scholars, and the UK Department of International Trade.</p>
   </details> </td>
            
     <td class="tg-0pky">
