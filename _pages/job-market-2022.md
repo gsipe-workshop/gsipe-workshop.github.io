@@ -230,10 +230,8 @@ details[open] div {
     <img src="https://gsipe-workshop.github.io/images/Zuhad.jpeg" width="300" height="300"
     ></a>
   <br />
-  <details><summary>BIO</summary><p>I study the politics of the global technological and scientific frontier, focusing on the political consequences of the free flow of knowledge across national borders.</p>
-  <br />
-    In my dissertation, I study the conditions under which those made obsolete by global technological change organize and undermine the ability of societies to adjust to a changing world economy. The main case in my dissertation looks at political responses to technological obsolescence from the Industrial Revolution in South Asia during the first era of globalization.  Other cases include the invention of synthetic dyes by German chemists and the effects of industrial automation in the contemporary US. I also have a secondary research agenda in which I study the role of scientific consensus in international cooperation over environmental issues such as climate change.   </p>
-  </details> </td>
+  <details><summary>BIO</summary><p>I study the politics of the global technological and scientific frontier, focusing on the political consequences of the free flow of knowledge across national borders. In my dissertation, I study the conditions under which those made obsolete by global technological change organize and undermine the ability of societies to adjust to a changing world economy. The main case in my dissertation looks at political responses to technological obsolescence from the Industrial Revolution in South Asia during the first era of globalization.  Other cases include the invention of synthetic dyes by German chemists and the effects of industrial automation in the contemporary US. I also have a secondary research agenda in which I study the role of scientific consensus in international cooperation over environmental issues such as climate change.</p>
+  </details> </td> 
       </tr>
 </thead>
 <thead>
