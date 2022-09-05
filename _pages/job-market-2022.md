@@ -208,7 +208,7 @@ details[open] div {
         <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://wp.nyu.edu/zoege/"><b>Zoe Ge</b></a></p>
 <a href="https://wp.nyu.edu/zoege/">
-    <img src="https://gsipe-workshop.github.io/images/profile_zoege.jpeg" width="300" height="300"
+    <img src="https://gsipe-workshop.github.io/images/profile_zoege.jpg" width="300" height="300"
     ></a>
   <br />
   <details><summary>BIO</summary><p>Zoe Ge is a Ph.D. candidate in Politics at New York University. She studies international political economy and international organizations, using formal models and a range of quantitative methods. The first strand of her research examines the institutional design of global health governance with an emphasis on the World Health Organization (WHO). Drawing on extensive fieldwork at the WHO headquarters, she investigates whether weak international organizations like the WHO can facilitate deeper cooperation from their members than what their material resources permit. The second strand of her research explores how global value chains affect the evolution of international institutions. Her other research considers firms’ influence in the era of rising trade barriers.</p>
