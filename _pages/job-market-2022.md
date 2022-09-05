@@ -203,17 +203,22 @@ details[open] div {
   </details>
   </td>
   
-    <td class="tg-0pky">
-     <p style="font-size:20px"><a href = "https://wp.nyu.edu/zoege/"><b>Zoe Ge</b></a></p>
+  
     
+        <td class="tg-0pky">
+    <p style="font-size:20px"><a href = "https://wp.nyu.edu/zoege/"><b>Zoe Ge</b></a></p>
+<a href="https://wp.nyu.edu/zoege/">
+    <img src="https://gsipe-workshop.github.io/images/profile_zoege.jpeg" width="300" height="300"
+    ></a>
   <br />
-  <details><summary>BIO</summary><p>I am a PhD candidate at NYU. I study IPE with a focus on international cooperation. My research disentangles the mechanisms of how interdependence shapes incentives in international cooperation, which affects the design, functioning, and even survival of international institutions. My job market paper examines the role of the WHO in facilitating states' cooperation with disease outbreak reporting. It reveals that information dissemination by international organizations (IOs) to their members empowers weak IOs to induce deeper cooperation than what their resources permit. I also study how global value chains lead to the decline of international institutions and firms' influence over trade barriers.</p>
+  <details><summary>BIO</summary><p>Zoe Ge is a Ph.D. candidate in Politics at New York University. She studies international political economy and international organizations, using formal models and a range of quantitative methods. The first strand of her research examines the institutional design of global health governance with an emphasis on the World Health Organization (WHO). Drawing on extensive fieldwork at the WHO headquarters, she investigates whether weak international organizations like the WHO can facilitate deeper cooperation from their members than what their material resources permit. The second strand of her research explores how global value chains affect the evolution of international institutions. Her other research considers firms’ influence in the era of rising trade barriers.</p>
   </details> </td> 
-            </tr>
+      </tr>
 </thead>
 <thead>
   <tr>
-    
+
+
     <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://www.allisongrossman.com/"><b>Allison Grossman</b></a></p>
 <a href="https://www.allisongrossman.com/">
