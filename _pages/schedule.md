@@ -9,7 +9,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 
 **September 12: Carlos Felipe Balcazar (New York University), "Unions and robots: International competition, automation and the political power of organized labor"**
 <br />
-*Moderator:* 
+*Moderator:* Aycan Katitas (Princeton University)
 
 
 **September 19: Maximiliano Sosa Andres (Uppsala University), "Legal uncertainty and its consequences: A natural language processing approach"**
@@ -29,7 +29,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 
 **October 10: Zarlasht M. Razeq (McGill University), "Comprehensive trade agreements, domestic institutions, and GVC integration: firm-level evidence"**
 <br />
-*Moderator:* 
+*Moderator:* Sujin Cha (University of Michigan)
 
 
 **October 17: Santiago Cunial (University of Pennsylvania), "Greening the grid under sectoral reforms: the political economy of solar and wind energies in Argentina and Chile"**
@@ -39,12 +39,12 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 
 **October 24: Hao Zhang (MIT), "Commerce, Coalitions, and Global Value Chains: Evidence from Coordinated and Collective Lobbying"**
 <br />
-*Moderator:* 
+*Moderator:* Sojun Park (Princeton University)
 
 
 **October 31: ByungKoo Kim (University of Michigan), "Global production sharing and the new demands for deep preferential trade agreements"**
 <br />
-*Moderator:* 
+*Moderator:* Hao Zhang (MIT)
 
 
 **Novemver 7: Sayumi Miyano (Princeton University), "Regime Complexity and Overlapping Information: The Case of Energy Projections"**
@@ -59,12 +59,12 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 
 **November 21: Alex Yeandle (London School of Economics), "Why do ICTs reduce election fraud? Testing a new mechanism in Malawi"**
 <br />
-*Moderator:* 
+*Moderator:* Kathleen J. Brown (Leiden University)
 
 
 **November 28: Hongyi She (University of Rochester), "Learning About Trade"**
 <br />
-*Moderator:* 
+*Moderator:* Zarlasht M. Razeq (McGill University)
  
 
 **December 5: Zenobia Chan (Princeton University), "When can economic inducements buy influence abroad?"**
