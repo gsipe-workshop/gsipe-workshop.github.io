@@ -5,15 +5,12 @@ permalink: /paper/
 author_profile: true
 ---
 
-Coming soon! Stay Tuned!
 
-<!---
 Monday, May 9th:
 
-[Pengshan Pan](https://www.cgm.pitt.edu/people/ant-26) (Pittsburgh), presents:
+[C. Felipe Balcazar](https://cfbalcazar.github.io/) (NYU), presents:
 
-**Title:** ["*Foreign Mining, Labor Welfare and Local Trust: Evidence from Kyrgyzstan Gold Mine*"](https://gsipe-workshop.github.io/files/paper_gsipe_workshop.pdf)
+**Title:** ["*Unions and robots: International competition, automation and the political power of organized labor*"](https://gsipe-workshop.github.io/files/paper_gsipe_workshop.pdf)
 
 **Abstract:**
-There has been controversy over the impact of foreign natural resource investment on worker welfare and host country politics. This paper explores this question by analyzing Kyrgyzstan’s dominant foreign invested gold mine, which accounted for 12.5% of Kyrgyzstan’s GDP in 2020. A key finding is that the economic growth from foreign invested mine undermines the trust of the beneficiary mining industry in local communities. Using geolocated data from household panel surveys in Kyrgyzstan from 2010 to 2016, the study shows Kumtor, this largest foreign mine, offers mining workers better incomes and social benefits. However, Kumtor mining investment creates greater inequality and social division. This study also finds that the emergence of Kumtor is associated to economic grievances of the non-mining sector. Higher corporate earnings or gold prices were associated with lower trust in local leaders by mining workers, but higher trust by manufacturing workers.
---->
+International economic competition has led to the increasing adoption of labor-replacing technology. What are the consequences of this development for the political influence of organized labor? I posit that robots make (skilled) workers more productive, increasing the opportunity cost of rent-seeking behavior via union activities. Consequently, the political influence of organized labor falls in response to robot adoption because unionization declines. I provide evidence for my claims using data from the U.S. (2004-2014) and a shift-share that leverages quasi-exogenous variation in international competition in the exposure to robots, at the congressional district level. An increase in one robot per a thousand workers reduces the likelihood that congresspeople vote with unions' interests by two percentage points. This effect is larger in areas with higher portions of skilled workers, lending support to the hypothesized opportunity-cost mechanism. Reductions in unionization, union activities and in campaign contributions in response to the exposure to robots explain this finding. Using demediation analysis I demonstrate that my findings are driven especially by lower unionization rates and not by the potentially competing effect of robots on unemployment.
