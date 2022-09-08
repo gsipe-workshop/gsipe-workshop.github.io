@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Monday, May 9th:
+Monday, September 12th:
 
 [C. Felipe Balcazar](https://cfbalcazar.github.io/) (NYU), presents:
 
