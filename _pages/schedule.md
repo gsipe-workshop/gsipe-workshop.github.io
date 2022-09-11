@@ -19,12 +19,12 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 
 **September 26: Sabrina Arias (University of Pennsylvania), "Who Sets the Agenda? Diplomatic Capital, Small States, and Legislative Activities in the United Nations"**
 <br />
-*Moderator:* 
+*Moderator:* James Sundquist (Yale University)
 
 
 **October 3: Sojun Park (Princeton University), "The Politics of Compulsory Licensing : Electoral Accountability and Regulatory Threat"**
 <br />
-*Moderator:* 
+*Moderator:* RyuGyung Park (UC Davis)
 
 
 **October 10: Zarlasht M. Razeq (McGill University), "Comprehensive trade agreements, domestic institutions, and GVC integration: firm-level evidence"**
@@ -49,8 +49,8 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 
 **Novemver 7: Sayumi Miyano (Princeton University), "Regime Complexity and Overlapping Information: The Case of Energy Projections"**
 <br />
-*Moderator:* 
-
+*Moderator:* Thomas Flaherty (UCSD)
+ 
 
 **November 14: Thomas Flaherty (UC San Diego), "Geographic Mobility and Globalization Backlash: Evidence from the NAFTA Import Shock and Populist Votes for Ross Perot"**
 <br />
