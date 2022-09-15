@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Monday, September 12th:
+Monday, September 19th:
 
 [Maximiliano Sosa Andrés](https://www.maximilianososa.com/) (Uppsala University), presents:
 
