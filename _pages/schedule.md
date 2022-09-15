@@ -14,7 +14,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 
 **September 19: Maximiliano Sosa Andres (Uppsala University), "Legal uncertainty and its consequences: A natural language processing approach"**
 <br />
-*Moderator:* 
+*Moderator:* Elisa Navarra (Université Libre de Bruxelles)
 
 
 **September 26: Sabrina Arias (University of Pennsylvania), "Who Sets the Agenda? Diplomatic Capital, Small States, and Legislative Activities in the United Nations"**
@@ -74,7 +74,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 
 **December 12: RyuGyung (Rio) Park (UC Davis), "Trading with China, Is It Really a Security Issue?, Causes of Securitization of Trade Among American Public"**
 <br />
-*Moderator:* Sanghyun Han (University of Maryland)
+*Moderator:* Sanghyun Han (Georgia Institute of Technology)
  
  
 
