@@ -54,7 +54,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 
 **November 14: Thomas Flaherty (UC San Diego), "Geographic Mobility and Globalization Backlash: Evidence from the NAFTA Import Shock and Populist Votes for Ross Perot"**
 <br />
-*Moderator:* 
+*Moderator:* Zoe Ge (NYU)
 
 
 **November 21: Alex Yeandle (London School of Economics), "Why do ICTs reduce election fraud? Testing a new mechanism in Malawi"**
@@ -69,7 +69,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 
 **December 5: Zenobia Chan (Princeton University), "When can economic inducements buy influence abroad?"**
 <br />
-*Moderator:* 
+*Moderator:* Kathleen J. Brown (Leiden University)
  
 
 **December 12: RyuGyung (Rio) Park (UC Davis), "Trading with China, Is It Really a Security Issue?, Causes of Securitization of Trade Among American Public"**
