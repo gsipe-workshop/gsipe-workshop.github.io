@@ -34,7 +34,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 
 **October 17: Santiago Cunial (University of Pennsylvania), "Greening the grid under sectoral reforms: the political economy of solar and wind energies in Argentina and Chile"**
 <br />
-*Moderator:* 
+*Moderator:* Cleo O'Brien-Udry (Yale University)
 
 
 **October 24: Hao Zhang (MIT), "Commerce, Coalitions, and Global Value Chains: Evidence from Coordinated and Collective Lobbying"**
