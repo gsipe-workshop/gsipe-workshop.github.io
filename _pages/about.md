@@ -41,9 +41,9 @@ Participants are expected to read the papers before the workshop. Papers will be
 
 *Job Market Talks:*
 
-Political science: 40 min. presentation, 40 min. Q&A.
+Political science: 40 min. presentation, 20 min. substantive questions, & 10 min. stylistic comments. 
 
-Economics: 1 hr. presentation, 20 min. Q&A.
+Economics: 1 hr. presentation (including Q&A), & 10 min. stylistic comments.
 
 
 *Regular Talks:*
