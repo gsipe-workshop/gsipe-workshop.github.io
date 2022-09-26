@@ -6,12 +6,13 @@ author_profile: true
 ---
 
 
-Monday, September 19th:
+Monday, October 3rd:
 
-[Sabrina Arias](https://sabrinabarias.com/) (University of Pennsylvania), presents:
+[Sojun Park](https://www.sojunpark.com/) (Princeton University), presents:
 
 **Title:** ["*The Politics of Compulsory Licensing - Electoral Accountability and Regulatory Threat*"](https://gsipe-workshop.github.io/files/paper_gsipe_workshop.pdf)
 
 **Abstract:**
-Why are some small states---such as Ireland, Costa Rica, and Liechtenstein---effective in shaping the United Nations (UN) agenda, even in the face of powerful states' opposition? I argue that while material power is important in explaining some international organization (IO) politics, individual diplomats play a crucial role as well. States can influence the early stages of policymaking---when agendas are set---with diplomatic capital, a form of social power developed through skilled representation. By focusing on the late stages of policymaking---particularly voting on final resolutions, when it is easier to leverage economic and military resources---I argue that previous studies have overestimated the influence of powerful states. To test these claims, I assemble a dataset of proposed UN General Assembly agenda items and the tenure of all states' ambassadors from 1946-2019, and conduct interviews with diplomats from 49 states. Supporting these expectations, I find that states with greater diplomatic capital---measured by ambassador experience---are more successful at agenda-setting, even after accounting for material power. Consistent with my argument, I find that random shocks to ambassadorial tenure---ambassador deaths---have negative effects on diplomatic capital. These insights challenge our understanding of the relative importance of power and diplomacy in IOs, and more generally the extent to which small states influence international politics.
+A burgeoning literature on private regulation focuses on the initiatives set forth by private actors, leaving unexplained how political institution that they belong to shapes their strategic choice. I argue that whether the public, activists and the like, put pressure on the government for regulation renders government regulation more threatening to firms, leading to more private regulation. Using game theory, I show how democratic states signal their willingness to secure public access to medicines, where both legislators and the executive are put under domestic political pressure. To test its empirical implication, I construct a new dataset on compulsory licensing and examine when pharmaceuticals reach licensing agreements against HIV/AIDS. I find that multinational pharmaceuticals license the drugs more voluntarily when democracies enact laws on compulsory licensing. I also find that democracies enact the laws earlier than autocracies as lawmakers meet the demands of the public by holding the executive accountable for limited access to patented drugs. The results illustrate when "political consumerism" breaks down and delineate conditions under which politicians reflect on voter preferences.
+
 
