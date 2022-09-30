@@ -13,7 +13,7 @@ Information about special events and opportunties can be found here.
 
 ## Previous events:
 
-<a href="https://gsipe-workshop.github.io/files/GSIPE_APSA_2022_program">Pre-Conference Workshop at APSA 2022 (September 14, 2022)</a>
+<a href="https://gsipe-workshop.github.io/files/GSIPE_APSA_2022_program.pdf">Pre-Conference Workshop at APSA 2022 (September 14, 2022)</a>
 
 <a href="https://gsipe-workshop.github.io/files/Environment-conference-program.pdf">Virtual Mini-Conference: International Political Economy of the Environment (May 10, 2022)</a>
 
