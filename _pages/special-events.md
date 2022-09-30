@@ -6,17 +6,14 @@ author_profile: true
 ---
 Information about special events and opportunties can be found here.
 
-- We are excited to announce the program for the Graduate Students in International Political Economy (GSIPE) workshop for APSA 2022! The workshop will take place from 9:00 AM to 4:30 PM (EST) at Palais des congrés de Montréal (room 512A), Montréal, Québec, Canada. **Visit the program <a href="https://gsipe-workshop.github.io/files/GSIPE_APSA_2022_program.pdf">here</a>!** Meanwhile, we will be hosting a **Happy Hour** at Brutopia Brewpub (1219 Crescent St) from 7 pm on Saturday (September 17th). Everyone is welcome! À ta santé (cheers)!
+- We are excited to announce the call for papers for the 5th GSIPE virtual-themed conference on the Concept of Economic Statecraft, which will take place pn **January 11th, 2023**! The call for papers can be found **HERE**<a href="https://gsipe-workshop.github.io/files/CallforPapers_5thminicon.pdf">here</a>. Please submit your abstract through this [link](https://docs.google.com/forms/d/e/1FAIpQLSeT4Tt7F51bknNbCheaHc2-bJ2zXPZXls-vqfDNNpLKKCcJYw/viewform) by **November 5th, 2022** !
 
 
 <hr>
 
 ## Previous events:
 
-
-<!---**
-<a href="https://gsipe-workshop.github.io/files/GSIPE_APSA_2022 program.pdf">Pre-Conference Workshop at APSA (September 14, 2022)</a>
---->
+<a href="https://gsipe-workshop.github.io/files/GSIPE_APSA_2022 program.pdf">Pre-Conference Workshop at APSA 2022 (September 14, 2022)</a>
 
 <a href="https://gsipe-workshop.github.io/files/Environment-conference-program.pdf">Virtual Mini-Conference: International Political Economy of the Environment (May 10, 2022)</a>
 
