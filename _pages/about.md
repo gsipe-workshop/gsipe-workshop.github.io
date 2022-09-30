@@ -33,10 +33,12 @@ Information about special events and opportunties can be found here.
 
 - We welcome our [new team](https://gsipe-workshop.github.io/team/) for GSIPE, starting June 1st.
 
+<!---
+ARCHIVE
 - We are excited to announce a call for submissions for the **GSIPE workshops for Fall 2022**. The deadline for submissions is July 31st, at 11:59pm Eastern Time. More information [here](https://gsipe-workshop.github.io/call-papers/).
 
 - Our activities for the Spring of 2022 have concluded. We thank all participants, moderators and presenters for helping us keep growing GSIPE. Our first events for Fall of 2022 will begin in September. Stay tuned!
-
+--->
 <hr> 
 
 **Workshop format:** 
