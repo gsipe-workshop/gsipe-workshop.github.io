@@ -6,7 +6,7 @@ author_profile: true
 ---
 Information about special events and opportunties can be found here.
 
-- We are excited to announce the call for papers for the 5th GSIPE virtual-themed conference on the Concept of Economic Statecraft, which will take place pn **January 11th, 2023**! The call for papers can be found **HERE**<a href="https://gsipe-workshop.github.io/files/CallforPapers_5thminicon.pdf">here</a>. Please submit your abstract through this [link](https://docs.google.com/forms/d/e/1FAIpQLSeT4Tt7F51bknNbCheaHc2-bJ2zXPZXls-vqfDNNpLKKCcJYw/viewform) by **November 5th, 2022**! We are looking forward to seeing you in the winter!
+- We are excited to announce the call for papers for the 5th GSIPE mini-conference on the Concept of Economic Statecraft, which will take place virtually on **January 11th, 2023**! The call for papers can be found **<a href="https://gsipe-workshop.github.io/files/CallforPapers_5thminicon.pdf">HERE</a>**. Please submit your abstract through this [link](https://docs.google.com/forms/d/e/1FAIpQLSeT4Tt7F51bknNbCheaHc2-bJ2zXPZXls-vqfDNNpLKKCcJYw/viewform) by **November 5th, 2022**! We are looking forward to seeing you in the winter!
 
 
 <hr>
