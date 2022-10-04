@@ -345,7 +345,7 @@ details[open] div {
     <td class="tg-0pky">
 <p style="font-size:20px"><a href = "https://www.zarlashtmrazeq.com"><b>Zarlasht M. Razeq</b></a></p>
     <a href="https://www.zarlashtmrazeq.com">
-    <img src="https://gsipe-workshop.github.io/images/mages/razeq.png" width="300" height="200"
+    <img src="https://gsipe-workshop.github.io/images/razeq.png" width="300" height="200"
     ></a>
   <br />
   <details><summary>BIO</summary><p>Zarlasht is a PhD student at the Department of Political Science, McGill University. Her fields of studies are IPE/IR. More specifically, she is interested in the IPE of trade and development, focusing particularly on GVCs and firms. Her thesis empirically examines the effect of deep trade liberalization on the capacity of developing countries (and their firms) to integrate into global value chains (GVCs). 
