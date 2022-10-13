@@ -32,7 +32,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 *Moderator:* Sujin Cha (University of Michigan)
 
 
-**October 17: Santiago Cunial (University of Pennsylvania), "Greening the grid under sectoral reforms: the political economy of solar and wind energies in Argentina and Chile"**
+**October 17: Zoe Xincheng Ge (New York University), "Empowered by Information: Disease Outbreak Reporting at the World Health Organization"**
 <br />
 *Moderator:* Cleo O'Brien-Udry (Yale University)
 
