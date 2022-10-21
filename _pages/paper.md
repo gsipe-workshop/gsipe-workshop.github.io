@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Monday, October 17th:
+Monday, October 24th:
 
 [Hao Zhang](https://www.haocharliezhang.com/) (Massachusetts Institute of Technology), presents:
 
