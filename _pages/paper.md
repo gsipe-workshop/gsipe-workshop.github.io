@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Monday, October 24th:
+Monday, October 31th:
 
 [ByungKoo](https://www.byungkookim.com/) (University of Michigan), presents:
 
