@@ -8,7 +8,7 @@ author_profile: true
 
 Monday, October 31th:
 
-[ByungKoo](https://www.byungkookim.com/) (University of Michigan), presents:
+[ByungKoo Kim](https://www.byungkookim.com/) (University of Michigan), presents:
 
 **Title:** ["*Global Production Sharing and the New Demands for Deep Preferential Trade Agreements*"](https://gsipe-workshop.github.io/files/paper_gsipe_workshop.pdf)
 
