@@ -8,12 +8,12 @@ author_profile: true
 
 Monday, October 24th:
 
-[Hao Zhang](https://www.haocharliezhang.com/) (Massachusetts Institute of Technology), presents:
+[ByungKoo](https://www.byungkookim.com/) (University of Michigan), presents:
 
-**Title:** ["*Commerce, Coalitions, and Global Value Chains: Evidence from Coordinated and Collective Lobbying*"](https://gsipe-workshop.github.io/files/GSIPE_HaoZhang_1020.pdf)
+**Title:** ["*Global Production Sharing and the New Demands for Deep Preferential Trade Agreements*"](https://gsipe-workshop.github.io/files/paper_gsipe_workshop.pdf)
 
 **Abstract:**
-Global Value Chains (GVCs) have connected firms in increasingly complex networks within and across national borders. However, recent political economy models assume away interdependencies between producers and thus fail to explain pervasive trade coalitions across industries and firms. I argue that linkages through the same foreign partner foster common interests and collective actions among GVC firms. I compile supply chain datasets for all public firms and directly test my theory using network models. I find that US firms with GVC linkages tend to lobby together, hire the same lobbyist, and lobby on the same bill. Furthermore, GVC linkages among lead firms increase collective lobbying through trade as- sociations. Finally, I document the independent effects of GVC coalitions on the network of preferential trade agreements among 62 major economies. These results provide micro- foundations for new coalitional politics under GVCs and challenge the common assumption about industries and firms as isolated actors.
+Why do contemporary trade agreements invest so heavily in controlling a complex and disparate set of non-trade policy areas? In this paper, I argue that the rise of global value chains (GVCs) explains the evolving institutional design of preferential trade agreements (PTAs). GVC-integrated firms, whose cross-border production strategies are highly vulnerable to changes in foreign governments’ regulatory policies, demand deeper commitments in non-trade policy areas. Non-GVC exporters are concerned only with market access and so prefer shallow PTAs; domestic-only firms don’t support PTAs at all. To test this argument, I employ a novel decomposition of global input-output tables which measures the extent of GVC and non-GVC trade integration across countries. I find that the level of GVC-integrated production is positively associated with the level of regulatory policies in PTAs, while non-GVC exporting is only positively associated with market access provisions in PTAs. The paper, therefore, highlights how changes in the structure of global production shape the scope of regulatory commitments in trade agreements.
 
 
 
