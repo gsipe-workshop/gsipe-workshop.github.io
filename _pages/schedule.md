@@ -49,12 +49,12 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 
 **Novemver 7: Sayumi Miyano (Princeton University), "Regime Complexity and Overlapping Information: The Case of Energy Projections"**
 <br />
-*Moderator:* Thomas Flaherty (UCSD)
+*Moderator:* Zoe Ge (NYU)
  
 
 **November 14: Thomas Flaherty (UC San Diego), "Geographic Mobility and Globalization Backlash: Evidence from the NAFTA Import Shock and Populist Votes for Ross Perot"**
 <br />
-*Moderator:* Zoe Ge (NYU)
+*Moderator:* Anthony Calacino (UT Austin)
 
 
 **November 21: Alex Yeandle (London School of Economics), "Why do ICTs reduce election fraud? Testing a new mechanism in Malawi"**
