@@ -55,8 +55,10 @@ Please register using the link.
 
 - Reimbursement (Travel grant)
 
+We offer travel/caregiving grants for up to USD 250 for US residents, and up to USD 500 for residents from other countries. Please indicate if you  require a grant in the submission link.
+
 ## Contact us:
-The Organizing Committee: Oriana Montti, Felipe Balcazar, Elizabeth Meehan, and Elisa Navarra
+The Organizing Committee: Oriana Montti (Brandeis University), Felipe Balcazar (New York University), Elizabeth Meehan (George Washington University), and Elisa Navarra (Université Libre de Bruxelles)
 
 For the Conference questions, please email bostonconferencegsipe@gmail.com.
 
