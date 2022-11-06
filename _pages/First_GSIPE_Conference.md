@@ -52,5 +52,6 @@ Please register using the link.
 
 ## Contact us:
 The Organizing Committee: Oriana Montti, Felipe Balcazar, Elizabeth Meehan, and Elisa Navarra
+
 For the Conference questions, please email bostonconferencegsipe@gmail.com.
 
