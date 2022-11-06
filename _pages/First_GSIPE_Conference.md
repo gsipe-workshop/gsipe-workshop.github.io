@@ -49,6 +49,11 @@ Please register using the link.
 
 ## Conference logistics:
 
+- Conference venue
+
+- Schedule
+
+- Reimbursement (Travel grant)
 
 ## Contact us:
 The Organizing Committee: Oriana Montti, Felipe Balcazar, Elizabeth Meehan, and Elisa Navarra
