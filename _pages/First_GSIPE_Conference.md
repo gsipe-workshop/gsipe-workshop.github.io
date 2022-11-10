@@ -64,5 +64,7 @@ Sponsored by APSA’s Special Projects **<a href="https://connect.apsanet.org/ce
 ## Contact us:
 The Organizing Committee: Oriana Montti (Brandeis University), Felipe Balcazar (New York University), Elizabeth Meehan (George Washington University), and Elisa Navarra (Université Libre de Bruxelles)
 
-For the Conference questions, please email bostonconferencegsipe@gmail.com.
+For the Conference questions, please email [bostonconferencegsipe@gmail.com](bostonconferencegsipe@gmail.com).
+
+
 
