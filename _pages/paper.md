@@ -6,13 +6,12 @@ author_profile: true
 ---
 
 
-Monday, November 7th:
+Monday, November 14th:
 
-[Sayumi Miyano](https://smiyano.com) (Princeton University), presents:
+[Thomas M. Flaherty](https://www.thomasflaherty.com) (UC San Diego), presents:
 
-**Title:** ["*Regime Complexity and Overlapping Information: The Case of Energy Projections*"](https://gsipe-workshop.github.io/files/GSIPE_miyano.pdf)
+**Title:** ["*Geographic Mobility and Globalization Backlash: Evidence from the NAFTA Import Shock and Populist Votes for Ross Perot*"](https://gsipe-workshop.github.io/files/Flaherty_JMP.pdf)
 
 **Abstract:**
-International organizations (IOs) provide critical information for policy making and facilitate international cooperation. Their influence creates incentives for IOs to provide information to secure their own reputation while meeting their policy preferences. What affects IOs’ strategic decisions on which information to provide? I argue that the emergence of competing organizations affects both the quantity and quality of information IOs provide. I theorize that the emergence of a competing IO in the same issue area (e.g., energy policy) can cause existing IOs to release information they would otherwise prefer to withhold about that subject, but only when such information is verifiable, as it leads to the incumbent IO’s motivation to maintain its own reputation. However, competition also creates an incentive for IOs to release unverifiable information that corresponds with their own preferences. Using a novel dataset on publications by major energy organizations between 2000-2017, I find that the entry of a competing IO, the International Renewable Energy Agency (IRENA), shifted the content of the International Energy Agency’s (IEA) publications toward renewable energy despite their longtime expertise in conventional energy sources. Yet, I also find that the creation of IRENA influenced IEA’s published unverifiable information, such as energy projections and policy recommendations, toward the preferences of the United States (the IEA’s major funder). The findings highlight that while IO competition can incentivize more information provision, it also creates incentives for IOs to move toward funding states to meet their demands.
-
+The geographic mobility of citizens significantly influences the political effects of globalization. Within import-shocked regions, immobile voters support anti-trade populism while those who can migrate to globalizing cities favor trade openness. To test this theory, I train a machine learning model on 9.7 million Census observations of actual geographic mobility to predict an individual’s probability of migrating between US commuting zones. I pair this with a panel of voters tracked across the 1992-1996 presidential elections, and a regional import shock from NAFTA between those elections. Among immobile respondents, NAFTA caused a 30 percentage point increase in the probability of voting for the anti-trade populist Ross Perot while mobile voters continued to support mainstream candidates. These patterns are consistent with NAFTA’s effects on respondents’ wages, employment, and trade policy preferences, but not with alternative cultural hypotheses. These findings challenge the growing consensus that economic concerns over trade have only muted political consequences.
 
