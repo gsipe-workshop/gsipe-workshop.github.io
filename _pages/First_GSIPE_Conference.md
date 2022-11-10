@@ -5,7 +5,7 @@ permalink: /special-events/First_conference/
 author_profile: true
 ---
 
-The Graduate Student International Political Economy Workshop (GSIPE) is pleased to announce a call for abstracts for the **First GSIPE Conference on International Economics and Political Economy** to be held in Waltham, Massachusetts, on **February 3-4, 2023**.
+The Graduate Student International Political Economy Workshop (GSIPE) is pleased to announce a call for abstracts for the **First GSIPE Conference on International Economics and Political Economy** to be held at **<a href="https://www.brandeis.edu/">Brandeis University</a>** at Waltham, Massachusetts, on **February 3-4, 2023**.
 
 As part of APSA’s Special Projects Fund, this event is free and travel/caregiving grants will be available for participants. Zoom presentations are also possible.
 
@@ -51,11 +51,15 @@ Please register using the link.
 
 - Conference venue
 
+The Conference will be held at **<a href="https://www.brandeis.edu/university-events/departments/spaces/index.html">Brandeis University</a>**. 
+
 - Schedule
 
-- Reimbursement (Travel grant)
+(Coming soon)
 
-We offer travel/caregiving grants for up to USD 250 for US residents, and up to USD 500 for residents from other countries. Please indicate if you  require a grant in the submission link.
+- Travel grant
+
+Sponsored by APSA’s Special Projects **<a href="https://connect.apsanet.org/centennialcenter/fostering-global-research-networks-among-junior-international-political-economy-and-international-economics-scholars/">Fund</a>**, we offer travel/caregiving grants for up to USD 250 for US residents, and up to USD 500 for residents from other countries. Please indicate if you require a grant in the submission link.
 
 ## Contact us:
 The Organizing Committee: Oriana Montti (Brandeis University), Felipe Balcazar (New York University), Elizabeth Meehan (George Washington University), and Elisa Navarra (Université Libre de Bruxelles)
