@@ -19,6 +19,7 @@ We invite graduate students and faculty from Political Science and Economics wit
 
 Information about special events and opportunties can be found here.
 
+- The call for papers for the **First Conference on International Economics and Political Economy** is out! The conference will be held in Waltham, Massachusetts, on **February 3-4, 2023.** As part of APSA’s Special Projects Fund, this event is free and travel/caregiving grants will be available for participants. More information on the conference, application process, and grant opportunities can be found in the call for papers downloadable **<a href="https://drive.google.com/file/d/1BqOaQ-dXkpcQ8Vl60meiawYXAQN6tYIk/view">HERE</a>**.
 
 - The call for papers for the 5th GSIPE mini-conference on the Concept of Economic Statecraft is out! The conference will take place virtually on **January 11th, 2023**! The call for papers can be found **<a href="https://gsipe-workshop.github.io/files/CallforPapers_5thminicon.pdf">HERE</a>**. Please submit your abstract through this [link](https://docs.google.com/forms/d/e/1FAIpQLSeT4Tt7F51bknNbCheaHc2-bJ2zXPZXls-vqfDNNpLKKCcJYw/viewform) by **November 5th, 2022**! We are looking forward to seeing you in the winter!
 
