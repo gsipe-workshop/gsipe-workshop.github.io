@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 
-Monday, November 14th:
+Monday, November 28th:
+Hongyi She (University of Rochester), presents:
 
-Alex Yeandle (London School of Economics), presents:
-
-**Title:** ["*Mobile Internet, Local Development and the Quality of Elections: Evidence from Rural Malawi*"](https://gsipe-workshop.github.io/files/Malawi_draft_08_11_22.pdf)
+**Title:** Learning About Trade
 
 **Abstract:**
-What explains variation in the quality of elections, and how is this shaped by information technology (ICTs)? Scholars have typically focused on one causal mechanism - falling information and co-ordination costs make it easier to monitor officials, disincentivising malpractice. This paper advances an alternative account. ICT provision drives local economic development, fostering support for the ruling party. For pro-government election officials this reduces the need to behave irregularly, while it incentivises greater malpractice among their pro-opposition counterparts. I test this argument in Malawi, studying how 3G internet coverage affects polling booth outcomes in a contested election. Irregularities reduce in areas dominated by the government but rise in opposition strongholds. In addition, household panel data suggests coverage has developmental effects which drive shifts in incumbent support. The paper recasts ICTs through a materialist framework of technological change, while also contributing to the literature on parties and elections in new democracies more broadly.
+How do Americans form their opinions on international trade? Recent studies have questioned the economic self-interest foundation of trade theories, arguing that citizens are unable to connect their pocketbooks to international trade. This paper shows that, despite widespread misperceptions, the public is able to form accurate beliefs in response to true information about the economic consequences of trade. I conduct a survey experiment on a nationally representative sample of Americans to examine how they learn about sector/education-specific and country-level consequences of the Chinese import shock. I show that respondents rationally update their beliefs about the economic consequences, consistent with Bayesian updating. I illustrate further that information only influences trade policy choices through beliefs. In addition, by accounting for potential individual biases toward trade partners as well as along party and racial lines, I find that biased preferences do not result in biased information processing. Furthermore, I document individual heterogeneity in learning rates by gender, numeracy, and trade knowledge. 
+
 
