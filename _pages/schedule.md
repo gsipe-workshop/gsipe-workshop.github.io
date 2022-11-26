@@ -67,7 +67,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 *Moderator:* Zarlasht M. Razeq (McGill University)
  
 
-**December 5: Zenobia Chan (Princeton University), "When can economic inducements buy influence abroad?"**
+**December 5: Adam Parker (Columbia University), "Union Structure and Labor’s Response to Automation: Evidence From the Postwar United States"**
 <br />
 *Moderator:* Kathleen J. Brown (Leiden University)
  
