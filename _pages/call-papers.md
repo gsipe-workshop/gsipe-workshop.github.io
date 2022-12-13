@@ -22,7 +22,7 @@ Please do not hesitate to contact the organizers with any questions. Please also
 
 Authors interested in presenting will submit a short title, an abstract (up to 250 words), dates for availability, and fill out a form answering the following questions:
 
-- Do you identify as a member of a historically excluded demographic group in political science?
+- Do you identify as a member of a historically excluded demographic group in political science, including gender, race, and ethnicity?
 
 - Have you had the opportunity to present your project at a workshop/seminar at your institution in the past year?
 
@@ -39,7 +39,7 @@ Upon receiving submissions, we will remove author-identifying information (name 
 - Scores will be tabulated and averaged across the three organizers. The highest-scoring submissions will advance to the second stage. 
 
 - In the second stage, we will add weights as a function of the representation- and need-based criteria outlined above. Specifically:
-  - +1 for members of a historically excluded demographic group
+  - +0.5 for members of a historically excluded demographic group
   - +0.5 for individuals presenting versions of their job market papers
   - +0.5 for not having had an opportunity to present at an institutional workshop
   - +0.5 for not having had an opportunity to present at a major conference
