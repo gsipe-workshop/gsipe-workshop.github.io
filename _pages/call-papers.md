@@ -22,7 +22,7 @@ Please do not hesitate to contact the organizers with any questions. Please also
 
 Authors interested in presenting will submit a short title, an abstract (up to 250 words), dates for availability, and fill out a form answering the following questions:
 
-- Do you identify as a member of a historically excluded demographic group in political science, including gender, race, and ethnicity?
+- Do you identify as a member of a historically excluded demographic group in political science, including but not limited to gender, race, and ethnicity?
 
 - Have you had the opportunity to present your project at a workshop/seminar at your institution in the past year?
 
