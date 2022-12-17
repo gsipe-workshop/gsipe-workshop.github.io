@@ -28,7 +28,7 @@ Authors interested in presenting will submit a short title, an abstract (up to 2
 
 - Is your proposed presentation your job market paper?
 
-Upon receiving submissions, we will remove author-identifying information (name and all answers to the above questions) from the abstracts. Each organizer will evaluate the author-blinded abstracts on a 0-5 scale according to the following criteria:
+Upon receiving submissions, we will remove the author-identifying information (name and all answers to the above questions) from the abstracts. Each organizer will evaluate the author-blinded abstracts on a 0-5 scale according to the following criteria:
 
 - **Breadth of appeal**: Does the paper pose a question that will be of interest to a broad cross-section of international political economy and international economics scholars?
 
