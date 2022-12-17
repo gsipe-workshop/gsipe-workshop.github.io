@@ -30,11 +30,11 @@ Authors interested in presenting will submit a short title, an abstract (up to 2
 
 Upon receiving submissions, we will remove author-identifying information (name and all answers to the above questions) from the abstracts. Each organizer will evaluate the author-blinded abstracts on a 0-5 scale according to the following criteria:
 
-- Breadth of appeal: Does the paper pose a question that will be of interest to a broad cross-section of international political economy and international economics scholars?
+- **Breadth of appeal**: Does the paper pose a question that will be of interest to a broad cross-section of international political economy and international economics scholars?
 
-- Originality and creativity: Does the paper propose a new explanation, employ new method, or explore new empirical evidence? Does the paper make us think about a problem in a new light?
+- **Originality and creativity**: Does the paper propose a new explanation, employ new method, or explore new empirical evidence? Does the paper make us think about a problem in a new light?
 
-- Methods and Data: Does the paper employ the appropriate method to answer the research question? Is the method rigorous?
+- **Methods and Data**: Does the paper employ the appropriate method to answer the research question? Is the method rigorous?
 
 Scores will be tabulated and averaged across the three organizers. The highest-scoring submissions will advance to the second stage. In the second stage, we will add weights as a function of the representation- and need-based criteria outlined above. Specifically:
   - +0.5 for members of a historically excluded demographic group
