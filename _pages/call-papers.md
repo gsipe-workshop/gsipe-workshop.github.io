@@ -5,11 +5,9 @@ permalink: /call-papers/
 author_profile: true
 ---
 
-Thanks to all who submitted an abstract for our Fall workshops! Decisions will be sent out soon.
-
 [International political economy (IPE)](https://www.isanet.org/ISA/Sections/IPE) “seeks to advance knowledge of how political institutions, processes, and actors influence economic interactions, and conversely, how economic institutions, processes, and actors affect political interactions. IPE scholars examine the role of domestic drivers in shaping global politics as well as the influence of global drivers on domestic politics. Substantive issues this section focuses on international and regional regimes, private authority structures, welfare policies, social and environmental policies, monetary and exchange rate policies, global integration, international trade, international development and equity, international finance, multinational corporations, NGOs, and corporate social responsibility.''
 
-We welcome submissions in Political Science and Economics ranging from papers in early stages to well-developed manuscripts and anything in between. We encourage submissions for projects that use a wide array of methods, including quantitative, qualitative, and a mixed approach. For Fall 2022, we plan to continue meeting at 12-1pm Eastern Time on a day to be determined. The first workshop will take place in September, and the last one will occur in December.
+We welcome submissions in Political Science and Economics ranging from papers in early stages to well-developed manuscripts and anything in between. We encourage submissions for projects that use a wide array of methods, including quantitative, qualitative, and a mixed approach. For Spring 2023, we plan to continue meeting at 12-1pm Eastern Time on a day to be determined. The first workshop will take place in February, and the last one will occur in May.
 
 Our selection process is guided by the dual objectives of fostering an intellectually engaging workshop for attendees and correcting for systemic inequities in the discipline. Details on the selection process are outlined below. 
 
@@ -32,9 +30,11 @@ Authors interested in presenting will submit a short title, an abstract (up to 2
 
 Upon receiving submissions, we will remove author-identifying information (name and all answers to the above questions) from the abstracts. Each organizer will evaluate the author-blinded abstracts on a 0-5 scale according to the following criteria:
 
-- Breadth of appeal and conduciveness to discussion: Does the paper pose a question that will be of interest to a broad cross-section of international political economy scholars, and that will prompt an engaging and productive conversation among participants?
+- Breadth of appeal: Does the paper pose a question that will be of interest to a broad cross-section of international political economy and international economics scholars?
 
-- Originality and creativity: Does the paper pose a novel question, or does it make us think about a problem in a new light?
+- Originality and creativity: Does the paper propose a new explanation, employ new method, or explore new empirical evidence? Does the paper make us think about a problem in a new light?
+
+- Methods and Data: Does the paper employ the appropriate method to answer the research question? Is the method rigorous?
 
 - Scores will be tabulated and averaged across the three organizers. The highest-scoring submissions will advance to the second stage. 
 
