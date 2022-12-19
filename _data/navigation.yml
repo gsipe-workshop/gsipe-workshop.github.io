@@ -3,9 +3,6 @@ main:
 
   - title: "Paper"
     url: /paper/
-
-  - title: "Schedule"
-    url: /schedule/
     
   - title: "Call for Papers"
     url: /call-papers/
