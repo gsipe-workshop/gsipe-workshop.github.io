@@ -34,7 +34,10 @@ The conference's purpose is to showcase research at the intersection of Internat
 
 
 ## Format:
-(coming soon)
+
+Presentations will last 30 minutes each. We invite the speakers to prepare their presentations so that they fit within this time. PDF format is preferred for the supporting slides.
+
+Virtual presentations: We understand that some presenters will not be able to make the trip to Brandeis to present, mainly due to financial or political restrictions, or environmental reasons. We have therefore instituted a virtual presentation system to allow the authors of accepted papers the same publication opportunities as regular presenters. Virtual presentations will follow the same format as those in person.
 
 ## Abstract submission:
 
@@ -55,11 +58,11 @@ The Conference will be held at **<a href="https://www.brandeis.edu/university-ev
 
 - Schedule
 
-(Coming soon)
+The event will go from 9 am on Friday 3rd of February 2023 to Saturday 4th of February afternoon. A conference apero will take place on Friday evening. The detailed schedule will be made available very soon.
 
 - Travel grant
 
-Sponsored by APSA’s Special Projects **<a href="https://connect.apsanet.org/centennialcenter/fostering-global-research-networks-among-junior-international-political-economy-and-international-economics-scholars/">Fund</a>**, we offer travel/caregiving grants for up to USD 250 for US residents, and up to USD 500 for residents from other countries. Please indicate if you require a grant in the submission link.
+Sponsored by APSA’s Special Projects **<a href="https://connect.apsanet.org/centennialcenter/fostering-global-research-networks-among-junior-international-political-economy-and-international-economics-scholars/">Fund</a>**, we offer travel/caregiving grants for up to USD 250 for US residents, and up to USD 500 for residents from other countries. 
 
 ## Contact us:
 The Organizing Committee: Oriana Montti (Brandeis University), Felipe Balcazar (New York University), Elizabeth Meehan (George Washington University), and Elisa Navarra (Université Libre de Bruxelles)
