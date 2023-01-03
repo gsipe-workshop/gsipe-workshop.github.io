@@ -22,7 +22,7 @@ Please submit your abstract [here](https://forms.gle/Urzb7okhv9E7jPTh8) by **Jan
 
 - Our activities for the Fall of 2022 have concluded. We thank all participants, moderators and presenters for helping us keep growing GSIPE. Our first events for Spring of 2023 will begin in February. Stay tuned!
 
-- The **First Conference on International Economics and Political Economy** is approaching! The conference will be held in Waltham, Massachusetts, on **February 3-4, 2023.** As part of APSA’s Special Projects Fund, this event is free and travel/caregiving grants will be available for participants. Have a look at the conference dedicated webpage for more information on the conference **<a href="[https://drive.google.com/file/d/1BqOaQ-dXkpcQ8Vl60meiawYXAQN6tYIk/view](https://gsipe-workshop.github.io/special-events/First_conference/)">HERE</a>**.
+- The **First Conference on International Economics and Political Economy** is approaching! The conference will be held in Waltham, Massachusetts, on **February 3-4, 2023.** As part of APSA’s Special Projects Fund, this event is free and travel/caregiving grants will be available for participants. For more information on the conference have a look at the dedicated [webpage](First_GSIPE_Conference.md).
 
 - The 5th GSIPE mini-conference on the Concept of Economic Statecraft will take place virtually on **January 11th, 2023**! We are looking forward to seeing you soon!
 
