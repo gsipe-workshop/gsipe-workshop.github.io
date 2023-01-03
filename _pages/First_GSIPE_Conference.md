@@ -30,7 +30,7 @@ The conference's purpose is to showcase research at the intersection of Internat
 - Inequality
 - Migration
 
-(Program coming soon)
+(Detailed program coming soon)
 
 
 ## Format:
@@ -39,16 +39,6 @@ Presentations will last 30 minutes each. We invite the speakers to prepare their
 
 Virtual presentations: We understand that some presenters will not be able to make the trip to Brandeis to present, mainly due to financial or political restrictions, or environmental reasons. We have therefore instituted a virtual presentation system to allow the authors of accepted papers the same publication opportunities as regular presenters. Virtual presentations will follow the same format as those in person.
 
-## Abstract submission:
-
-Submit your abstracts, written in English, due to November 22 2022, using this **<a href="https://docs.google.com/forms/d/e/1FAIpQLScZREeHNsCpmpD8D-E49rkHi_HWfPPCP_1MKd7K15TEsG8ToQ/viewform?vc=0&c=0&w=1&flr=0">link</a>** (word limit: 300).
-
-More information on the conference, application process, and grant opportunities can be found in the call for papers downloadable **<a href="https://drive.google.com/file/d/1BqOaQ-dXkpcQ8Vl60meiawYXAQN6tYIk/view">here</a>**.
-
-
-## Registration:
-
-Please register using the link.
 
 ## Conference logistics:
 
@@ -58,7 +48,7 @@ The Conference will be held at **<a href="https://www.brandeis.edu/university-ev
 
 - Schedule
 
-The event will go from 9 am on Friday 3rd of February 2023 to Saturday 4th of February afternoon. A conference apero will take place on Friday evening. The detailed schedule will be made available very soon.
+The event will go from 9 am on Friday 3rd of February 2023 to Saturday 4th of February afternoon. A conference apéro will take place on Friday evening. The detailed schedule will be made available very soon.
 
 - Travel grant
 
