@@ -18,7 +18,7 @@ We invite graduate students and faculty from Political Science and Economics wit
 *News:*
 
 - We are excited to announce the call for papers for the **GSIPE workshop series for Spring 2023**. 
-Please submit your abstract [here](https://forms.gle/Urzb7okhv9E7jPTh8) by **January 8th, at 11:59pm Eastern Time**. More information [here](https://gsipe-workshop.github.io/call-papers/).
+Please submit your abstract [here](https://forms.gle/Urzb7okhv9E7jPTh8) by **January 15th, at 11:59pm Eastern Time**. More information [here](https://gsipe-workshop.github.io/call-papers/).
 
 - Our activities for the Fall of 2022 have concluded. We thank all participants, moderators and presenters for helping us keep growing GSIPE. Our first events for Spring of 2023 will begin in February. Stay tuned!
 
