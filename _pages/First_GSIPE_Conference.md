@@ -12,7 +12,7 @@ As part of APSA’s Special Projects Fund, this event is free and travel/caregiv
 GSIPE aims to provide a venue for graduate students to present their work and receive peer feedback, network, and build community. For this conference, we invite graduate students and postdocs from Economics and Political Science to submit their research, job market papers are especially encouraged. We particularly welcome submissions from scholars who are underrepresented in these fields.
 
 
-## Topics and Program:
+## Topics:
 
 The conference's purpose is to showcase research at the intersection of International Economics and Political Economy, broadly defined. Some specific topics that may be of interest but are not limited to these are:
 
@@ -33,6 +33,11 @@ The conference's purpose is to showcase research at the intersection of Internat
 (Detailed program coming soon)
 
 
+## Schedule:
+
+Please find the detailed schedule of the conference **<a href="https://docs.google.com/document/d/1nxRW7blARmbILprGoLcZUxKmLu0kBkvIwBVQBpcD15I/edit?usp=sharing
+">here</a>**.
+
 ## Format:
 
 Presentations will last 30 minutes each. We invite the speakers to prepare their presentations so that they fit within this time. PDF format is preferred for the supporting slides.
@@ -46,9 +51,10 @@ Virtual presentations: We understand that some presenters will not be able to ma
 
 The Conference will be held at **<a href="https://www.brandeis.edu/university-events/departments/spaces/index.html">Brandeis University</a>**. 
 
-- Schedule
+How to get to **<a href="https://www.brandeis.edu/about/visiting/directions.html">Brandeis University</a>**.
 
-The event will go from 9 am on Friday 3rd of February 2023 to Saturday 4th of February afternoon. A conference apéro will take place on Friday evening. The detailed schedule will be made available very soon.
+Brandeis **<a href="https://www.brandeis.edu/about/visiting/map.html#">Campus Map</a>**.
+
 
 - Travel grant
 
