@@ -17,14 +17,12 @@ We invite graduate students and faculty from Political Science and Economics wit
 
 *News:*
 
+- The **First Conference on International Economics and Political Economy** is approaching! The conference will be held in Waltham, Massachusetts, on **February 3-4, 2023.** As part of APSA’s Special Projects Fund, this event is free and travel/caregiving grants will be available for participants. For more information on the conference program and logistics have a look at the dedicated [webpage](First_GSIPE_Conference.md).
+
 - We are excited to announce the call for papers for the **GSIPE workshop series for Spring 2023**. 
 Please submit your abstract [here](https://forms.gle/Urzb7okhv9E7jPTh8) by **January 15th, at 11:59pm Eastern Time**. More information [here](https://gsipe-workshop.github.io/call-papers/).
 
 - Our activities for the Fall of 2022 have concluded. We thank all participants, moderators and presenters for helping us keep growing GSIPE. Our first events for Spring of 2023 will begin in February. Stay tuned!
-
-- The **First Conference on International Economics and Political Economy** is approaching! The conference will be held in Waltham, Massachusetts, on **February 3-4, 2023.** As part of APSA’s Special Projects Fund, this event is free and travel/caregiving grants will be available for participants. For more information on the conference have a look at the dedicated [webpage](First_GSIPE_Conference.md).
-
-- The 5th GSIPE mini-conference on the Concept of Economic Statecraft will take place virtually on **January 11th, 2023**! We are looking forward to seeing you soon!
 
 - The past, present, and future about GSIPE: ["Less Stress, More Confidence": Supporting Junior Scholars Online at the Graduate Student International Political Economy Workshop](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/less-stress-more-confidence-supporting-junior-scholars-online-at-the-graduate-student-international-political-economy-workshop/A175F2AE8EC397F9EE967623D48B9BD5) by our founders [Alexander Kirss](https://www.alexanderkirss.com/), [Paul Ilhak Ko](https://sites.google.com/view/paulko/home), and [Cleo O'Brien-Udry](https://cobrienudry.github.io/) is published in *PS: Political Science & Politics*.
 
