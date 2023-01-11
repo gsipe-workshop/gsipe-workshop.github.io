@@ -30,13 +30,9 @@ The conference's purpose is to showcase research at the intersection of Internat
 - Inequality
 - Migration
 
-(Detailed program coming soon)
-
-
 ## Schedule:
 
-Please find the detailed schedule of the conference **<a href="https://docs.google.com/document/d/1nxRW7blARmbILprGoLcZUxKmLu0kBkvIwBVQBpcD15I/edit?usp=sharing
-">here</a>**.
+Please find the detailed schedule of the conference **<a href="https://drive.google.com/file/d/1fmta7_UzJUqRhYYVZpWYA-_ty2ZfJpmg/view?usp=sharing">here</a>**.
 
 ## Format:
 
