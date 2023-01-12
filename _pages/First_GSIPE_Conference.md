@@ -11,7 +11,7 @@ As part of APSA’s Special Projects Fund, this event is free and travel/caregiv
 
 GSIPE aims to provide a venue for graduate students to present their work and receive peer feedback, network, and build community. For this conference, we invited graduate students and postdocs from Economics and Political Science to submit their research (job market papers were especially encouraged). We particularly welcomed submissions from scholars who are underrepresented in these fields. 
 
-The conference's purpose is to showcase research at the intersection of International Economics and Political Economy, broadly defined. Some specific topics that will be present are: Climate and Energy, International Finance and Development, Dependence and Value Chains, International Development, and Trade Policy.
+The conference's purpose is to showcase research at the intersection of International Economics and Political Economy, broadly defined. Some specific topics will be: Climate and Energy, International Finance and Development, Dependence and Value Chains, International Development, and Trade Policy.
 
 ## Schedule:
 
