@@ -26,9 +26,13 @@ Virtual presentations: We understand that some presenters will not be able to ma
 
 ## Conference logistics:
 
-- Conference venue
+- Conference location
 
 The Conference will be held at **<a href="https://www.brandeis.edu/university-events/departments/spaces/index.html">Brandeis University</a>**. 
+
+Conference venue: Hassenfeld Conference Center, Geller Conference Room
+
+
 
 How to get to **<a href="https://www.brandeis.edu/about/visiting/directions.html">Brandeis University</a>**.
 
