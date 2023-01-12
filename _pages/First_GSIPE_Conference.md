@@ -56,10 +56,15 @@ Brandeis **<a href="https://www.brandeis.edu/about/visiting/map.html#">Campus Ma
 
 Sponsored by APSA’s Special Projects **<a href="https://connect.apsanet.org/centennialcenter/fostering-global-research-networks-among-junior-international-political-economy-and-international-economics-scholars/">Fund</a>**, we offer travel/caregiving grants for up to USD 250 for US residents, and up to USD 500 for residents from other countries. 
 
+- Covid information
+
+Currently Brandeis **<a href="https://www.brandeis.edu/covid-19/index.html#green">campus status</a>** with regard to COVID is green. 
+ 
+
 ## Contact us:
 The Organizing Committee: Oriana Montti (Brandeis University), Felipe Balcazar (New York University), Elizabeth Meehan (George Washington University), and Elisa Navarra (Université Libre de Bruxelles)
 
-For the Conference questions, please email [bostonconferencegsipe@gmail.com](bostonconferencegsipe@gmail.com).
+For the Conference questions and acceptance certificates, please email [bostonconferencegsipe@gmail.com](bostonconferencegsipe@gmail.com).
 
 
 
