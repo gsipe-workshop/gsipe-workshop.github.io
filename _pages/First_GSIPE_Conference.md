@@ -5,30 +5,13 @@ permalink: /special-events/First_conference/
 author_profile: true
 ---
 
-The Graduate Student International Political Economy Workshop (GSIPE) is pleased to announce a call for abstracts for the **First GSIPE Conference on International Economics and Political Economy** to be held at **<a href="https://www.brandeis.edu/">Brandeis University</a>** at Waltham, Massachusetts, on **February 3-4, 2023**.
+The Graduate Student International Political Economy Workshop (GSIPE) is pleased to announce the **First GSIPE Conference on International Economics and Political Economy** to be held at **<a href="https://www.brandeis.edu/">Brandeis University</a>** at Waltham, Massachusetts, on **February 3-4, 2023**.
 
 As part of APSA’s Special Projects Fund, this event is free and travel/caregiving grants will be available for participants. Zoom presentations are also possible.
 
-GSIPE aims to provide a venue for graduate students to present their work and receive peer feedback, network, and build community. For this conference, we invite graduate students and postdocs from Economics and Political Science to submit their research, job market papers are especially encouraged. We particularly welcome submissions from scholars who are underrepresented in these fields.
+GSIPE aims to provide a venue for graduate students to present their work and receive peer feedback, network, and build community. For this conference, we invited graduate students and postdocs from Economics and Political Science to submit their research (job market papers were especially encouraged). We particularly welcomed submissions from scholars who are underrepresented in these fields. 
 
-
-## Topics:
-
-The conference's purpose is to showcase research at the intersection of International Economics and Political Economy, broadly defined. Some specific topics that may be of interest but are not limited to these are:
-
-- International Trade
-- Global Integration
-- International Development
-- International Finance
-- Multinational Corporations and FDI
-- Global Taxation
-- Tariffs and Protectionism
-- Global Value Chains
-- International Organizations
-- Global Health
-- Social and Environmental Policies
-- Inequality
-- Migration
+The conference's purpose is to showcase research at the intersection of International Economics and Political Economy, broadly defined. Some specific topics that will be present are: Climate and Energy, International Finance and Development, Dependence and Value Chains, International Development, and Trade Policy.
 
 ## Schedule:
 
