@@ -19,7 +19,7 @@ Please find the detailed schedule of the conference **<a href="https://drive.goo
 
 ## Format:
 
-Presentations will last 30 minutes each. We invite the speakers to prepare their presentations so that they fit within this time. PDF format is preferred for the supporting slides.
+Presentations will last 30 minutes each (20 min. presentaion + 10 min. Q&A). We invite the speakers to prepare their presentations so that they fit within this time. PDF format is preferred for the supporting slides.
 
 Virtual presentations: We understand that some presenters will not be able to make the trip to Brandeis to present, mainly due to financial or political restrictions, or environmental reasons. We have therefore instituted a virtual presentation system to allow the authors of accepted papers the same publication opportunities as regular presenters. Virtual presentations will follow the same format as those in person.
 
