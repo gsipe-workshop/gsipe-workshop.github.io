@@ -15,7 +15,9 @@ The conference's purpose is to showcase research at the intersection of Internat
 
 ## Schedule:
 
-Please find the detailed schedule of the conference **<a href="https://drive.google.com/file/d/1fmta7_UzJUqRhYYVZpWYA-_ty2ZfJpmg/view?usp=sharing">here</a>**.
+The Conference will run from Friday February 3rd, 8:40 am to Saturday February 4th, 1.30 pm.
+
+Please find the detailed schedule of the conference **<a href="https://drive.google.com/file/d/1NvkBAPI6P2TMqEUA5KTvn1XONu4r8CFd/view?usp=share_link">here</a>**.
 
 ## Format:
 
