@@ -27,6 +27,8 @@ Presentations will last 30 minutes each (20 min. presentaion + 10 min. Q&A). We 
 
 Virtual presentations: We understand that some presenters will not be able to make the trip to Brandeis to present, mainly due to financial or political restrictions, or environmental reasons. We have therefore instituted a virtual presentation system to allow the authors of accepted papers the same publication opportunities as regular presenters. Virtual presentations will follow the same format as those in person.
 
+Please find the Zoom link for remote access  **<a href="https://gwu-edu.zoom.us/j/95185615884?pwd=Mko4KzJkUU9TaWhiT2c3WTZRMFBSZz09">here</a>**
+
 
 ## Conference logistics:
 
