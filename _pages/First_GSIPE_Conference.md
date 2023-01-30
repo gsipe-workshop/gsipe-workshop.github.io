@@ -52,6 +52,8 @@ Sponsored by APSA’s Special Projects **<a href="https://connect.apsanet.org/ce
 - Covid information
 
 Currently Brandeis **<a href="https://www.brandeis.edu/covid-19/index.html#green">campus status</a>** with regard to COVID is green. 
+
+Complete vaccination is required to foreigners entering the US (find more info **<a href="https://www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html#:~:text=Before%20boarding%20a%20flight%20to,in%20the%20past%2090%20days">here</a>**.
  
 
 ## Contact us:
