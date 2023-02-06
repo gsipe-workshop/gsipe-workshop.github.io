@@ -6,10 +6,6 @@ author_profile: true
 ---
 Information about special events and opportunties can be found here.
 
-- We are excited to announce the program for the 5th GSIPE mini-conference on the Concept of Economic Statecraft, which will take place virtually on **January 11th, 2023**! The program can be found **<a href="https://gsipe-workshop.github.io/files/GSIPE_miniconference2022.pdf">HERE</a>**. Please find the Zoom link to each panel in the program. We are very looking forward to seeing you all soon! 
-
-- We are pleased to announce our **First Conference on International Economics and Political Economy** to be held in Waltham, Massachusetts, on **February 3-4, 2023**. As part of APSA’s Special Projects Fund, this event is free and travel/caregiving grants will be available for participants. More information on the conference, application process, and grant opportunities can be found in the call for papers downloadable **<a href="https://drive.google.com/file/d/1BqOaQ-dXkpcQ8Vl60meiawYXAQN6tYIk/view">HERE</a>**. Do not miss this great opportunity and submit your abstracts due to **November 22, 2022**, using this [link](https://docs.google.com/forms/d/e/1FAIpQLScZREeHNsCpmpD8D-E49rkHi_HWfPPCP_1MKd7K15TEsG8ToQ/viewform?vc=0&c=0&w=1&flr=0). For more details, please visit the Conference [webpage](First_GSIPE_Conference.md).
-
 
 
 
