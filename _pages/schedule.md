@@ -45,7 +45,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 
 **April 24: Enrico Cavallotti (Trinity College Dublin), "Green Collars at the Polling: Booth The Occupational Dimension of Green Voting (joint with Italo Colantone, Piero Stanig, Francesco Vona)"**
 <br />
-*Moderator:* Felipe Balcazar (New York University)
+*Moderator:* 
 
 **May 1: Si Cheng (ESSEC Business School), "Policing the World? Effect of U.S. Anti-Corruption Enforcement Actions on Non-Targeted Firms"**
 <br />
