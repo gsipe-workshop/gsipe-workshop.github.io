@@ -17,7 +17,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 
 **February 27: Alessandro Pizzigolotto (Norwegian School of Economics (NHH)), "Credit Shocks and Populism"**
 <br />
-*Moderator:* Felipe Balcazar (New York University)
+*Moderator:* 
 
 **March 6: Nihan Nur Akhan (European University Institute), "Patent Ownership, Trade and Lobbying"**
 <br />
@@ -25,7 +25,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 
 **March 13: Flavia Cifarelli (University of Geneva), "Under the Spotlight: CSR Choices and Fragile Supply Chains"**
 <br />
-*Moderator:* 
+*Moderator:* Felipe Balcazar (New York University)
 
 **March 27: Justin Melnick (New York University), "Why Exit from International Agreements? A Domestic Perspective"**
 <br />
