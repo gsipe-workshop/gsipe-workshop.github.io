@@ -17,7 +17,7 @@ We invite graduate students and faculty from Political Science and Economics wit
 
 *News:*
 
-- We are excited to announce our [Spring 2023 Workshop lineup](https://gsipe-workshop.github.io/schedule/)! Our first workshop starts on February 13!
+- We are excited to announce our [Spring 2023 Workshop lineup](https://gsipe-workshop.github.io/schedule/)! Our first workshop starts on February 13! We are looking forward to seeing you all!
 
 - The **First Conference on International Economics and Political Economy** is approaching! The conference will be held in Waltham, Massachusetts, on **February 3-4, 2023.** As part of APSA’s Special Projects Fund, this event is free and travel/caregiving grants will be available for participants. For more information on the conference program and logistics have a look at the dedicated [webpage](First_GSIPE_Conference.md).
 
