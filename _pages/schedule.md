@@ -19,7 +19,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 <br />
 *Moderator:* 
 
-**March 6: Nihan Nur Akhan (European University Institute), "Patent ownership, trade and lobbying"**
+**March 6: Nihan Nur Akhan (European University Institute), "Patent Ownership, Trade and Lobbying"**
 <br />
 *Moderator:* Sojun Park (Princeton University)
 
@@ -47,7 +47,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 <br />
 *Moderator:* Felipe Balcazar (New York University)
 
-**May 1: Si Cheng (ESSEC Business School), "Policing the world? Effect of U.S. Anti-Corruption Enforcement Actions on Non-Targeted Firms"**
+**May 1: Si Cheng (ESSEC Business School), "Policing the World? Effect of U.S. Anti-Corruption Enforcement Actions on Non-Targeted Firms"**
 <br />
 *Moderator:* Michael Allen (Yale University)
 
