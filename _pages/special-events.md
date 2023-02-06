@@ -17,6 +17,10 @@ Information about special events and opportunties can be found here.
 
 ## Previous events:
 
+<a href="https://gsipe-workshop.github.io/files/Brandeis2023.pdf">First Conference on International Economics and Political Economy (February 3-4, 2023)</a>
+
+<a href="https://gsipe-workshop.github.io/files/miniconference_jan2023.pdf">5th Virtual Mini-Conference: Concept of Economic Statecraft (January 11, 2023)</a>
+
 <a href="https://gsipe-workshop.github.io/files/GSIPE_APSA_2022_program.pdf">Pre-Conference Workshop at APSA 2022 (September 14, 2022)</a>
 
 <a href="https://gsipe-workshop.github.io/files/Environment-conference-program.pdf">Virtual Mini-Conference: International Political Economy of the Environment (May 10, 2022)</a>
