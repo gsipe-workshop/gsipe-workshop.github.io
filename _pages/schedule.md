@@ -9,39 +9,51 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 
 **February 13: Michael Allen (Yale University), "Unbundling the State: Legal Development in an Era of Global, Private Governance"**
 <br />
+*Moderator:* Zoe Ge (New York University)
 
 **February 20: Sojun Park (Princeton University), "Innovation, Imitation, and Political Cleavages in International Trade and Patent Protection"**
 <br />
+*Moderator:* Cansu Isler (Brandeis International Business School)
 
 **February 27: Alessandro Pizzigolotto (Norwegian School of Economics (NHH)), "Credit Shocks and Populism"**
 <br />
+*Moderator:* 
 
 **March 6: Nihan Nur Akhan (European University Institute), "Patent ownership, trade and lobbying"**
 <br />
+*Moderator:* Sojun Park (Princeton University)
 
 **March 13: Flavia Cifarelli (University of Geneva), "Under the Spotlight: CSR Choices and Fragile Supply Chains"**
 <br />
+*Moderator:* 
 
 **March 27: Justin Melnick (New York University), "Why Exit from International Agreements? A Domestic Perspective"**
 <br />
+*Moderator:* Frederik Heitmüller (Leiden University)
 
 **April 3: Rachel Hulvey (University of Pennsylvania), "Uniting or Polarizing the Nations? A Signaling Theory of Attraction to China's Vision of Order"**
 <br />
+*Moderator:* Sanghyun Han (Georgia Institute of Technology)
 
 **April 11 (Tuesday): Lucie Lu (University of Illinois at Urbana-Champaign), "Strategic Shaming: Evidence from China Shaping International Human Rights Regime"**
 <br />
+*Moderator:* 
 
 **April 17: Ye June Jung (University of California, San Diego), "When Essential Elements become less Essential in EU Trade: The Lisbon Treaty and Changes in Institutional Power and Interests"**
 <br /> 
+*Moderator:* 
 
 **April 24: Enrico Cavallotti (Trinity College Dublin), "Green Collars at the Polling: Booth The Occupational Dimension of Green Voting (joint with Italo Colantone, Piero Stanig, Francesco Vona)"**
 <br />
+*Moderator:* Felipe Balcazar (New York University)
 
 **May 1: Si Cheng (ESSEC Business School), "Policing the world? Effect of U.S. Anti-Corruption Enforcement Actions on Non-Targeted Firms"**
 <br />
+*Moderator:* Michael Allen (Yale University)
 
 **May 8: Nicola Nones (University of Virginia), "The PIIGS Acronym as a Heuristic Device during the European Sovereign Bond Crisis"**
 <br />
+*Moderator:* 
  
 
 <!---**
