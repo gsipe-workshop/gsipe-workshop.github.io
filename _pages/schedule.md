@@ -43,7 +43,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 <br /> 
 *Moderator:* 
 
-**April 24: Enrico Cavallotti (Trinity College Dublin), "Green Collars at the Polling: Booth The Occupational Dimension of Green Voting (joint with Italo Colantone, Piero Stanig, Francesco Vona)"**
+**April 24: Enrico Cavallotti (Trinity College Dublin), "Green Collars at the Polling Booth: the Occupational Dimension of Green Voting (joint with Italo Colantone, Piero Stanig, Francesco Vona)"**
 <br />
 *Moderator:* Hao Zhang (Massachusetts Institute of Technology)
 
