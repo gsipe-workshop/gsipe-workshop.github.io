@@ -6,14 +6,12 @@ author_profile: true
 ---
 
 
-Monday, Dec 12th:
-RyuGyung (Rio) Park (UC Davis), presents:
+Monday, Feb 13th:
+Michael Allen (Yale University), presents:
 
-**Title:** **<a href="https://gsipe-workshop.github.io/files/221204_securitization of trade_gsipe.pdf">Trading with China, Is It Really a Security Issue?</a>**
+**Title:** **<a href="https://gsipe-workshop.github.io/files/MAllen-unbundling-20230206.pdf">Unbundling the State: Legal Development in an Era of Global, Private Governance</a>**
 
 **Abstract:**
-Not even ten years ago, the then-US President Barack Obama and Chinese leader Xi Jinping proclaimed a potential start of a "new model of relations between great powers" at the Sunnylands Estate in California, and the pacifying effect of trade seemed ever more convincing. However, the sunny weather rapidly started to change after Donald Trump succeeded as the US President in 2016. Amidst threats and self-accolades, the Trump administration launched a trade 'war' against China. Although there has not been an exchange of gunshots, the US-China relation is far from being 'peaceful', including the trade area. Security terminology such as 'war', 'attack', and 'arms race' has been dominating the discussion around the bilateral economic relation. The general public seems to share this hostility and suspicion towards China.
-
-This study aims to explore this phenomenon more deeply: When do Americans think of international trade as a national security issue rather than just as an economic issue? Is securitization of trade unique to the US-China trade relation? We first explore the different potential sources of securitization of trade: elite cues, institutional linkage, decreasing power gap between the US and China, and spillover effect of personal economic security. We then examine whether the securitization of trade is dependent on the trade partner, as well as subjects' foreign policy dispositional characteristics. Our initial results suggest that the power gap cue is the most powerful source of securitization, but just mentioning negative economic aspects of trade can trigger securitization of trade even for a benign ally, such as Canada.
+What happens to a public, domestic institution when its authority is delegated to a privately-run, transnational institution? In this article, I first present a theoretical framework for understanding how governmental tasks that have traditionally been "bundled" together in state institutions become "unbundled" and outsourced to private bodies. I apply this framework to international commercial arbitration (ICA), a widely-used system of cross-border commercial dispute resolution. I argue that ICA provides commercial actors an "exit option" from weak public institutions, thereby reducing pressure on the state to invest in capacity-enhancing reform. Using a variety of difference-in-differences estimators, I demonstrate that the enactment of strong protections for ICA leads to the gradual erosion of the quality of local legal institutions, particularly in countries with already weak legal systems. I test the underlying mechanism driving this dynamic using dispute data from the International Chamber of Commerce. I find that pro-arbitration laws increase the use of international arbitration by national firms. I find no evidence, however, that such laws increase the number of arbitrations that take place within a given jurisdiction and would therefore be subject to domestic oversight. This suggests that firms use ICA as an escape from domestic institutions. This paper contributes to debates on globalization and development as well as burgeoning work on the second-order effects of global governance institutions.
 
 
