@@ -17,7 +17,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 
 **February 27: Alessandro Pizzigolotto (Norwegian School of Economics (NHH)), "Credit Shocks and Populism"**
 <br />
-*Moderator:* 
+*Moderator:* Ilaria Natali (Tolouse School of Economics)
 
 **March 6: Nihan Nur Akhan (European University Institute), "Patent Ownership, Trade and Lobbying"**
 <br />
