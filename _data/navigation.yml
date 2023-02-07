@@ -4,8 +4,8 @@ main:
   - title: "Paper"
     url: /paper/
     
-  - title: "Call for Papers"
-    url: /call-papers/
+ # - title: "Call for Papers"
+ #   url: /call-papers/
     
   - title: "Schedule"
     url: /schedule/
