@@ -5,61 +5,30 @@ permalink: /special-events/First_conference/
 author_profile: true
 ---
 
-The Graduate Student International Political Economy Workshop (GSIPE) is pleased to announce the **First GSIPE Conference on International Economics and Political Economy** to be held at **<a href="https://www.brandeis.edu/">Brandeis University</a>** at Waltham, Massachusetts, on **February 3-4, 2023**.
+The **First GSIPE Conference on International Economics and Political Economy** was held **<a href="https://www.brandeis.edu/">Brandeis University</a>** at Waltham, Massachusetts, on **February 3-4, 2023**.
 
-As part of APSA’s Special Projects Fund, this event is free and travel/caregiving grants will be available for participants. Zoom presentations are also possible.
+The Conference took place at **<a href="https://www.brandeis.edu/university-events/departments/spaces/index.html">Brandeis University</a>**, at the Hassenfeld Conference Center (Geller Conference Room).
+
+As part of APSA’s Special Projects Fund, the event was free and travel/caregiving grants were made available for participants. To achieve broad participation and accomodate the need of the participants, from both the Americas and Europe, the event took place in hybrid mode.
 
 GSIPE aims to provide a venue for graduate students to present their work and receive peer feedback, network, and build community. For this conference, we invited graduate students and postdocs from Economics and Political Science to submit their research (job market papers were especially encouraged). We particularly welcomed submissions from scholars who are underrepresented in these fields. 
 
-The conference's purpose is to showcase research at the intersection of International Economics and Political Economy, broadly defined. Some specific topics will be: Climate and Energy, International Finance and Development, Dependence and Value Chains, International Development, and Trade Policy.
+The conference's purpose was to showcase research at the intersection of International Economics and Political Economy, broadly defined. Some specific topics were Climate and Energy, International Finance and Development, Dependence and Value Chains, International Development, and Trade Policy.
 
-## Schedule:
+## Schedule and papers:
+The Conference run from Friday February 3rd, 8:40 am to Saturday February 4th, 1.30 pm.
 
-The Conference will run from Friday February 3rd, 8:40 am to Saturday February 4th, 1.30 pm.
+The detailed schedule of the conference with the links to the papers can be found **<a href="https://docs.google.com/document/d/1TR1VSA4R5aPBWz2_xpCQN__VH4v_gw7c/edit?usp=share_link&ouid=114674813691337108093&rtpof=true&sd=true">here</a>**. 
 
-Please find the detailed schedule of the conference **<a href="https://docs.google.com/document/d/1TR1VSA4R5aPBWz2_xpCQN__VH4v_gw7c/edit?usp=share_link&ouid=114674813691337108093&rtpof=true&sd=true">here</a>**.
+## Travel grant:
+Sponsored by APSA’s Special Projects **<a href="https://connect.apsanet.org/centennialcenter/fostering-global-research-networks-among-junior-international-political-economy-and-international-economics-scholars/">Fund</a>**, we offered travel/caregiving grants for up to USD 250 for US residents, and up to USD 500 for residents from other countries. 
 
-The links to the papers are in the program.
-
-## Format:
-
-Presentations will last 30 minutes each (20 min. presentaion + 10 min. Q&A). We invite the speakers to prepare their presentations so that they fit within this time. PDF format is preferred for the supporting slides.
-
-Virtual presentations: We understand that some presenters will not be able to make the trip to Brandeis to present, mainly due to financial or political restrictions, or environmental reasons. We have therefore instituted a virtual presentation system to allow the authors of accepted papers the same publication opportunities as regular presenters. Virtual presentations will follow the same format as those in person.
-
-Please find the Zoom link for remote access  **<a href="https://gwu-edu.zoom.us/j/95185615884?pwd=Mko4KzJkUU9TaWhiT2c3WTZRMFBSZz09">here</a>**
-
-
-## Conference logistics:
-
-- Conference location
-
-The Conference will be held at **<a href="https://www.brandeis.edu/university-events/departments/spaces/index.html">Brandeis University</a>**. 
-
-Conference venue: Hassenfeld Conference Center, Geller Conference Room
-
-
-
-How to get to **<a href="https://www.brandeis.edu/about/visiting/directions.html">Brandeis University</a>**.
-
-Brandeis **<a href="https://www.brandeis.edu/about/visiting/map.html#">Campus Map</a>**.
-
-
-- Travel grant
-
-Sponsored by APSA’s Special Projects **<a href="https://connect.apsanet.org/centennialcenter/fostering-global-research-networks-among-junior-international-political-economy-and-international-economics-scholars/">Fund</a>**, we offer travel/caregiving grants for up to USD 250 for US residents, and up to USD 500 for residents from other countries. 
-
-- Covid information
-
-Currently Brandeis **<a href="https://www.brandeis.edu/covid-19/index.html#green">campus status</a>** with regard to COVID is green. 
-
-Complete vaccination is required to foreigners entering the US (find more info **<a href="https://www.cdc.gov/coronavirus/2019-ncov/travelers/international-travel-during-covid19.html#:~:text=Before%20boarding%20a%20flight%20to,in%20the%20past%2090%20days">here</a>**).
- 
+For the questions about the reimbursements and grants please email [bostonconferencegsipe@gmail.com](bostonconferencegsipe@gmail.com).
 
 ## Contact us:
 The Organizing Committee: Oriana Montti (Brandeis University), Felipe Balcazar (New York University), Elizabeth Meehan (George Washington University), and Elisa Navarra (Université Libre de Bruxelles)
 
-For the Conference questions and acceptance certificates, please email [bostonconferencegsipe@gmail.com](bostonconferencegsipe@gmail.com).
+For the Conference questions and certificates please email [bostonconferencegsipe@gmail.com](bostonconferencegsipe@gmail.com).
 
 
 
