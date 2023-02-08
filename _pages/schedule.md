@@ -57,7 +57,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
  
 **May 15: Melisa Perut (University of California, Irvine), "Green Government Procurements Through the Lens of Foreign Direct Investment and Environmental Performance"**
 <br />
-*Moderator:* Rio RyuGyung Park (University of California, Davis)
+*Moderator:* RyuGyung (Rio) Park (University of California, Davis)
 
 
 <!---**
