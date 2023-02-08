@@ -13,7 +13,7 @@ Information about special events and opportunties can be found here.
 
 ## Previous events:
 
-<a href="https://gsipe-workshop.github.io/files/Brandeis2023.pdf">First Conference on International Economics and Political Economy (February 3-4, 2023)</a>: <a href="https://gsipe-workshop.github.io/special-events/First_conference/">website</a>
+<a href="https://gsipe-workshop.github.io/special-events/First_conference/">First Conference on International Economics and Political Economy (February 3-4, 2023)</a>
 
 <a href="https://gsipe-workshop.github.io/files/miniconference_jan2023.pdf">Virtual Mini-Conference: Concept of Economic Statecraft (January 11, 2023)</a>
 
