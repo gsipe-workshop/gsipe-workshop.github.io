@@ -41,7 +41,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 
 **April 17: Ye June Jung (University of California, San Diego), "When Essential Elements become less Essential in EU Trade: The Lisbon Treaty and Changes in Institutional Power and Interests"**
 <br /> 
-*Moderator:* 
+*Moderator:* Lucie Lu (University of Illinois at Urbana-Champaign)
 
 **April 24: Enrico Cavallotti (Trinity College Dublin), "Green Collars at the Polling Booth: the Occupational Dimension of Green Voting (joint with Italo Colantone, Piero Stanig, Francesco Vona)"**
 <br />
@@ -53,7 +53,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 
 **May 8: Nicola Nones (University of Virginia), "The PIIGS Acronym as a Heuristic Device during the European Sovereign Bond Crisis"**
 <br />
-*Moderator:* 
+*Moderator:* So Jeong Noh (New York University)
  
 **May 15: Melisa Perut (University of California, Irvine), "Green Government Procurements Through the Lens of Foreign Direct Investment and Environmental Performance"**
 <br />
