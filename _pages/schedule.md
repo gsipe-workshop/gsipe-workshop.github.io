@@ -37,7 +37,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 
 **April 11 (Tuesday): Lucie Lu (University of Illinois at Urbana-Champaign), "Strategic Shaming: Evidence from China Shaping International Human Rights Regime"**
 <br />
-*Moderator:* 
+*Moderator:* Hao Zhang (Massachusetts Institute of Technology)
 
 **April 17: Ye June Jung (University of California, San Diego), "When Essential Elements become less Essential in EU Trade: The Lisbon Treaty and Changes in Institutional Power and Interests"**
 <br /> 
@@ -45,7 +45,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 
 **April 24: Enrico Cavallotti (Trinity College Dublin), "Green Collars at the Polling Booth: the Occupational Dimension of Green Voting (joint with Italo Colantone, Piero Stanig, Francesco Vona)"**
 <br />
-*Moderator:* Hao Zhang (Massachusetts Institute of Technology)
+*Moderator:* 
 
 **May 1: Si Cheng (ESSEC Business School), "Policing the World? Effect of U.S. Anti-Corruption Enforcement Actions on Non-Targeted Firms"**
 <br />
