@@ -32,6 +32,9 @@ For the Conference questions and certificates please email [bostonconferencegsip
 
 ## Nostalgic vibes:
 
+Find some pics from the conference highlights **<a href="https://drive.google.com/drive/folders/14CMR2mIzbCqcllfqgDsXmRgwTb6NyfE3?usp=share_link">here</a>**!
+
+
 
 
 
