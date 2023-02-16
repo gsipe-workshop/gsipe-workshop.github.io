@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 
-Monday, Feb 13th:
-Michael Allen (Yale University), presents:
+Monday, Feb 20th:
+Sojun Park (Princeton University), presents:
 
-**Title:** **<a href="https://gsipe-workshop.github.io/files/MAllen-unbundling-20230206.pdf">Unbundling the State: Legal Development in an Era of Global, Private Governance</a>**
+**Title:** **<a href="https://gsipe-workshop.github.io/files/imitation (Sojun Park, 02.20.23).pdf">Innovation, Imitation, and Political Cleavages in International Trade and Patent Protection</a>**
 
 **Abstract:**
-What happens to a public, domestic institution when its authority is delegated to a privately-run, transnational institution? In this article, I first present a theoretical framework for understanding how governmental tasks that have traditionally been "bundled" together in state institutions become "unbundled" and outsourced to private bodies. I apply this framework to international commercial arbitration (ICA), a widely-used system of cross-border commercial dispute resolution. I argue that ICA provides commercial actors an "exit option" from weak public institutions, thereby reducing pressure on the state to invest in capacity-enhancing reform. Using a variety of difference-in-differences estimators, I demonstrate that the enactment of strong protections for ICA leads to the gradual erosion of the quality of local legal institutions, particularly in countries with already weak legal systems. I test the underlying mechanism driving this dynamic using dispute data from the International Chamber of Commerce. I find that pro-arbitration laws increase the use of international arbitration by national firms. I find no evidence, however, that such laws increase the number of arbitrations that take place within a given jurisdiction and would therefore be subject to domestic oversight. This suggests that firms use ICA as an escape from domestic institutions. This paper contributes to debates on globalization and development as well as burgeoning work on the second-order effects of global governance institutions.
+The distributional consequences of intra-industry trade are well documented in the literature, yet exporting firms shape trade policy in their favor. How? I argue that exporters expect higher returns from lobbying when they face more intense import competition. I introduce a model of international patent protection, where patent holders influence the policy making process. In the equilibrium, companies whose exports are prone to reverse engineering by import-competing firms due to their long product lifetime seek strong patent protection by home government. To test the theory, I measure product cycles, using millions of patent citations, and collect lobbying reports filed on US trade agreements on patent protection, signed after the Doha Round. I find that US patent holders who manufacture products with long life-cycles lobbied the congress more to ratify the US trade agreements. This tendency becomes more pronounced as the agreements adopt higher standards of patent protection. The findings illustrate how the winners maintain the status quo in international trade.
 
 
