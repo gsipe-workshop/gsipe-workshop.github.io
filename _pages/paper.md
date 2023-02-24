@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Monday, Feb 20th:
+Monday, Feb 27th:
 Alessandro Pizzigolott (Norwegian School of Economics), presents:
 
 **Title:** **<a href="https://gsipe-workshop.github.io/files/Credit Shocks and Populism.pdf">Credit Shocks and Populism</a>**
