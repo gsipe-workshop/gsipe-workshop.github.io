@@ -312,7 +312,6 @@ details[open] div {
   </td>
      </tr>
     </thead>
-</table>
 
 <hr>
 
