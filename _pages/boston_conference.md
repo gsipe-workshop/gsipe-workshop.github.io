@@ -134,13 +134,6 @@ details[open] div {
   </td>
                 </tr>
 </thead>
-  
-  
-  
-  
-  
-  
-  
 <thead>
     <tr>
             <td class="tg-0pky">
