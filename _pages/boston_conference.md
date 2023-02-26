@@ -127,7 +127,6 @@ details[open] div {
   <br />
   </td>
       <td class="tg-0pky">
-    <a href="">
     <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0368.jpg" width="300" height="300"
     >
   <br />
@@ -143,7 +142,6 @@ details[open] div {
 
   </td>
       <td class="tg-0pky">
-    <a href="">
     <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_7738.JPG" width="300" height="300"
     >
   <br />
