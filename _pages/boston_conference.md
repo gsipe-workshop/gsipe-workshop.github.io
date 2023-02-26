@@ -122,13 +122,13 @@ details[open] div {
   <thead>
     <tr>
             <td class="tg-0pky">
-    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0295.JPG" width="300" height="300"
+    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0295.jpg" width="300" height="300"
     >
   <br />
   </td>
       <td class="tg-0pky">
     <a href="">
-    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0368.JPG" width="300" height="300"
+    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0368.jpg" width="300" height="300"
     >
   <br />
   </td>
@@ -271,7 +271,7 @@ details[open] div {
   </td>
 
         <td class="tg-0pky">
-    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0274.JPG" width="300" height="300"
+    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0274.jpg" width="300" height="300"
     >
   <br />
 </td> 
@@ -283,13 +283,13 @@ details[open] div {
 
             
    <td class="tg-0pky">
-    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0281.JPG" width="300" height="300"
+    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0281.jpg" width="300" height="300"
     >
   <br />
   </td>
          
     <td class="tg-0pky">
-    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0290.JPG" width="300" height="300"
+    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0290.jpg" width="300" height="300"
     >
   <br />
  </td>
@@ -299,14 +299,14 @@ details[open] div {
   <tr>  
     
     <td class="tg-0pky">
-    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0314.JPG" width="300" height="200"
+    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0314.jpg" width="300" height="200"
     >
   <br />
  </td>
     
     
    <td class="tg-0pky">
-    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0332.JPG" width="300" height="300"
+    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0332.jpg" width="300" height="300"
     >
   <br />
   </td>
