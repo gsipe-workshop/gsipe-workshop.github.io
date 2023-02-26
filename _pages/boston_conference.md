@@ -122,18 +122,15 @@ details[open] div {
   <thead>
     <tr>
             <td class="tg-0pky">
-    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0295.HEIC" width="300" height="300"
-    ></a>
+    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0295.JPG" width="300" height="300"
+    >
   <br />
-    </p>
-  </details>
   </td>
       <td class="tg-0pky">
     <a href="">
-    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0368.HEIC" width="300" height="300"
-    ></a>
+    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0368.JPG" width="300" height="300"
+    >
   <br />
-  </details>
   </td>
                 </tr>
 </thead>
@@ -148,17 +145,15 @@ details[open] div {
     <tr>
             <td class="tg-0pky">
     <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_7731.JPG" width="300" height="300"
-    ></a>
+    >
   <br />
-    </p>
-  </details>
+
   </td>
       <td class="tg-0pky">
     <a href="">
     <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_7738.JPG" width="300" height="300"
-    ></a>
+    >
   <br />
-  </details>
   </td>
                 </tr>
 </thead>
@@ -166,15 +161,13 @@ details[open] div {
   <tr>
       <td class="tg-0pky">
     <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_7742.JPG" width="300" height="300"
-    ></a>
+    >
   <br />
-  </details>
   </td>
      <td class="tg-0pky">
     <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_7744.JPG" width="300" height="300"
-    ></a>
+    >
   <br />
-  </details> 
   </td>
               </tr>
 </thead>
@@ -182,16 +175,15 @@ details[open] div {
   <tr>
       <td class="tg-0pky">
     <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_7746.JPG" width="300" height="300"
-    ></a>
+    >
   <br />
-  </details> 
   </td>
              
     <td class="tg-0pky">
     <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_7748.JPG" width="300" height="300"
-    ></a>
+    >
   <br />
-  </details> 
+ 
   </td>
             </tr>
 </thead>
@@ -199,18 +191,17 @@ details[open] div {
   <tr>
     <td class="tg-0pky">
     <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_7750.JPG" width="300" height="300"
-    ></a>
+    >
   <br />
-  </details>
   </td>
   
   
     
         <td class="tg-0pky">
     <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_7757.JPG" width="300" height="300"
-    ></a>
+    >
   <br />
-  </details> </td> 
+ </td> 
       </tr>
 </thead>
 <thead>
@@ -219,16 +210,16 @@ details[open] div {
 
     <td class="tg-0pky">
     <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_7759.JPG" width="300" height="300"
-    ></a>
+    >
   <br />
-  </details> </td>
+ </td>
     
     
         <td class="tg-0pky">
     <img src="https://gsipe-workshop.github.iofiles/Boston_Conference/IMG_7764.JPG" width="300" height="300"
-    ></a>
+    >
   <br />
-  </details> </td> 
+ </td> 
       </tr>
 </thead>
 <thead>
@@ -239,15 +230,15 @@ details[open] div {
      
     <td class="tg-0pky">
     <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_7781.JPG" width="300" height="300"
-    ></a>
+    >
   <br />
-  </details> </td>
+  </td>
            
      <td class="tg-0pky">
     <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_7785.JPG" width="300" height="300"
-    ></a>
+    >
   <br />
-  </details> </td> 
+   </td> 
       </tr>
 </thead>
 <thead>
@@ -258,33 +249,32 @@ details[open] div {
     
     <td class="tg-0pky">
     <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_7786.JPG" width="300" height="300"
-    ></a>
+    >
   <br />
-  </details> </td>
+  </td>
            
     <td class="tg-0pky">
     <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_7762.JPG" width="300" height="300"
-    ></a>
+    >
   <br />
-</p>
-  </details> </td>
+
+  </td>
                 </tr>
 </thead>
 <thead>
   <tr>                
      <td class="tg-0pky">
     <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_7756.JPG" width="300" height="300"
-    ></a>
+    >
   <br />
 
-  </details>
   </td>
 
         <td class="tg-0pky">
-    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0274.HEIC" width="300" height="300"
-    ></a>
+    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0274.JPG" width="300" height="300"
+    >
   <br />
-  </details> </td> 
+</td> 
       </tr>
 </thead>
 <thead>
@@ -293,36 +283,32 @@ details[open] div {
 
             
    <td class="tg-0pky">
-    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0281.HEIC" width="300" height="300"
-    ></a>
+    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0281.JPG" width="300" height="300"
+    >
   <br />
-  </details> 
   </td>
          
     <td class="tg-0pky">
-    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0290.HEIC" width="300" height="300"
-    ></a>
+    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0290.JPG" width="300" height="300"
+    >
   <br />
- </p>
-  </details> </td>
+ </td>
                </tr>
 </thead>
 <thead>
   <tr>  
     
     <td class="tg-0pky">
-    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0314.HEIC" width="300" height="200"
-    ></a>
+    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0314.JPG" width="300" height="200"
+    >
   <br />
- </p>
-  </details> </td>
+ </td>
     
     
    <td class="tg-0pky">
-    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0332.HEIC" width="300" height="300"
-    ></a>
+    <img src="https://gsipe-workshop.github.io/files/Boston_Conference/IMG_0332.JPG" width="300" height="300"
+    >
   <br />
-  </details> 
   </td>
      </tr>
     </thead>
