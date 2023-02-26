@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Photo Gallery"
+title: "Moments of the First GSIPE Conference"
 permalink: /boston_conference/
 toc: true
 toc_label: "conference tags"
