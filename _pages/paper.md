@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 
-Monday, Feb 27th:
-Alessandro Pizzigolott (Norwegian School of Economics), presents:
+Monday, March 6th:
+Nihan N. Akhan (European University Institute), presents:
 
-**Title:** **<a href="https://gsipe-workshop.github.io/files/Credit Shocks and Populism.pdf">Credit Shocks and Populism</a>**
+**Title:** **<a href="https://gsipe-workshop.github.io/files/Nihan_Akhan_GSIPE.pdf">Patent ownership, trade and lobbying</a>**
 
 **Abstract:**
 
-This paper shows that credit shocks are an important determinant of the recent rise of populism. Exploiting spatial variation in exposure to an exogenous lending cut by a large German bank in 2007–08, we find that exposure to the credit shock leads to a persistent increase in populist political preferences. To explore the shift in demand for populism activated by the shock, we measure the degree of populist rhetoric and the salience of bank-related topics to each partver time using a machine learning technique on the corpus of parliamentary speeches in Germany. A county-level analysis suggests that the underlying mechanism lies in the perceived decay of the local economy across voters that stems from the credit shock. A machine learning decomposition of the individual causal effects indicates that labour market history is the most important factor shaping the response in populist preferences.
+This paper argues that patent ownership is an important determinant of trade related lobbying and it examines the engagement of firms in lobbying on intellectual property rights when they are exposed to trade shocks. By using the data of publicly listed firms and firm level federal lobbying reports in the US, I first show that patent-owner firms dominate trade lobbying. In addition, by investigating the impact of the China shock on lobbying related to intellectual property rights, I demonstrate that firms are more engaged in lobbying on intellectual property rights (IPR) when they are exposed to trade shocks. Using the identification strategy of Autor et al. (2013), I establish a causal link between import penetration from China and IPR lobbying. Findings suggest that firms increase their lobbying on intellectual property rights as a response to the import penetration from China. Results also highlight the heterogeneous impact on lobbying. Finally, at the industry level, this paper links trade lobbying to trade-related regulations.
 
