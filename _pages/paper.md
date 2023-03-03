@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 
-Monday, March 6th:
-Nihan N. Akhan (European University Institute), presents:
+Monday, March 6th
+
+Nihan N. Akhan (European University Institute)
 
 **Title:** **<a href="https://gsipe-workshop.github.io/files/Nihan_Akhan_GSIPE.pdf">Patent ownership, trade and lobbying</a>**
 
