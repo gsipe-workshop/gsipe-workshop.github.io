@@ -66,6 +66,4 @@ Economics: 45 min. presentation, 15 min. Q&A.
 
 <hr> 
 
-Sign up for the GSIPE listserv below:
-<a id='mailing'></a>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSchPiSnzvfFOjDoaA3oMfrRgykj7gCSgmxhOitP4bUb4VdlrQ/viewform?embedded=true" width="640" height="594" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+Subscribe to GSIPE by joining our [Google Group](https://groups.google.com/u/0/g/gradipe). 
