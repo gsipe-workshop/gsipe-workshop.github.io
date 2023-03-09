@@ -6,13 +6,12 @@ author_profile: true
 ---
 
 
-Monday, March 6th
+Monday, March 13th
 
-Nihan N. Akhan (European University Institute)
+Flavia Cifarelli (University of Geneva)
 
-**Title:** **<a href="https://gsipe-workshop.github.io/files/Nihan_Akhan_GSIPE.pdf">Patent ownership, trade and lobbying</a>**
+**Title:** **<a href="https://gsipe-workshop.github.io/files/Nihan_Akhan_GSIPE.pdf">Under the Spotlight: CSR Choices and Fragile Supply Chains</a>** (coauthored with Elisa Navarra (Université Libre de Bruxelles))
 
 **Abstract:**
 
-This paper argues that patent ownership is an important determinant of trade related lobbying and it examines the engagement of firms in lobbying on intellectual property rights when they are exposed to trade shocks. By using the data of publicly listed firms and firm level federal lobbying reports in the US, I first show that patent-owner firms dominate trade lobbying. In addition, by investigating the impact of the China shock on lobbying related to intellectual property rights, I demonstrate that firms are more engaged in lobbying on intellectual property rights (IPR) when they are exposed to trade shocks. Using the identification strategy of Autor et al. (2013), I establish a causal link between import penetration from China and IPR lobbying. Findings suggest that firms increase their lobbying on intellectual property rights as a response to the import penetration from China. Results also highlight the heterogeneous impact on lobbying. Finally, at the industry level, this paper links trade lobbying to trade-related regulations.
-
+With the rise in the interest of civil society for ensuring the respect of social, working, and environmental standards, importing firms are left with the burden of verifying the respect of standards from their suppliers from different countries, to ultimately avoid being subject to boycotts. In this project, we study the firm’s trade-off in choosing its number of suppliers, to build a more resilient supply chain, and whether to monitor them or not, to secure itself against the possibility of a boycott. In modelling the firm’s decision, we focus on the interaction between the firm’s supply preferences (i.e. the number of suppliers on which the firm relies), the monitoring choice, and how these decisions change with the possibility of a boycott by an attentive society. We provide some empirical evidence in support of the theoretical predictions of the model, using sector-level import data, combined with data on child labour incidence, and NGO campaigns. This study contributes to the policy debate by helping public policy and local governments in understanding where to act to limit the legislative void and create a more reliable, equitable and sustainable economic environment.
