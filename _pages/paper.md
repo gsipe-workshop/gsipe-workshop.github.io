@@ -10,7 +10,7 @@ Monday, March 13th
 
 Flavia Cifarelli (University of Geneva)
 
-**Title:** **<a href="https://gsipe-workshop.github.io/files/Cifarelli_Navarra_2023.pdf">Under the Spotlight: CSR Choices and Fragile Supply Chains</a>** (coauthored with Elisa Navarra (Université Libre de Bruxelles))
+**Title:** **<a href="https://gsipe-workshop.github.io/files/Cifarelli_Navarra_2023.pdf">Under the Spotlight: Corporate Social Responsibility Choices and Fragile Supply Chains</a>** [co-authored with Elisa Navarra (Université Libre de Bruxelles)]
 
 **Abstract:**
 
