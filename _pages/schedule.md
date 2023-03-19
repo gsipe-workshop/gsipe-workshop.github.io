@@ -29,7 +29,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 
 **March 27: Justin Melnick (New York University), "Why Exit from International Agreements? A Domestic Perspective"**
 <br />
-*Moderator:* Frederik Heitmüller (Leiden University)
+*Moderator:* Elisa Navarra (Université de Bruxelles)
 
 **April 3: Rachel Hulvey (University of Pennsylvania), "Uniting or Polarizing the Nations? A Signaling Theory of Attraction to China's Vision of Order"**
 <br />
