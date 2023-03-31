@@ -6,12 +6,14 @@ author_profile: true
 ---
 
 
-Monday, March 27th
+Monday, April 3rd
 
-Justin Melnick (New York University)
+Rachel Hulvey (University of Pennsylvania)
 
-**Title:** **<a href="https://gsipe-workshop.github.io/files/melnick_exit_3-17.pdf">Why Exit from International Agreements? A Domestic Perspective</a>** 
+**Title:** **<a href="https://gsipe-workshop.github.io/files/Hulvey_China_Polarization.pdf">Polarizing the United Nations: China’s Rise and the Dimensions of Ideological Change</a>** 
 
 **Abstract:**
 
-Across developed democracies, electoral candidates increasingly promote platforms rejecting international cooperation or are willing to withdraw from international agreements. Voters too seem increasingly willing to support such candidates. What explains this backlash, and withdrawal from international agreements in particular? I argue that high costs of policymaking, or policy incompetence, lead to a status quo bias when designing transfers, generating redistributive frictions. Rather than maintain the globalized status quo with insufficient levels of redistribution, incompetent leaders can propose exit. Exit emerges in equilibrium because incompetent candidates cannot credibly promise to offset the damages incurred by globalization losers with redistributive policy. The inequality between globalization "winners" and "losers" serves as an important moderating variable: compensation becomes politically infeasible as inequality grows because greater redistribution from winners to losers is needed. Rising inequality increases the likelihood of exit and subsequently makes redistribution from winners to losers more politically costly.
+Rather than overturning the liberal order or maintaining the status quo, China pursues more subtle strategies of
+ideological change that rest on persuasion and “discourse power.” This research explores change through China’s
+motivation to reshape the information order governing the internet from a liberal to statist ideology. To institutionalize and lock in change, China pursues rhetorical strategies designed to convince and persuade. By developing a theory of ideological persuasion, I speculate that China’s message of cyber sovereignty is widely attractive, but China’s leadership creates polarization between liberal and non-liberal states. By building an original corpus of texts from prominent cybersecurity negotiations at the United Nations and conducting an elite experiment with diplomats, I test the degree and causes of support for a statist ideology. Text analysis uncovers widespread ideological polarization, and the experiment identifies the cause. China’s leadership, rather than the values of the statist order, creates liberal backlash while maintaining the support of non-liberal states. This research concludes with a discussion of the implications of polarization. Given many liberal institutional designs favor a majority, polarization may not be enough to hold China back from institutionalizing ideological shifts.
