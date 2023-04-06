@@ -6,14 +6,12 @@ author_profile: true
 ---
 
 
-Monday, April 3rd
+Monday, April 10th
 
-Rachel Hulvey (University of Pennsylvania)
+Lucie Lu (University of Illinois at Urbana-Champaign)
 
-**Title:** **<a href="https://gsipe-workshop.github.io/files/Hulvey_China_Polarization.pdf">Polarizing the United Nations: China’s Rise and the Dimensions of Ideological Change</a>** 
+**Title:** **<a href="https://gsipe-workshop.github.io/files/GSIPE_Lu_04052023.pdf">Be My Friendly Reviewers: How China Shapes the International Human Rights Regime</a>** 
 
 **Abstract:**
 
-Rather than overturning the liberal order or maintaining the status quo, China pursues more subtle strategies of
-ideological change that rest on persuasion and “discourse power.” This research explores change through China’s
-motivation to reshape the information order governing the internet from a liberal to statist ideology. To institutionalize and lock in change, China pursues rhetorical strategies designed to convince and persuade. By developing a theory of ideological persuasion, I speculate that China’s message of cyber sovereignty is widely attractive, but China’s leadership creates polarization between liberal and non-liberal states. By building an original corpus of texts from prominent cybersecurity negotiations at the United Nations and conducting an elite experiment with diplomats, I test the degree and causes of support for a statist ideology. Text analysis uncovers widespread ideological polarization, and the experiment identifies the cause. China’s leadership, rather than the values of the statist order, creates liberal backlash while maintaining the support of non-liberal states. This research concludes with a discussion of the implications of polarization. Given many liberal institutional designs favor a majority, polarization may not be enough to hold China back from institutionalizing ideological shifts.
+Research to date has shown that the international human rights regime is politicized. Despite claiming to uphold the normative standard, states tend to review their allies' human rights records less harshly than those of their adversaries. I argue that the politicized human rights regime is a product of the major powers exploiting the review system. How can a major power like China improve its standing in the international human rights regime without improving its domestic compliance record? I demonstrate that China, a major power with little intention to comply with liberal-based norms, can use economic rewards to influence reviews of its human rights record, thus bypassing the human rights norms underlying the international monitoring system. By leveraging the time lags between sessions of the UN Universal Periodic Review, a recurring human rights monitoring institution, I show that China uses economic rewards to stimulate lenient reviews of its own record. After receiving development projects and debt relief, countries tend to be more lenient in their reviews of China's human rights record. In contrast with the conventional wisdom that the authoritarian power's hands are tied in a liberal norm-based regime, the Global South is more receptive to China's voices in the human rights regime than expected.
