@@ -17,6 +17,12 @@ We invite graduate students and faculty from Political Science and Economics wit
 
 *News:*
 
+- We are calling for **GSIPE leadership (2023-2024)*]**! If you want to make GSIPE prosper, please fill in the [survey](https://docs.google.com/forms/d/e/1FAIpQLScziHBWCKf2pjIOB5z_e-8W4_-DWtpxhaD3tYMKtjy5lHhsag/viewform?usp=sf_link) by May 31, 2023!
+
+- We thrilled to announce our **APSA 2023 Pre-Conference Workshop**, to be held on August 30! Please submit your abstract through this [link](https://docs.google.com/forms/d/e/1FAIpQLSd_xbKKdhLg5fVsps4GjXDLtEk4a56bf12jPVpwzSb63Wlv2A/viewform?usp=sf_link) by May 31, 2023!
+
+- Please join our upcoming virtual **Professional Development Workshop** on April 28, 2023 at 10 am (ET)! The registration link is [here](https://docs.google.com/forms/d/e/1FAIpQLSdcz63t5oxZechQE5WWGjcqWLy58Za7sRRP_CPVAHuGVlkdBw/viewform)!
+
 - We are excited to announce our [Spring 2023 Workshop lineup](https://gsipe-workshop.github.io/schedule/)! Our first workshop starts on February 13! We are looking forward to seeing you all!
 
 - The **First Conference on International Economics and Political Economy** is approaching! The conference will be held in Waltham, Massachusetts, on **February 3-4, 2023.** As part of APSA’s Special Projects Fund, this event is free and travel/caregiving grants will be available for participants. For more information on the conference program and logistics have a look at the dedicated [webpage](First_GSIPE_Conference.md).
