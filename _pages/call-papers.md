@@ -13,8 +13,9 @@ Our selection process is guided by the dual objectives of fostering an intellect
 
 Please do not hesitate to contact the organizers with any questions. Please also feel free to circulate this call for papers to anyone who may be interested and direct them to the GSIPE website to sign up for our listserv. 
 
+<! --- 
 Submission [link](https://docs.google.com/forms/d/e/1FAIpQLSd_q0YalmHqbvRRI7rrDeOD5nEFHMzEZsJC4I_VenrhQTBSbw/viewform) 
-
+-- >
 
 <hr> 
 
