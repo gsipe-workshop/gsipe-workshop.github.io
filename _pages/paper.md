@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 
-Monday, April 24th
+Monday, May 1st
 
-Enrico Cavallotti (Trinity College Dublin)
+Si Cheng (ESSEC Business School)
 
-**Title: Green Collars at the Voting Booth: Material Interest and Environmentalist Voting** 
+**Title: Policing the world? Effect of U.S. Anti-Corruption Enforcement Actions on Non-Targeted Firms** 
 
 **Abstract:**
 
-Can the transition toward a "greener" economy achieve sufficient support in the electorate to ensure it is politically sustainable? We study how preferences for environmental policy and electoral support for environmental platforms are affected by how one's skills are expected to be demanded in a greener economy. The starting point is that environmental concern and support for green policies can be affected by more direct economic concerns among voters. We rely on individual European Social Survey data over two decades in 15 European countries, combined with scores of "greenness" and "brownness" for occupations that capture how demanded or penalized an occupation can be due to the ecological transition. We provide evidence on how economic self-interest shapes support for environmental policy, for Green parties, and for parties with pro-environment policy platform. To infer causality, we use historical data from the European Labor Force Survey and construct out-of-sample probabilities of being employed in a green job to isolate exogenous variation in green employment. We find that individuals that might benefit from the ecological transition vote more for environmentalist and Green parties, while the opposite holds for people more at risk on the labor market.
+Firms regularly encounter pressure to engage in corrupt practices in their operations around the world. To deter such behavior, some countries adopted international anti-bribery conventions that monitor and penalize actions of home country firms in foreign markets. Focusing on the U.S. Foreign Corrupt Practices Act, we examine how U.S. enforcement actions against multinational firms operating in a given developing country influences how non-targeted (domestic) firms in that country assess their own bribing behavior. We contend non-targeted firms face compliance pressure from their foreign partners. To retain or obtain transactions with foreign firms, they present more socially desirable responses following the enforcement action. We compare non-targeted firms' assessment of bribe prevalence shortly before versus after a U.S. anti-bribery enforcement action to obtain quasi-random variation in the extent to which non-targeted firms were exposed to the enforcement action. Our analysis of up to 9262 firms across 20 countries indicate non-targeted firms' responses are shaped by U.S. enforcement actions even when domestic firms are outside the jurisdiction of the regulation.
