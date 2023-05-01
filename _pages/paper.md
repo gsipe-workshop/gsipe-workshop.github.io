@@ -10,7 +10,8 @@ Monday, May 1st
 
 Si Cheng (ESSEC Business School)
 
-**Title: Policing the world? Effect of U.S. Anti-Corruption Enforcement Actions on Non-Targeted Firms** 
+<a href="https://gsipe-workshop.github.io/files/SiChengGSIPE2023.pdf">**Title: Policing the world? Effect of U.S. Anti-Corruption Enforcement Actions on Non-Targeted Firms**</a>
+
 
 **Abstract:**
 
