@@ -51,7 +51,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 <br />
 *Moderator:* Michael Allen (Yale University)
 
-**May 8: Nicola Nones (University of Virginia), "The PIIGS Acronym as a Heuristic Device during the European Sovereign Bond Crisis"**
+**May 8: Anthony Calacino (University of Texas at Austin), "Drying Up Democracy? Extreme Weather, Clientelism, and Political Attitudes in Brazil and Mexico "**
 <br />
 *Moderator:* So Jeong Noh (New York University)
  
