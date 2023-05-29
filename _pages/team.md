@@ -45,7 +45,33 @@ Email: [gsipe.planning@gmail.com](gsipe.planning@gmail.com)
 
 ## Former team members:
 
-### 2nd generation:
+### 2022-2023
+
+[Zoe Ge (NYU)](https://wp.nyu.edu/zoege/)
+
+[Elisa Navarra (Université Libre de Bruxelles)](https://sites.google.com/view/elisanavarra)
+
+[Anthony Calacino (UT Austin)](https://cola.utexas.edu/government/graduate/profile.php?id=ac72973)
+
+
+[Celestine Siameh (Minnesota)](https://www.celestineogboh.com/)
+
+[Pei-Yu Wei (Duke)](https://www.peiyuwei.com/)
+
+[Sojun Park (Princeton)](https://sites.google.com/view/sojunp/home)
+
+[RyuGyung (Rio) Park (UC Davis)](https://riopark.weebly.com/ )
+
+[Pengshan Pan (Pittsburgh) ](https://www.cgm.pitt.edu/people/ant-25)
+
+[Ishana Ratan (Berkeley)](https://enlab.berkeley.edu/lab-people/ishana-ratan/)
+
+[Katharina Kuhn (LSE)](https://www.lse.ac.uk/international-relations/phd-students/kuhn-katharina)
+
+[Lingbo Zhao (Penn State)](https://polisci.la.psu.edu/people/lkz5164/)
+
+
+### 2021-2022
 
 [Carlos Felipe Balcazar (NYU)](https://cfbalcazar.github.io/)
 
@@ -68,7 +94,7 @@ Email: [gsipe.planning@gmail.com](gsipe.planning@gmail.com)
 [Baptiste Souillard (ULBruxelles)](https://baptistesouillard.com)
 
 
-### 1st generation:
+### 2020-2021
 
 [Cleo O'Brien-Udry (Yale)](https://cobrienudry.github.io/)
 
