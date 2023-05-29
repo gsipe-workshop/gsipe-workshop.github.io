@@ -21,27 +21,27 @@ Email: [gsipe.workshop@gmail.com](gsipe.workshop@gmail.com)
 
 Email: [gsipe.planning@gmail.com](gsipe.planning@gmail.com)
 
-[](https://www.celestineogboh.com/)
+[Arianna Bondi (McGill University)]
+
+[Jun Fang (University of Michigan)](https://lsa.umich.edu/polisci/people/graduate-students/junfang.html)
 
 [Lingbo Zhao (Penn State)](https://polisci.la.psu.edu/people/lkz5164/)
-
-[Zarlasht M. Razeq (McGill University)](https://www.zarlashtmrazeq.com/)
-
-[Arianna Bondi (McGill University)]
 
 [Phuong Pham (Duke University)]
 
 [Seungmi Kim (UIUC)](https://pol.illinois.edu/directory/profile/seungmi2)
 
-[Jun Fang (University of Michigan)](https://lsa.umich.edu/polisci/people/graduate-students/junfang.html)
-
 [Tania Lucia Ramirez Farias (University of Pittsburgh)](https://www.sociology.pitt.edu/people/ant-26)
+
+[Zarlasht M. Razeq (McGill University)](https://www.zarlashtmrazeq.com/)
+
 
 ## Media 
 
 [Lingbo Zhao (Penn State)](https://polisci.la.psu.edu/people/lkz5164/)
 
 [Valentina González-Rostani (University of Pittsburgh)](https://gonzalez-rostani.netlify.app/)
+
 <hr>
 <hr>
 
