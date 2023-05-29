@@ -9,11 +9,11 @@ author_profile: true
 
 Email: [gsipe.workshop@gmail.com](gsipe.workshop@gmail.com)
 
-[Hao Zhang (MIT)](https://www.haocharliezhang.com/)
+[Hao Zhang (Massachusetts Institute of Technology)](https://www.haocharliezhang.com/)
 
-[Ilaria Natali](https://sites.google.com/view/ilaria-natali/home)
+[Ilaria Natali (Toulouse School of Economics)](https://sites.google.com/view/ilaria-natali/home)
 
-[Ishana Ratan](https://ishanaratan.com/)
+[Ishana Ratan (University of California, Berkeley)](https://ishanaratan.com/)
 
 <hr>
 
@@ -25,11 +25,11 @@ Email: [gsipe.planning@gmail.com](gsipe.planning@gmail.com)
 
 [Jun Fang (University of Michigan)](https://lsa.umich.edu/polisci/people/graduate-students/junfang.html)
 
-[Lingbo Zhao (Penn State)](https://polisci.la.psu.edu/people/lkz5164/)
+[Lingbo Zhao (Pennsylvania State University)](https://polisci.la.psu.edu/people/lkz5164/)
 
 [Phuong Pham (Duke University)]
 
-[Seungmi Kim (UIUC)](https://pol.illinois.edu/directory/profile/seungmi2)
+[Seungmi Kim (University of Illinois Urbana-Champaign)](https://pol.illinois.edu/directory/profile/seungmi2)
 
 [Tania Lucia Ramirez Farias (University of Pittsburgh)](https://www.sociology.pitt.edu/people/ant-26)
 
@@ -38,7 +38,7 @@ Email: [gsipe.planning@gmail.com](gsipe.planning@gmail.com)
 
 ## Media 
 
-[Lingbo Zhao (Penn State)](https://polisci.la.psu.edu/people/lkz5164/)
+[Lingbo Zhao (Pennsylvania State University)](https://polisci.la.psu.edu/people/lkz5164/)
 
 [Valentina González-Rostani (University of Pittsburgh)](https://gonzalez-rostani.netlify.app/)
 
