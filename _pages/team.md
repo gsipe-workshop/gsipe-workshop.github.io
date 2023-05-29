@@ -21,13 +21,13 @@ Email: [gsipe.workshop@gmail.com](gsipe.workshop@gmail.com)
 
 Email: [gsipe.planning@gmail.com](gsipe.planning@gmail.com)
 
-[Arianna Bondi (McGill University)]
+[Arianna Bondi (McGill University)](https://www.linkedin.com/in/arianna-bondi-375435161/?originalSubdomain=it)
 
 [Jun Fang (University of Michigan)](https://lsa.umich.edu/polisci/people/graduate-students/junfang.html)
 
 [Lingbo Zhao (Pennsylvania State University)](https://polisci.la.psu.edu/people/lkz5164/)
 
-[Phuong Pham (Duke University)]
+[Phuong Pham (Duke University)](https://scholars.duke.edu/person/phuong.pham)
 
 [Seungmi Kim (University of Illinois Urbana-Champaign)](https://pol.illinois.edu/directory/profile/seungmi2)
 
