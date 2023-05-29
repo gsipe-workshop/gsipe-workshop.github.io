@@ -9,11 +9,11 @@ author_profile: true
 
 Email: [gsipe.workshop@gmail.com](gsipe.workshop@gmail.com)
 
-[Zoe Ge (NYU)](https://wp.nyu.edu/zoege/)
+[Hao Zhang (MIT)](https://www.haocharliezhang.com/)
 
-[Elisa Navarra (Université Libre de Bruxelles)](https://sites.google.com/view/elisanavarra)
+[Ilaria Natali](https://sites.google.com/view/ilaria-natali/home)
 
-[Anthony Calacino (UT Austin)](https://cola.utexas.edu/government/graduate/profile.php?id=ac72973)
+[Ishana Ratan](https://ishanaratan.com/)
 
 <hr>
 
@@ -21,24 +21,27 @@ Email: [gsipe.workshop@gmail.com](gsipe.workshop@gmail.com)
 
 Email: [gsipe.planning@gmail.com](gsipe.planning@gmail.com)
 
-[Celestine Siameh (Minnesota)](https://www.celestineogboh.com/)
+[](https://www.celestineogboh.com/)
 
-[Pei-Yu Wei (Duke)](https://www.peiyuwei.com/)
+[Lingbo Zhao (Penn State)](https://polisci.la.psu.edu/people/lkz5164/)
 
-[Sojun Park (Princeton)](https://sites.google.com/view/sojunp/home)
+[Zarlasht M. Razeq (McGill University)](https://www.zarlashtmrazeq.com/)
 
-[RyuGyung (Rio) Park (UC Davis)](https://riopark.weebly.com/ )
+[Arianna Bondi (McGill University)]
 
-[Pengshan Pan (Pittsburgh) ](https://www.cgm.pitt.edu/people/ant-25)
+[Phuong Pham (Duke University)]
 
-[Ishana Ratan (Berkeley)](https://enlab.berkeley.edu/lab-people/ishana-ratan/)
+[Seungmi Kim (UIUC)](https://pol.illinois.edu/directory/profile/seungmi2)
 
-[Katharina Kuhn (LSE)](https://www.lse.ac.uk/international-relations/phd-students/kuhn-katharina)
+[Jun Fang (University of Michigan)](https://lsa.umich.edu/polisci/people/graduate-students/junfang.html)
+
+[Tania Lucia Ramirez Farias (University of Pittsburgh)](https://www.sociology.pitt.edu/people/ant-26)
 
 ## Media 
 
 [Lingbo Zhao (Penn State)](https://polisci.la.psu.edu/people/lkz5164/)
 
+[Valentina González-Rostani (University of Pittsburgh)](https://gonzalez-rostani.netlify.app/)
 <hr>
 <hr>
 
