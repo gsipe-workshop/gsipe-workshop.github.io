@@ -17,7 +17,8 @@ We invite graduate students and faculty from Political Science and Economics wit
 
 *News:*
 
-- We are calling for **GSIPE leadership (2023-2024)**! If you want to make GSIPE prosper, please fill in the [survey](https://docs.google.com/forms/d/e/1FAIpQLScziHBWCKf2pjIOB5z_e-8W4_-DWtpxhaD3tYMKtjy5lHhsag/viewform?usp=sf_link) by May 31, 2023!
+- We welcome our [new team](https://gsipe-workshop.github.io/team/) for GSIPE, starting June 1st 2023！
+
 
 - We thrilled to announce our **APSA 2023 Pre-Conference Workshop**, to be held on August 30! Please submit your abstract through this [link](https://docs.google.com/forms/d/e/1FAIpQLSd_xbKKdhLg5fVsps4GjXDLtEk4a56bf12jPVpwzSb63Wlv2A/viewform?usp=sf_link) by May 31, 2023!
 
@@ -34,10 +35,14 @@ Please submit your abstract [here](https://forms.gle/Urzb7okhv9E7jPTh8) by **Jan
 
 - The past, present, and future about GSIPE: ["Less Stress, More Confidence": Supporting Junior Scholars Online at the Graduate Student International Political Economy Workshop](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/less-stress-more-confidence-supporting-junior-scholars-online-at-the-graduate-student-international-political-economy-workshop/A175F2AE8EC397F9EE967623D48B9BD5) by our founders [Alexander Kirss](https://www.alexanderkirss.com/), [Paul Ilhak Ko](https://sites.google.com/view/paulko/home), and [Cleo O'Brien-Udry](https://cobrienudry.github.io/) is published in *PS: Political Science & Politics*.
 
-- We welcome our [new team](https://gsipe-workshop.github.io/team/) for GSIPE, starting June 1st 2022.
 
 <!---
 ARCHIVE
+
+- We are calling for **GSIPE leadership (2023-2024)**! If you want to make GSIPE prosper, please fill in the [survey](https://docs.google.com/forms/d/e/1FAIpQLScziHBWCKf2pjIOB5z_e-8W4_-DWtpxhaD3tYMKtjy5lHhsag/viewform?usp=sf_link) by May 31, 2023!
+
+- We welcome our [new team](https://gsipe-workshop.github.io/team/) for GSIPE, starting June 1st 2022.
+
 
 - The wait is over: GSIPE is pleased to announce our [Fall 2022 Workshop lineup](https://gsipe-workshop.github.io/schedule/)!
 
