@@ -4,10 +4,10 @@ title: "Special Events"
 permalink: /special-events/
 author_profile: true
 ---
-Information about special events and opportunties can be found here.
+Information about special events and opportunities can be found here.
 
 
-
+<a href="https://twitter.com/gradstudent_ipe/status/1679871368068775937">Junior IPE APSA Happy Hour (September 1, 2023)</a>
 
 <hr>
 
