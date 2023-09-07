@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Job Market Candidates"
+title: "Job Market Candidates 2023"
 permalink: /job-market_23/
 toc: true
 toc_label: "JM tags 23"
