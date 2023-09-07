@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Schedule Spring 2023"
+title: "Schedule Fall 2023"
 permalink: /schedule/
 author_profile: true
 ---
