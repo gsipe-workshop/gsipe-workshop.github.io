@@ -5,6 +5,64 @@ permalink: /schedule/
 author_profile: true
 ---
 
+All workshop events take place virtually on Thursday, 12:00-13:00 (1:00 pm) Eastern Time (UTC−05:00).
+
+**September 14	“The Politics of Compulsory Licensing: Democracy and Regulatory Threat in Public Health” Sojun Park (Princeton University)**
+<br />
+*Moderator:* TBD
+
+**September 21	“Commerce, Coalitions, and Global Value Chains: Coordinated and Collective Lobbying on Trade” Hao Zhang (Massachusetts Institute of Technology)**
+<br />
+*Moderator:* Sojun Park  (Princeton University)
+
+**September 28	“Learning about Trade” Hongyi She (University of Rochester)**
+<br />
+*Moderator:* Jing Qian (Princeton University)
+
+**October 5	“Extractive “Protectionism”? The Conditional Effect of Natural Resource Dependence on Protected Area Designation” Austin Beacham (University of California, San Diego)**
+<br />
+*Moderator:* Valentina Gonzalez-Rostani (University of Pittsburgh)
+
+**October 12	“The Path from Automation to Populist Political Behavior” Valentina Gonzalez Rostani (University of Pittsburgh)**
+<br />
+*Moderator:* TBD
+
+**October 19	“Treaty Shopping, Race to the Bottom, and Treaty Cascades” Jing Qian (Princeton University)**
+<br />
+*Moderator:* Austin Beacham (University of California, San Diego)
+
+**October 26	“Dynamics of Varieties in the US: Evidence from Trademarks” Giulia Lo Forte (University of British Columbia)**
+<br />
+*Moderator:* Oriana Montti (Brandeis University)
+
+**November 2	“Effects of Trade Barriers on FDI: Evidence from Chinese Solar Panels” Oriana Montti (Brandeis University)**
+<br />
+*Moderator:* Giulia Lo Forte (University of British Columbia)
+
+**November 9	“Trade, Labor Unions and Populism: Do Weak Unions Explain the Rise of Far-right Nationalism in Response to Trade Shocks?” Carlos Felipe Balcazar (Yale University)**
+<br /> 
+*Moderator:* Seung-Uk Huh (University of Illinois at Urbana-Champaign)
+
+**November 16	“Refugee Reception Policy and Nation Building” Federica lo Polito (Toulouse School of Economics)**
+<br />
+*Moderator:* TBD
+
+**November 23	“Preferential Trade Agreements and Leaders' Business Experience” Nicola Nones (University of Toronto)**
+<br />
+*Moderator:* Isabella Bellezza-Smull (Brown University)
+
+**November 30	“Normative Preferences and Support for International Economic Dispute Settlement” Seung-Uk Huh (University of Illinois at Urbana-Champaign)**
+<br />
+*Moderator:* Nicola Nones (University of Toronto)
+ 
+**December 7	“Have your Cake and Eat it Too: Impatient Chinese State Capital in the Global South” Keyi Tang (Boston University)**
+<br />
+*Moderator:* TBD
+
+
+
+<!---**
+
 All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Eastern Time (UTC−05:00).
 
 **February 13: Michael Allen (Yale University), "Unbundling the State: Legal Development in an Era of Global, Private Governance"**
@@ -59,10 +117,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 <br />
 *Moderator:* RyuGyung (Rio) Park (University of California, Davis)
 
-
-<!---**
-
-
+*********************
 
 
 
