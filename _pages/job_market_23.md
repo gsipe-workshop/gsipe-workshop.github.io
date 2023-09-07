@@ -122,6 +122,10 @@ details[open] div {
   }
 </style>
 
+
+<table class="tg">
+<thead>
+    <tr>
        <td class="tg-0pky">
     <p style="font-size:20px"><a href = "https://nicolanones.weebly.com"><b>Nicola Nones</b></a></p>
 <a href="https://nicolanones.weebly.com">
