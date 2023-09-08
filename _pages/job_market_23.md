@@ -89,6 +89,20 @@ details > p {
   
 </style>
 
+
+<div class="candidate">
+  <h2>Christian Elliott</h2>
+  <img src="https://gsipe-workshop.github.io/images/MPI_6480 (2) - Christian Elliott.jpg" alt="Christian Elliott">
+  <a href="https://www.christianmorinelliott.com/" target="_blank" class="show-details">Visit Website</a>
+</div>
+
+
+<div class="candidate">
+  <h2>Valentina Gonzalez-Rostani</h2>
+  <img src="https://gsipe-workshop.github.io/images/GONZALEZROSTANI_VALENTINA - Valentina González Rostani.jpg" alt="Valentina Gonzalez-Rostani">
+  <a href="https://gonzalez-rostani.com/" target="_blank" class="show-details">Visit Website</a>
+</div>
+
 <div class="candidate">
   <h2>Nicola Nones</h2>
   <img src="https://gsipe-workshop.github.io/images/Nones_pic_sqaure.jpeg" alt="Nicola Nones">
