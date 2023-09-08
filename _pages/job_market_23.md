@@ -142,8 +142,16 @@ details > p {
   <a href="https://jihyepark.me" target="_blank" class="show-details">Visit Website</a>
 </div>
 
+
+
 <div class="candidate">
   <h2>Sojun Park</h2>
       <img src="https://gsipe-workshop.github.io/images/Park_Sojun.jpg" width="300" height="300">
   <a href="https://www.sojunpark.com/" target="_blank" class="show-details">Visit Website</a>
+</div>
+
+<div class="candidate">
+  <h2>MOHAMMAD SHAFIQ SULTAN</h2>
+  <img src="https://gsipe-workshop.github.io/images/IMG-20230710-WA0023 - shafiq sultan.jpg" alt="MOHAMMAD SHAFIQ SULTAN">
+  <a href="https://www.linkedin.com/feed/MohammadShafi qSultan" target="_blank" class="show-details">Visit Website</a>
 </div>
