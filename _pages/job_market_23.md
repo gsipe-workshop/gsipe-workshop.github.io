@@ -92,7 +92,7 @@ details > p {
 
 <div class="candidate">
   <h2>Christian Elliott</h2>
-  <img src="https://gsipe-workshop.github.io/images/MPI_6480 (2) - Christian Elliott.jpg" alt="Christian Elliott">
+  <img src="https://gsipe-workshop.github.io/images/Elliott.jpg" alt="Christian Elliott">
   <a href="https://www.christianmorinelliott.com/" target="_blank" class="show-details">Visit Website</a>
 </div>
 
@@ -106,19 +106,19 @@ details > p {
 
 <div class="candidate">
   <h2>Drew, Kaufman</h2>
-  <img src="https://gsipe-workshop.github.io/images/Kaufman-2 - Andrew Kaufman.jpg" alt="Drew, Kaufman">
+  <img src="https://gsipe-workshop.github.io/images/Kaufman.jpg" alt="Drew, Kaufman">
   <a href="www.linkedin.com/in/andrew-f-kaufman/n/" target="_blank" class="show-details">Visit Website</a>
 </div>
 
 <div class="candidate">
   <h2>Shengqiao Lin</h2>
-  <img src="https://gsipe-workshop.github.io/images/Shengqiao_Lin - Shengqiao Lin.jpg" alt="Shengqiao Lin">
+  <img src="https://gsipe-workshop.github.io/images/Shengqiao_Lin.jpg" alt="Shengqiao Lin">
   <a href="https://shengqiaolin.com/" target="_blank" class="show-details">Visit Website</a>
 </div>
 
 <div class="candidate">
   <h2>Elisa Navarra</h2>
-  <img src="https://gsipe-workshop.github.io/images/ELISA_NAVARRA - Elisa Navarra.jpg" alt="Elisa Navarra">
+  <img src="https://gsipe-workshop.github.io/images/ELISA_NAVARRA.jpg" alt="Elisa Navarra">
   <a href="https://sites.google.com/view/elisanavarra" target="_blank" class="show-details">Visit Website</a>
 </div>
 
@@ -133,13 +133,13 @@ details > p {
 
 <div class="candidate">
   <h2>Cleo O'Brien-Udry</h2>
-  <img src="https://gsipe-workshop.github.io/images/web_profile - Cleo O_Brien-Udry.jpg" alt="Cleo O'Brien-Udry">
+  <img src="https://gsipe-workshop.github.io/images/O_Brien.jpg" alt="Cleo O'Brien-Udry">
   <a href="cobrienudry.github.io" target="_blank" class="show-details">Visit Website</a>
 </div>
 
 <div class="candidate">
   <h2>Jihye Park</h2>
-  <img src="https://gsipe-workshop.github.io/images/PARK_JIHYE - Jihye Park.jpg" alt="Jihye Park">
+  <img src="https://gsipe-workshop.github.io/images/PARK_JIHYE.jpg" alt="Jihye Park">
   <a href="https://jihyepark.me" target="_blank" class="show-details">Visit Website</a>
 </div>
 
@@ -153,19 +153,19 @@ details > p {
 
 <div class="candidate">
   <h2>MOHAMMAD SHAFIQ SULTAN</h2>
-  <img src="https://gsipe-workshop.github.io/images/IMG-20230710-WA0023 - shafiq sultan.jpg" alt="MOHAMMAD SHAFIQ SULTAN">
+  <img src="https://gsipe-workshop.github.io/images/shafiq.jpg" alt="MOHAMMAD SHAFIQ SULTAN">
   <a href="https://www.linkedin.com/feed/MohammadShafi qSultan" target="_blank" class="show-details">Visit Website</a>
 </div>
 
 
 <div class="candidate">
   <h2>ALLURI VENKATA NAGAVARMA</h2>
-  <img src="https://gsipe-workshop.github.io/images/Dr. varma_photo (1) - Dr.Alluri VN varma.jpg" alt="ALLURI VENKATA NAGAVARMA">
+  <img src="https://gsipe-workshop.github.io/images/Dr.jpg" alt="ALLURI VENKATA NAGAVARMA">
   <a href="www.dnrcollege.org" target="_blank" class="show-details">Visit Website</a>
 </div>
 
 <div class="candidate">
   <h2>Hao Zhang</h2>
-  <img src="https://gsipe-workshop.github.io/images/Zhang_Hao - Hao Zhang.jpg" alt="Hao Zhang">
+  <img src="https://gsipe-workshop.github.io/images/Zhang_Hao.jpg" alt="Hao Zhang">
   <a href="haocharliezhang.com" target="_blank" class="show-details">Visit Website</a>
 </div>
