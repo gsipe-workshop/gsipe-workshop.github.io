@@ -169,6 +169,24 @@ summary {
   </details>
 </div>
 
+
+
+
+
+<div class="candidate">
+  <h2>Hao Zhang</h2>
+  <img src="https://gsipe-workshop.github.io/images/Zhang_Hao.jpg" width="300" height="300">
+  <a href="https://www.haocharliezhang.com/" target="_blank" class="show-details">Visit Website</a>
+    <details><summary>BIO</summary><p> Hao Zhang is a PhD candidate in political science at MIT. His research interests include the politics of global production networks, state-business relations, and applied statistical models. His dissertation examines how the rise of global value chains reshapes trade coalitions and trade lobbying within and across national borders, with a regional focus on China and the US. A related stream of his research investigates the political foundations of China’s rise in global value chains. His work has appeared in the American Journal of Political Science and the Chinese Journal of International Politics. </p>
+  </details>
+  <details><summary>AREAS</summary><p> trade, multinational corporations, globalization </p>
+  </details>
+</div>
+
+
+Are you on the 2023 IPE job market and would like to be featured on this page? Fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoA9D7h90rv2wWilO6jyfFTSULvtl1eftsVdSDC6-64EffQ/viewform"><b>form</b></a>.
+
+<!---**
 <div class="candidate">
   <h2>MOHAMMAD SHAFIQ SULTAN</h2>
   <img src="https://gsipe-workshop.github.io/images/shafiq.jpg" width="300" height="300">
@@ -188,18 +206,3 @@ summary {
   <details><summary>AREAS</summary><p> migration, globalization, environment  </p>
   </details>
 </div>
-
-
-
-<div class="candidate">
-  <h2>Hao Zhang</h2>
-  <img src="https://gsipe-workshop.github.io/images/Zhang_Hao.jpg" width="300" height="300">
-  <a href="https://www.haocharliezhang.com/" target="_blank" class="show-details">Visit Website</a>
-    <details><summary>BIO</summary><p> Hao Zhang is a PhD candidate in political science at MIT. His research interests include the politics of global production networks, state-business relations, and applied statistical models. His dissertation examines how the rise of global value chains reshapes trade coalitions and trade lobbying within and across national borders, with a regional focus on China and the US. A related stream of his research investigates the political foundations of China’s rise in global value chains. His work has appeared in the American Journal of Political Science and the Chinese Journal of International Politics. </p>
-  </details>
-  <details><summary>AREAS</summary><p> trade, multinational corporations, globalization </p>
-  </details>
-</div>
-
-
-Are you on the 2023 IPE job market and would like to be featured on this page? Fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoA9D7h90rv2wWilO6jyfFTSULvtl1eftsVdSDC6-64EffQ/viewform"><b>form</b></a>.
