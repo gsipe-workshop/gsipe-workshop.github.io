@@ -122,12 +122,19 @@ details > p {
 </div>
 
 
+
 <div class="candidate">
   <h2>Nicola Nones</h2>
   <img src="https://gsipe-workshop.github.io/images/Nones_pic_sqaure.jpeg" alt="Nicola Nones">
   <a href="https://nicolanones.weebly.com" target="_blank" class="show-details">Visit Website</a>
 </div>
 
+
+<div class="candidate">
+  <h2>Cleo O'Brien-Udry</h2>
+  <img src="https://gsipe-workshop.github.io/images/web_profile - Cleo O_Brien-Udry.jpg" alt="Cleo O'Brien-Udry">
+  <a href="cobrienudry.github.io" target="_blank" class="show-details">Visit Website</a>
+</div>
 
 <div class="candidate">
   <h2>Sojun Park</h2>
