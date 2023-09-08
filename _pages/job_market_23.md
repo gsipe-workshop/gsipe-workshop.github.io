@@ -110,6 +110,12 @@ details > p {
 </div>
 
 <div class="candidate">
+  <h2>Shengqiao Lin</h2>
+  <img src="https://gsipe-workshop.github.io/images/Shengqiao_Lin - Shengqiao Lin.jpg" alt="Shengqiao Lin">
+  <a href="https://shengqiaolin.com/" target="_blank" class="show-details">Visit Website</a>
+</div>
+
+<div class="candidate">
   <h2>Nicola Nones</h2>
   <img src="https://gsipe-workshop.github.io/images/Nones_pic_sqaure.jpeg" alt="Nicola Nones">
   <a href="https://nicolanones.weebly.com" target="_blank" class="show-details">Visit Website</a>
