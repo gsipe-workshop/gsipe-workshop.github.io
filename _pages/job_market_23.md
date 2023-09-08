@@ -55,7 +55,11 @@ Are you on the 2023 IPE job market and would like to be featured on this page? F
     margin-right: 20px; /* Add spacing between the picture and content */
     overflow: hidden; /* Ensure the image stays within the circular boundary */
   }
-
+.candidate img {
+    max-width: 100px;
+    max-height: 100px;
+    border-radius: 50%;
+  }
   .profile-picture img {
     width: 100%;
     height: 100%;
@@ -74,7 +78,7 @@ Are you on the 2023 IPE job market and would like to be featured on this page? F
 
 <div class="candidate">
   <div class="profile-picture">
-    <img src="https://gsipe-workshop.github.io/images/Nones_pic_sqaure.jpeg" alt="Nicola Nones">
+  <img src="https://gsipe-workshop.github.io/images/Nones_pic_sqaure.jpeg" alt="Nicola Nones">
   </div>
   <div class="buttons-column">
     <h2>Nicola Nones</h2>
