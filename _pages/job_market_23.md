@@ -155,3 +155,16 @@ details > p {
   <img src="https://gsipe-workshop.github.io/images/IMG-20230710-WA0023 - shafiq sultan.jpg" alt="MOHAMMAD SHAFIQ SULTAN">
   <a href="https://www.linkedin.com/feed/MohammadShafi qSultan" target="_blank" class="show-details">Visit Website</a>
 </div>
+
+
+<div class="candidate">
+  <h2>ALLURI VENKATA NAGAVARMA</h2>
+  <img src="https://gsipe-workshop.github.io/images/Dr. varma_photo (1) - Dr.Alluri VN varma.jpg" alt="ALLURI VENKATA NAGAVARMA">
+  <a href="www.dnrcollege.org" target="_blank" class="show-details">Visit Website</a>
+</div>
+
+<div class="candidate">
+  <h2>Hao Zhang</h2>
+  <img src="https://gsipe-workshop.github.io/images/Zhang_Hao - Hao Zhang.jpg" alt="Hao Zhang">
+  <a href="haocharliezhang.com" target="_blank" class="show-details">Visit Website</a>
+</div>
