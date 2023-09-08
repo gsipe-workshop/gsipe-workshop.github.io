@@ -116,6 +116,13 @@ details > p {
 </div>
 
 <div class="candidate">
+  <h2>Elisa Navarra</h2>
+  <img src="https://gsipe-workshop.github.io/images/ELISA_NAVARRA - Elisa Navarra.jpg" alt="Elisa Navarra">
+  <a href="https://sites.google.com/view/elisanavarra" target="_blank" class="show-details">Visit Website</a>
+</div>
+
+
+<div class="candidate">
   <h2>Nicola Nones</h2>
   <img src="https://gsipe-workshop.github.io/images/Nones_pic_sqaure.jpeg" alt="Nicola Nones">
   <a href="https://nicolanones.weebly.com" target="_blank" class="show-details">Visit Website</a>
