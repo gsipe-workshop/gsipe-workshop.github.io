@@ -104,6 +104,12 @@ details > p {
 </div>
 
 <div class="candidate">
+  <h2>Drew, Kaufman</h2>
+  <img src="https://gsipe-workshop.github.io/images/Kaufman-2 - Andrew Kaufman.jpg" alt="Drew, Kaufman">
+  <a href="www.linkedin.com/in/andrew-f-kaufman/n/" target="_blank" class="show-details">Visit Website</a>
+</div>
+
+<div class="candidate">
   <h2>Nicola Nones</h2>
   <img src="https://gsipe-workshop.github.io/images/Nones_pic_sqaure.jpeg" alt="Nicola Nones">
   <a href="https://nicolanones.weebly.com" target="_blank" class="show-details">Visit Website</a>
