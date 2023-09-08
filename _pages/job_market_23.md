@@ -88,9 +88,11 @@ Are you on the 2023 IPE job market and would like to be featured on this page? F
   <h2>Nicola Nones</h2>
   <img src="https://gsipe-workshop.github.io/images/Nones_pic_sqaure.jpeg" alt="Nicola Nones">
   <a href="https://nicolanones.weebly.com" target="_blank" class="show-details">Visit Website</a>
-   <summary>Show Bio</summary>
+ <details>
+  <summary>Show Bio</summary>
   <p>
     Nicola is a PhD candidate at the University of Virginia, Charlottesville, studying International Relations and Quantitative Methods with a substantive focus on the political economy of finance and the media and a regional emphasis on European as well as Emerging Markets. His dissertation project investigates the relationship between investors' sentiments and socially constructed media categories, such as the BRICS and the PIIGS. Prior to pursuing graduate studies at UVA, he received a Bachelor and a Master in International Relations at the University of Bologna and a Master in International Political Economy at the London School of Economics.
   </p>
+</details>
   </div>
 </div>
