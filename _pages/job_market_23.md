@@ -58,12 +58,11 @@ Are you on the 2023 IPE job market and would like to be featured on this page? F
 <div class="candidate">
   <h2>Nicola Nones</h2>
   <img src="https://gsipe-workshop.github.io/images/Nones_pic_sqaure.jpeg" alt="Nicola Nones">
-  <button class="show-details" onclick="toggleCandidateDetails('nicola')">Show Bio</button>
-  <a href="https://nicolanones.weebly.com" target="_blank" class="show-details">Visit Website</a>
-  <details class="candidate-details" id="nicola-details">
+  <details>
     <summary>Show Bio</summary>
     <p>
       Nicola Nones is a Postdoctoral Research Fellow at the Munk School of Public Policy and International Relations at the University of Toronto. He holds a Ph.D. in Political Science from the University of Virginia. His main research interests lie at the intersection of political economy and political communication, with a substantive focus on financial markets and a regional focus on European as well as G20 markets. His dissertation investigates how socially constructed media categories, such as BRICS (Brazil, Russia, India, China, South Africa) and PIIGS (Portugal, Italy, Ireland, Greece, Spain), affect financial investors' sentiments.
     </p>
   </details>
+  <a href="https://nicolanones.weebly.com" target="_blank" class="show-details">Visit Website</a>
 </div>
