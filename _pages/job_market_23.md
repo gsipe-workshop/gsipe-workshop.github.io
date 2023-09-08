@@ -140,7 +140,7 @@ summary {
 <div class="candidate">
   <h2>Cleo O'Brien-Udry</h2>
   <img src="https://gsipe-workshop.github.io/images/O_Brien.png" width="300" height="300">
-  <a href="cobrienudry.github.io" target="_blank" class="show-details">Visit Website</a>
+  <a href="https://cobrienudry.github.io/" target="_blank" class="show-details">Visit Website</a>
     <details><summary>BIO</summary><p> I am a postdoc at Penn's Browne Center for International Relations and a PhD candidate at Yale University.  Broadly, I study international political economy with particular interest in aid, development, climate and energy politics, ethnic relations, and scientific innovation. My work draws on my experience as a Peace Corps Volunteer, months of fieldwork, and extensive quantitative and qualitative methods training. I also organize lots of conferences/workshops/special issues for the IPE community writ large.</p>
   </details>
   <details><summary>AREAS</summary><p> international organizations, development, environment, technology, identity </p>
@@ -172,7 +172,6 @@ summary {
 <div class="candidate">
   <h2>MOHAMMAD SHAFIQ SULTAN</h2>
   <img src="https://gsipe-workshop.github.io/images/shafiq.jpg" width="300" height="300">
-  <a href="https://www.linkedin.com/feed/MohammadShafi qSultan" target="_blank" class="show-details">Visit Website</a>
     <details><summary>BIO</summary><p> Detail-oriented team player with strong organizational skills. Ability to handle multiple projects simultaneously with a high degree of accuracy. Articulate professional with substantial experience in assisting professors and supporting students. Skilled in curriculum development and assessment with understanding of different learning styles and abilities. Smart and committed to creating safe and inclusive learning environment. </p>
   </details>
   <details><summary>AREAS</summary><p> international organizations, conflict, migration, globalization, identity </p>
@@ -183,7 +182,7 @@ summary {
 <div class="candidate">
   <h2>ALLURI VENKATA NAGAVARMA</h2>
   <img src="https://gsipe-workshop.github.io/images/Dr.jpg" width="300" height="300">
-  <a href="www.dnrcollege.org" target="_blank" class="show-details">Visit Website</a>
+  <a href="https://dnrcollege.org/en/" target="_blank" class="show-details">Visit Website</a>
     <details><summary>BIO</summary><p> EXPERIENCE: TEACHING & RESEARCH: 	35 YEARS NO.OF FOREIGN COUNTRIES VISITED: 01.	INTERNATIONAL CONFERENCE – SINGAPORE 02.	INTERNATIONAL CONFERENCE - JAPAN NO.OF RESEARCH PAPERS IN THE REPUTED JOURNALS: 20 NO.OF RESEARCH PAPERS PRESENTED IN THE NATIONAL AND INTERNATIONAL CONFERENCES: 157 RESEARCH PAPERS IN EDITED VOLUMES:	08 GOVT./RESEARCH INSTITUTES/UNIVERSITIES/TRAINING PROGRAMS ATTENDED: 09 LIFE MEMBER IN WELL ESTABLISHED ORGANIZATIONS: 09 ACTED AS A RESOURCE PERSON IN INTERNATIONAL AND NATIONAL CONFERENCES: 09 AWARDS RECEIVED FROM NGOS:	04 SEMINARS ORGANIGED:	03 RECOGNIZED AS RESEARCH GUIDE:	02 UNIVERSITIES </p>
   </details>
   <details><summary>AREAS</summary><p> migration, globalization, environment  </p>
@@ -195,7 +194,7 @@ summary {
 <div class="candidate">
   <h2>Hao Zhang</h2>
   <img src="https://gsipe-workshop.github.io/images/Zhang_Hao.jpg" width="300" height="300">
-  <a href="haocharliezhang.com" target="_blank" class="show-details">Visit Website</a>
+  <a href="https://www.haocharliezhang.com/" target="_blank" class="show-details">Visit Website</a>
     <details><summary>BIO</summary><p> Hao Zhang is a PhD candidate in political science at MIT. His research interests include the politics of global production networks, state-business relations, and applied statistical models. His dissertation examines how the rise of global value chains reshapes trade coalitions and trade lobbying within and across national borders, with a regional focus on China and the US. A related stream of his research investigates the political foundations of China’s rise in global value chains. His work has appeared in the American Journal of Political Science and the Chinese Journal of International Politics. </p>
   </details>
   <details><summary>AREAS</summary><p> trade, multinational corporations, globalization </p>
