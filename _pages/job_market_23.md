@@ -94,3 +94,10 @@ details > p {
   <img src="https://gsipe-workshop.github.io/images/Nones_pic_sqaure.jpeg" alt="Nicola Nones">
   <a href="https://nicolanones.weebly.com" target="_blank" class="show-details">Visit Website</a>
 </div>
+
+
+<div class="candidate">
+  <h2>Sojun Park</h2>
+  <img src="https://gsipe-workshop.github.io/images/Park_Sojun - Sojun Park.jpeg" alt="Nicola Nones">
+  <a href="[https://nicolanones.weebly.com](https://www.sojunpark.com/)" target="_blank" class="show-details">Visit Website</a>
+</div>
