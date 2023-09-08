@@ -7,9 +7,65 @@ toc_label: "JM tags 23"
 author_profile: true
 ---
 
-Profiles of graduate students in international political economy on the 2023 job market can be found here (Coming soon!). 
+Profiles of graduate students in international political economy on the 2023 job market can be found here (Coming soon!).
 
-Are you on the 2023 IPE job market and would like to be featured on this page? Fill out this <a href = "https://docs.google.com/forms/d/e/1FAIpQLSdmoA9D7h90rv2wWilO6jyfFTSULvtl1eftsVdSDC6-64EffQ/viewform"><b>form</b></a>.
+Are you on the 2023 IPE job market and would like to be featured on this page? Fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoA9D7h90rv2wWilO6jyfFTSULvtl1eftsVdSDC6-64EffQ/viewform"><b>form</b></a>.
 
+<style>
+  HTML SCSSResult Skip Results Iframe EDIT ON
+  body {
+    padding: 100px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+      "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  }
 
-<style> HTML SCSSResult Skip Results Iframe EDIT ON body { padding: 100px; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; } details { position: relative; display: inline-block; cursor: pointer; border-radius: 3px; transition: 0.15s background linear; &:hover { background: #d4d1ec; } } details > summary::-webkit-details-marker { display: none; float:left; } summary { padding: 10px; list-style: none; background: url("https://assets.codepen.io/14179/Info.svg") 11px 11.5px no-repeat; padding-left: 33px; } details p { text-align: left; cursor: auto; background: #eee; padding: 15px; width: 350px; position: absolute; left: -150px; top: 35px; border-radius: 4px; right: 100px; &:before { content: ""; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid #eee; top: -10px; position: absolute; left: 10px; } } details div { text-align: left; cursor: auto; background: #eee; padding: 15px; width: 350px; position: absolute; left: 0px; top: 35px; border-radius: 4px; right: 250px; &:before { content: ""; width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 12px solid #eee; top: -10px; position: absolute; left: 10px; } } details[open] p { animation: animateDown 0.2s linear forwards; } details[open] div { animation: animateDown 0.2s linear forwards; } @keyframes animateDown { 0% { opacity: 0; transform: translatey(-15px); } 100% { opacity: 1; transform: translatey(0); } } </style> <style type="text/css"> td { text-align: center; padding: 0 20px; } </style>
+  .candidate {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+  }
+
+  .candidate img {
+    max-width: 100px;
+    max-height: 100px;
+    border-radius: 50%;
+  }
+
+  .candidate-details {
+    display: none;
+  }
+
+  .candidate-details p {
+    background: #eee;
+    padding: 15px;
+    border-radius: 4px;
+    margin-top: 10px;
+  }
+
+  .show-details {
+    display: inline-block;
+    cursor: pointer;
+    background: #007bff;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 4px;
+  }
+</style>
+
+<div class="candidate">
+  <h2>Nicola Nones</h2>
+  <img src="https://gsipe-workshop.github.io/images/Nones_pic_sqaure.jpeg" alt="Nicola Nones">
+  <button class="show-details">Show Bio</button>
+  <a href="https://nicolanones.weebly.com" target="_blank" class="show-details">Visit Website</a>
+  <div class="candidate-details">
+    <p>
+      Nicola is a PhD candidate at the University of Virginia, Charlottesville, studying International Relations and
+      Quantitative Methods with a substantive focus on the political economy of finance and the media and a regional
+      emphasis on European as well as Emerging Markets. His dissertation project investigates the relationship between
+      investors' sentiments and socially constructed media categories, such as the BRICS and the PIIGS. Prior to pursuing
+      graduate studies at UVA, he received a Bachelor and a Master in International Relations at the University of
+      Bologna and a Master in International Political Economy at the London School of Economics.
+    </p>
+  </div>
+</div>
