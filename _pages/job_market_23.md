@@ -137,6 +137,12 @@ details > p {
 </div>
 
 <div class="candidate">
+  <h2>Jihye Park</h2>
+  <img src="https://gsipe-workshop.github.io/images/PARK_JIHYE - Jihye Park.jpg" alt="Jihye Park">
+  <a href="https://jihyepark.me" target="_blank" class="show-details">Visit Website</a>
+</div>
+
+<div class="candidate">
   <h2>Sojun Park</h2>
       <img src="https://gsipe-workshop.github.io/images/Park_Sojun.jpg" width="300" height="300">
   <a href="https://www.sojunpark.com/" target="_blank" class="show-details">Visit Website</a>
