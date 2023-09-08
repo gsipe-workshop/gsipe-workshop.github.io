@@ -92,7 +92,7 @@ details > p {
 
 <div class="candidate">
   <h2>Christian Elliott</h2>
-  <img src="https://gsipe-workshop.github.io/images/Elliott.jpg" width="300" height="300">
+  <img src="https://gsipe-workshop.github.io/images/Elliott.JPG" width="300" height="300">
   <a href="https://www.christianmorinelliott.com/" target="_blank" class="show-details">Visit Website</a>
 </div>
 
@@ -106,7 +106,7 @@ details > p {
 
 <div class="candidate">
   <h2>Drew, Kaufman</h2>
-  <img src="https://gsipe-workshop.github.io/images/Kaufman.jpg" width="300" height="300">
+  <img src="https://gsipe-workshop.github.io/images/Kaufman.jpeg" width="300" height="300">
   <a href="www.linkedin.com/in/andrew-f-kaufman/n/" target="_blank" class="show-details">Visit Website</a>
 </div>
 
@@ -133,13 +133,13 @@ details > p {
 
 <div class="candidate">
   <h2>Cleo O'Brien-Udry</h2>
-  <img src="https://gsipe-workshop.github.io/images/O_Brien.jpg" width="300" height="300">
+  <img src="https://gsipe-workshop.github.io/images/O_Brien.png" width="300" height="300">
   <a href="cobrienudry.github.io" target="_blank" class="show-details">Visit Website</a>
 </div>
 
 <div class="candidate">
   <h2>Jihye Park</h2>
-  <img src="https://gsipe-workshop.github.io/images/PARK_JIHYE.jpg" width="300" height="300">
+  <img src="https://gsipe-workshop.github.io/images/PARK_JIHYE.JPG" width="300" height="300">
   <a href="https://jihyepark.me" target="_blank" class="show-details">Visit Website</a>
 </div>
 
