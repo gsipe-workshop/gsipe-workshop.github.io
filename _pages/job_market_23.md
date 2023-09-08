@@ -98,6 +98,6 @@ details > p {
 
 <div class="candidate">
   <h2>Sojun Park</h2>
-  <img src="https://gsipe-workshop.github.io/images/Park_Sojun.jpg" alt="Sojun Park">
+      <img src="https://gsipe-workshop.github.io/images/Park_Sojun.jpg" width="300" height="300">
   <a href="https://www.sojunpark.com/" target="_blank" class="show-details">Visit Website</a>
 </div>
