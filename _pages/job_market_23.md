@@ -53,12 +53,20 @@ Are you on the 2023 IPE job market and would like to be featured on this page? F
   }
 </style>
 
+<script>
+  // JavaScript function to toggle the visibility of the bio when the button is clicked
+  function toggleBio(candidateId) {
+    var bio = document.getElementById(candidateId + '-bio');
+    bio.style.display = (bio.style.display === 'none' || bio.style.display === '') ? 'block' : 'none';
+  }
+</script>
+
 <div class="candidate">
   <h2>Nicola Nones</h2>
   <img src="https://gsipe-workshop.github.io/images/Nones_pic_sqaure.jpeg" alt="Nicola Nones">
-  <button class="show-details">Show Bio</button>
+  <button class="show-details" onclick="toggleBio('nicola')">Show Bio</button>
   <a href="https://nicolanones.weebly.com" target="_blank" class="show-details">Visit Website</a>
-  <div class="candidate-details">
+  <div class="candidate-details" id="nicola-bio" style="display: none;">
     <p>
       Nicola is a PhD candidate at the University of Virginia, Charlottesville, studying International Relations and
       Quantitative Methods with a substantive focus on the political economy of finance and the media and a regional
