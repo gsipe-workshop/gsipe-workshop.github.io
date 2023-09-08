@@ -17,6 +17,11 @@ We invite graduate students and faculty from Political Science and Economics wit
 
 *News:*
 
+- Check out the profiles of graduate students in **international political economy** on the [2023 job market](https://gsipe-workshop.github.io/job-market_23/)!
+
+
+- We are excited to announce our [Fall 2023 Workshop lineup](https://gsipe-workshop.github.io/schedule/)! Our first workshop starts on September 14! We are looking forward to seeing you all!
+
 - We welcome our [new team](https://gsipe-workshop.github.io/team/) for GSIPE, starting June 1st 2023！
 
 
