@@ -111,6 +111,8 @@ summary {
   <h2>Nicola Nones</h2>
   <img src="https://gsipe-workshop.github.io/images/Nones_pic_sqaure.jpeg" alt="Nicola Nones">
   <a href="https://nicolanones.weebly.com" target="_blank" class="show-details">Visit Website</a>
+   <details><summary>BIO</summary><p>Nicola is a PhD candidate at the University of Virginia, Charlottesville, studying International Relations and Quantitative Methods with a substantive focus on the political economy of finance and the media and a regional emphasis on European as well as Emerging Markets. His dissertation project investigates the relationship between investors' sentiments and socially constructed media categories, such as the BRICS and the PIIGS. Prior to pursuing graduate studies at UVA, he received a Bachelor and a Master in international Relations at the University of Bologna and a Master in international political economy at the London School of Economics.</p>
+  </details>
 </div>
 
 
