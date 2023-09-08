@@ -41,28 +41,49 @@ Are you on the 2023 IPE job market and would like to be featured on this page? F
     box-shadow: 1px 1px 2px #bbbbbb;
     display: none; /* Hide the bio initially */
   }
-</style>
 
-<style>
-  /* Your existing styles */
-</style>
-
-<script>
-  // JavaScript function to toggle the visibility of candidate details
-  function toggleCandidateDetails(candidateId) {
-    var details = document.getElementById(candidateId + '-details');
-    details.open = !details.open;
+   
+  .candidate {
+    display: flex;
+    align-items: center; /* Vertically center the content */
   }
-</script>
+
+  .profile-picture {
+    width: 100px; /* Adjust the size as needed */
+    height: 100px; /* Adjust the size as needed */
+    border-radius: 50%; /* Make it circular */
+    margin-right: 20px; /* Add spacing between the picture and content */
+    overflow: hidden; /* Ensure the image stays within the circular boundary */
+  }
+
+  .profile-picture img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensure the image covers the circular area */
+  }
+
+  .buttons-column {
+    flex: 1; /* Expand to take remaining space */
+  }
+
+  .show-details {
+    display: block; /* Make buttons block-level for better spacing */
+    margin-bottom: 10px; /* Add spacing between buttons */
+  }
+</style>
 
 <div class="candidate">
-  <h2>Nicola Nones</h2>
-  <img src="https://gsipe-workshop.github.io/images/Nones_pic_sqaure.jpeg" alt="Nicola Nones">
-  <details>
-    <summary>Show Bio</summary>
-    <p>
-      Nicola Nones is a Postdoctoral Research Fellow at the Munk School of Public Policy and International Relations at the University of Toronto. He holds a Ph.D. in Political Science from the University of Virginia. His main research interests lie at the intersection of political economy and political communication, with a substantive focus on financial markets and a regional focus on European as well as G20 markets. His dissertation investigates how socially constructed media categories, such as BRICS (Brazil, Russia, India, China, South Africa) and PIIGS (Portugal, Italy, Ireland, Greece, Spain), affect financial investors' sentiments.
-    </p>
-  </details>
-  <a href="https://nicolanones.weebly.com" target="_blank" class="show-details">Visit Website</a>
+  <div class="profile-picture">
+    <img src="https://gsipe-workshop.github.io/images/Nones_pic_sqaure.jpeg" alt="Nicola Nones">
+  </div>
+  <div class="buttons-column">
+    <h2>Nicola Nones</h2>
+    <details>
+      <summary>Show Bio</summary>
+      <p>
+        Nicola Nones is a Postdoctoral Research Fellow at the Munk School of Public Policy and International Relations at the University of Toronto. He holds a Ph.D. in Political Science from the University of Virginia. His main research interests lie at the intersection of political economy and political communication, with a substantive focus on financial markets and a regional focus on European as well as G20 markets. His dissertation investigates how socially constructed media categories, such as BRICS (Brazil, Russia, India, China, South Africa) and PIIGS (Portugal, Italy, Ireland, Greece, Spain), affect financial investors' sentiments.
+      </p>
+    </details>
+    <a href="https://nicolanones.weebly.com" target="_blank" class="show-details">Visit Website</a>
+  </div>
 </div>
