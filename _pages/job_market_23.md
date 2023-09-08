@@ -99,7 +99,7 @@ details > p {
 
 <div class="candidate">
   <h2>Valentina Gonzalez-Rostani</h2>
-  <img src="https://gsipe-workshop.github.io/images/GONZALEZROSTANI_VALENTINA - Valentina González Rostani.jpg" alt="Valentina Gonzalez-Rostani">
+  <img src="https://gsipe-workshop.github.io/images/GONZALEZROSTANI_VALENTINA - Valentina González Rostani.jpg" width="300" height="300">
   <a href="https://gonzalez-rostani.com/" target="_blank" class="show-details">Visit Website</a>
 </div>
 
