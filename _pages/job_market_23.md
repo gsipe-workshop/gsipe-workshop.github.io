@@ -186,23 +186,3 @@ summary {
 
 Are you on the 2023 IPE job market and would like to be featured on this page? Fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoA9D7h90rv2wWilO6jyfFTSULvtl1eftsVdSDC6-64EffQ/viewform"><b>form</b></a>.
 
-<!---**
-<div class="candidate">
-  <h2>MOHAMMAD SHAFIQ SULTAN</h2>
-  <img src="https://gsipe-workshop.github.io/images/shafiq.jpg" width="300" height="300">
-    <details><summary>BIO</summary><p> Detail-oriented team player with strong organizational skills. Ability to handle multiple projects simultaneously with a high degree of accuracy. Articulate professional with substantial experience in assisting professors and supporting students. Skilled in curriculum development and assessment with understanding of different learning styles and abilities. Smart and committed to creating safe and inclusive learning environment. </p>
-  </details>
-  <details><summary>AREAS</summary><p> international organizations, conflict, migration, globalization, identity </p>
-  </details>
-</div>
-
-
-<div class="candidate">
-  <h2>ALLURI VENKATA NAGAVARMA</h2>
-  <img src="https://gsipe-workshop.github.io/images/Dr.jpg" width="300" height="300">
-  <a href="https://dnrcollege.org/en/" target="_blank" class="show-details">Visit Website</a>
-    <details><summary>BIO</summary><p> EXPERIENCE: TEACHING & RESEARCH: 	35 YEARS NO.OF FOREIGN COUNTRIES VISITED: 01.	INTERNATIONAL CONFERENCE – SINGAPORE 02.	INTERNATIONAL CONFERENCE - JAPAN NO.OF RESEARCH PAPERS IN THE REPUTED JOURNALS: 20 NO.OF RESEARCH PAPERS PRESENTED IN THE NATIONAL AND INTERNATIONAL CONFERENCES: 157 RESEARCH PAPERS IN EDITED VOLUMES:	08 GOVT./RESEARCH INSTITUTES/UNIVERSITIES/TRAINING PROGRAMS ATTENDED: 09 LIFE MEMBER IN WELL ESTABLISHED ORGANIZATIONS: 09 ACTED AS A RESOURCE PERSON IN INTERNATIONAL AND NATIONAL CONFERENCES: 09 AWARDS RECEIVED FROM NGOS:	04 SEMINARS ORGANIGED:	03 RECOGNIZED AS RESEARCH GUIDE:	02 UNIVERSITIES </p>
-  </details>
-  <details><summary>AREAS</summary><p> migration, globalization, environment  </p>
-  </details>
-</div>
