@@ -9,7 +9,6 @@ author_profile: true
 
 Profiles of graduate students in international political economy on the 2023 job market can be found here. 
 
-Are you on the 2023 IPE job market and would like to be featured on this page? Fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoA9D7h90rv2wWilO6jyfFTSULvtl1eftsVdSDC6-64EffQ/viewform"><b>form</b></a>.
 
 <style>
   HTML SCSSResult Skip Results Iframe EDIT ON
@@ -148,6 +147,8 @@ summary {
   <img src="https://gsipe-workshop.github.io/images/Dr.jpg" width="300" height="300">
   <a href="www.dnrcollege.org" target="_blank" class="show-details">Visit Website</a>
 </div>
+
+Are you on the 2023 IPE job market and would like to be featured on this page? Fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoA9D7h90rv2wWilO6jyfFTSULvtl1eftsVdSDC6-64EffQ/viewform"><b>form</b></a>.
 
 <div class="candidate">
   <h2>Hao Zhang</h2>
