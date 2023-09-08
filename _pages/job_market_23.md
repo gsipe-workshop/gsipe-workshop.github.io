@@ -12,25 +12,6 @@ Profiles of graduate students in international political economy on the 2023 job
 Are you on the 2023 IPE job market and would like to be featured on this page? Fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmoA9D7h90rv2wWilO6jyfFTSULvtl1eftsVdSDC6-64EffQ/viewform"><b>form</b></a>.
 
 <style>
-  HTML SCSSResult Skip Results Iframe EDIT ON
-  body {
-    padding: 100px;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
-      "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  }
-
-  .candidate {
-    margin-bottom: 20px;
-    border: 1px solid #ddd;
-    padding: 10px;
-    border-radius: 5px;
-  }
-
-  .candidate img {
-    max-width: 100px;
-    max-height: 100px;
-    border-radius: 50%;
-  }
    details > summary:hover {
     color: #fff;
     background-color: #b21619 !important;
