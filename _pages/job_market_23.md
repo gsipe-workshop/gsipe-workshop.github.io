@@ -82,6 +82,8 @@ summary {
   </details>
 </div>
 
+<br>
+
 <div class="candidate">
   <h2>Valentina Gonzalez-Rostani</h2>
       <img src="https://gsipe-workshop.github.io/images/GONZALEZROSTANI_VALENTINA2.jpg" width="300" height="300">
@@ -92,6 +94,7 @@ summary {
   </details>
 </div>
 
+<br>
 
 
 <div class="candidate">
