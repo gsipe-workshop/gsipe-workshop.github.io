@@ -7,7 +7,7 @@ author_profile: true
 
 <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1; margin-right: 20px;">
-        <h2>Organizing Team</h2>
+        <h2>Organizing</h2>
         <p>Email: <a href="mailto:gsipe.workshop@gmail.com">gsipe.workshop@gmail.com</a></p>
         <ul>
             <li><a href="https://www.haocharliezhang.com/">Hao Zhang (Massachusetts Institute of Technology)</a></li>
@@ -17,7 +17,7 @@ author_profile: true
     </div>
 
     <div style="flex: 1;">
-        <h2>Events Team</h2>
+        <h2>Events</h2>
         <p>Email: <a href="mailto:gsipe.planning@gmail.com">gsipe.planning@gmail.com</a></p>
         <ul>
             <li><a href="https://www.linkedin.com/in/arianna-bondi-375435161/?originalSubdomain=it">Arianna Bondi (McGill University)</a></li>
