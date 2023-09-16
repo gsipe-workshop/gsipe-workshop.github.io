@@ -9,57 +9,59 @@ All workshop events take place virtually on Thursday, 12:00-13:00 (1:00 pm) East
 
 **September 14	“The Politics of Compulsory Licensing: Democracy and Regulatory Threat in Public Health” [Sojun Park](https://www.sojunpark.com/) (Princeton University)** [Manuscript](https://drive.google.com/file/d/11OgtQNpaoR9HJAYWIMfDpaRXc7FLHd8e/view?usp=sharing)
 <br />
-*Moderator:* [Hao Zhang](https://www.haocharliezhang.com/) 
+*Moderator:* [Hao Zhang](https://www.haocharliezhang.com/) (Massachusetts Institute of Technology)
 
 **September 21	“Commerce, Coalitions, and Global Value Chains: Coordinated and Collective Lobbying on Trade” [Hao Zhang](https://www.haocharliezhang.com/) (Massachusetts Institute of Technology)** [Manuscript](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4527143)
 <br />
-*Moderator:* [Sojun Park](https://www.sojunpark.com/)  
+*Moderator:* [Sojun Park](https://www.sojunpark.com/)  (Princeton University)
 
 **September 28	“Learning about Trade” [Hongyi She](https://www.hongyshe.com/) (University of Rochester)**
 <br />
-*Moderator:* Jing Qian (Princeton University) 
+*Moderator:* [Jing Qian](https://jingqian.org/) (Princeton University) 
 
-**October 5	“Extractive “Protectionism”? The Conditional Effect of Natural Resource Dependence on Protected Area Designation” Austin Beacham (University of California, San Diego)**
+**October 5	“Extractive “Protectionism”? The Conditional Effect of Natural Resource Dependence on Protected Area Designation” [Austin Beacham](https://www.austinbeacham.com/) (University of California, San Diego)**
 <br />
 *Moderator:* [Valentina Gonzalez Rostani](https://gonzalez-rostani.com/) (University of Pittsburgh)
 
-**October 12	“The Path from Automation to Populist Political Behavior” [Valentina Gonzalez Rostani](https://gonzalez-rostani.com/) (University of Pittsburgh)**
+**October 12	“The Path from Automation to Populist Political Behavior” [Valentina Gonzalez Rostani](https://gonzalez-rostani.com/) (University of Pittsburgh)** [Manuscript](https://www.dropbox.com/scl/fi/0g6wo4lwac6ldk42gr0mw/APSA_Automation_Culture.pdf?rlkey=ecck0pxx7v4hb6wjsgs3s9ww6&raw=1)
 <br />
-*Moderator:* TBD
+*Moderator:* [Elisa Navarra](https://sites.google.com/view/elisanavarra) (Université de Bruxelles)
 
-**October 19	“Treaty Shopping, Race to the Bottom, and Treaty Cascades” Jing Qian (Princeton University)**
+**October 19	“Treaty Shopping, Race to the Bottom, and Treaty Cascades” [Jing Qian](https://jingqian.org/) (Princeton University)**
 <br />
-*Moderator:* Austin Beacham (University of California, San Diego)
+*Moderator:* [Austin Beacham](https://www.austinbeacham.com/) (University of California, San Diego)
 
 **October 26	“Dynamics of Varieties in the US: Evidence from Trademarks” Giulia Lo Forte (University of British Columbia)**
 <br />
-*Moderator:* Oriana Montti (Brandeis University)
+*Moderator:* [Oriana Montti](https://www.orianamontti.com/) (Brandeis University)
 
-**November 2	“Effects of Trade Barriers on FDI: Evidence from Chinese Solar Panels” Oriana Montti (Brandeis University)**
+**November 2	“Effects of Trade Barriers on FDI: Evidence from Chinese Solar Panels” [Oriana Montti](https://www.orianamontti.com/) (Brandeis University)**
 <br />
 *Moderator:* Giulia Lo Forte (University of British Columbia)
 
-**November 9	“Trade, Labor Unions and Populism: Do Weak Unions Explain the Rise of Far-right Nationalism in Response to Trade Shocks?” Carlos Felipe Balcazar (Yale University)**
+**November 9	“Trade, Labor Unions and Populism: Do Weak Unions Explain the Rise of Far-right Nationalism in Response to Trade Shocks?” [Carlos Felipe Balcazar](https://cfbalcazar.github.io/) (Yale University)**
 <br /> 
 *Moderator:* Seung-Uk Huh (University of Illinois at Urbana-Champaign)
 
 **November 16	“Refugee Reception Policy and Nation Building” Federica lo Polito (Toulouse School of Economics)**
 <br />
-*Moderator:* TBD
+*Moderator:* [Yujin Zhang](https://polisci.columbia.edu/content/yujin-zhang) (University of Columbia)
 
-**November 23	“Preferential Trade Agreements and Leaders' Business Experience” Nicola Nones (University of Toronto)**
+**November 23	“Preferential Trade Agreements and Leaders' Business Experience” [Nicola Nones](https://www.nicolanones.com/) (University of Toronto)**
 <br />
 *Moderator:* Isabella Bellezza-Smull (Brown University)
 
 **November 30	“Normative Preferences and Support for International Economic Dispute Settlement” Seung-Uk Huh (University of Illinois at Urbana-Champaign)**
 <br />
-*Moderator:* Nicola Nones (University of Toronto)
+*Moderator:* [Nicola Nones](https://www.nicolanones.com/) (University of Toronto)
  
-**December 7	“Have your Cake and Eat it Too: Impatient Chinese State Capital in the Global South” Keyi Tang (Boston University)**
+**December 7	“Have your Cake and Eat it Too: Impatient Chinese State Capital in the Global South” [Keyi Tang](https://keyitang94.github.io/) (Boston University)**
 <br />
-*Moderator:* TBD
+*Moderator:* [James Sundquist](https://jamessundquist.github.io/website/) (Yale University) 
 
-
+**December 14: "Regulation Goods Beyond the Borderline: Effects of Trusted Trader Agreements on Bilateral Trade Flows" Isabella Belleza (Brown University)**
+<br />
+*Moderator:* [Zarlasht Muhammad Razeq](https://www.zarlashtmrazeq.com/) (McGill University) 
 
 <!---**
 
