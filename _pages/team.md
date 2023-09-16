@@ -5,42 +5,45 @@ permalink: /team/
 author_profile: true
 ---
 
-## Organizing Team
+<div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; margin-right: 20px;">
+        <h2>Organizing Team</h2>
+        <p>Email: <a href="mailto:gsipe.workshop@gmail.com">gsipe.workshop@gmail.com</a></p>
+        <ul>
+            <li><a href="https://www.haocharliezhang.com/">Hao Zhang (Massachusetts Institute of Technology)</a></li>
+            <li><a href="https://sites.google.com/view/ilaria-natali/home">Ilaria Natali (Toulouse School of Economics)</a></li>
+            <li><a href="https://ishanaratan.com/">Ishana Ratan (University of California, Berkeley)</a></li>
+        </ul>
+    </div>
 
-Email: [gsipe.workshop@gmail.com](gsipe.workshop@gmail.com)
+    <div style="flex: 1;">
+        <h2>Events Team</h2>
+        <p>Email: <a href="mailto:gsipe.planning@gmail.com">gsipe.planning@gmail.com</a></p>
+        <ul>
+            <li><a href="https://www.linkedin.com/in/arianna-bondi-375435161/?originalSubdomain=it">Arianna Bondi (McGill University)</a></li>
+            <li><a href="https://lsa.umich.edu/polisci/people/graduate-students/junfang.html">Jun Fang (University of Michigan)</a></li>
+            <li><a href="https://polisci.la.psu.edu/people/lkz5164/">Lingbo Zhao (Pennsylvania State University)</a></li>
+            <li><a href="https://scholars.duke.edu/person/phuong.pham">Phuong Pham (Duke University)</a></li>
+            <li><a href="https://pol.illinois.edu/directory/profile/seungmi2">Seungmi Kim (University of Illinois Urbana-Champaign)</a></li>
+            <li><a href="https://www.sociology.pitt.edu/people/ant-26">Tania Lucia Ramirez Farias (University of Pittsburgh)</a></li>
+            <li><a href="https://www.zarlashtmrazeq.com/">Zarlasht M. Razeq (McGill University)</a></li>
+        </ul>
+    </div>
+</div>
 
-[Hao Zhang (Massachusetts Institute of Technology)](https://www.haocharliezhang.com/)
+<div style="clear: both;"></div>
 
-[Ilaria Natali (Toulouse School of Economics)](https://sites.google.com/view/ilaria-natali/home)
+<div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; margin-right: 20px;">
+        <h2>Media</h2>
+        <ul>
+            <li><a href="https://gonzalez-rostani.com/">Valentina González-Rostani (University of Pittsburgh)</a></li>
+            <li><a href="https://polisci.la.psu.edu/people/lkz5164/">Lingbo Zhao (Pennsylvania State University)</a></li>
 
-[Ishana Ratan (University of California, Berkeley)](https://ishanaratan.com/)
+        </ul>
+    </div>
+</div>
 
-<hr>
-
-## Events Team
-
-Email: [gsipe.planning@gmail.com](gsipe.planning@gmail.com)
-
-[Arianna Bondi (McGill University)](https://www.linkedin.com/in/arianna-bondi-375435161/?originalSubdomain=it)
-
-[Jun Fang (University of Michigan)](https://lsa.umich.edu/polisci/people/graduate-students/junfang.html)
-
-[Lingbo Zhao (Pennsylvania State University)](https://polisci.la.psu.edu/people/lkz5164/)
-
-[Phuong Pham (Duke University)](https://scholars.duke.edu/person/phuong.pham)
-
-[Seungmi Kim (University of Illinois Urbana-Champaign)](https://pol.illinois.edu/directory/profile/seungmi2)
-
-[Tania Lucia Ramirez Farias (University of Pittsburgh)](https://www.sociology.pitt.edu/people/ant-26)
-
-[Zarlasht M. Razeq (McGill University)](https://www.zarlashtmrazeq.com/)
-
-
-## Media 
-
-[Lingbo Zhao (Pennsylvania State University)](https://polisci.la.psu.edu/people/lkz5164/)
-
-[Valentina González-Rostani (University of Pittsburgh)](https://gonzalez-rostani.netlify.app/)
 
 <hr>
 <hr>
