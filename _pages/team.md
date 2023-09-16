@@ -10,9 +10,10 @@ author_profile: true
         <h2>Organizing</h2>
         <p>Email: <a href="mailto:gsipe.workshop@gmail.com">gsipe.workshop@gmail.com</a></p>
         <ul>
-            <li><a href="https://www.haocharliezhang.com/">Hao Zhang (Massachusetts Institute of Technology)</a></li>
             <li><a href="https://sites.google.com/view/ilaria-natali/home">Ilaria Natali (Toulouse School of Economics)</a></li>
             <li><a href="https://ishanaratan.com/">Ishana Ratan (University of California, Berkeley)</a></li>
+                        <li><a href="https://www.haocharliezhang.com/">Hao Zhang (Massachusetts Institute of Technology)</a></li>
+
         </ul>
     </div>
 
