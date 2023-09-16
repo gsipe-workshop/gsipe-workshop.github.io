@@ -11,19 +11,19 @@ All workshop events take place virtually on Thursday, 12:00-13:00 (1:00 pm) East
 <br />
 *Moderator:* [Hao Zhang](https://www.haocharliezhang.com/) 
 
-**September 21	“Commerce, Coalitions, and Global Value Chains: Coordinated and Collective Lobbying on Trade” Hao Zhang (Massachusetts Institute of Technology)**
+**September 21	“Commerce, Coalitions, and Global Value Chains: Coordinated and Collective Lobbying on Trade” [Hao Zhang](https://www.haocharliezhang.com/) (Massachusetts Institute of Technology)** [Manuscript](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4527143)
 <br />
-*Moderator:* Sojun Park  (Princeton University)
+*Moderator:* [Sojun Park](https://www.sojunpark.com/)  
 
-**September 28	“Learning about Trade” Hongyi She (University of Rochester)**
+**September 28	“Learning about Trade” [Hongyi She](https://www.hongyshe.com/) (University of Rochester)**
 <br />
-*Moderator:* Jing Qian (Princeton University)
+*Moderator:* Jing Qian (Princeton University) 
 
 **October 5	“Extractive “Protectionism”? The Conditional Effect of Natural Resource Dependence on Protected Area Designation” Austin Beacham (University of California, San Diego)**
 <br />
-*Moderator:* Valentina Gonzalez-Rostani (University of Pittsburgh)
+*Moderator:* [Valentina Gonzalez Rostani](https://gonzalez-rostani.com/) (University of Pittsburgh)
 
-**October 12	“The Path from Automation to Populist Political Behavior” Valentina Gonzalez Rostani (University of Pittsburgh)**
+**October 12	“The Path from Automation to Populist Political Behavior” [Valentina Gonzalez Rostani](https://gonzalez-rostani.com/) (University of Pittsburgh)**
 <br />
 *Moderator:* TBD
 
