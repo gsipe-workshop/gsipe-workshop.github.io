@@ -37,7 +37,7 @@ author_profile: true
     <div style="flex: 1; margin-right: 20px;">
         <h2>Media</h2>
         <ul>
-          <li><a href="https://gonzalez-rostani.netlify.app/">Valentina González-Rostani (University of Pittsburgh)</a></li>
+          <li><a href="https://gonzalez-rostani.com/">Valentina González-Rostani (University of Pittsburgh)</a></li>
             <li><a href="https://polisci.la.psu.edu/people/lkz5164/">Lingbo Zhao (Pennsylvania State University)</a></li>
             
         </ul>
