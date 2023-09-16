@@ -15,6 +15,14 @@ author_profile: true
                         <li><a href="https://www.haocharliezhang.com/">Hao Zhang (Massachusetts Institute of Technology)</a></li>
 
         </ul>
+        
+         <h2>Media</h2>
+        <ul>
+          <li><a href="https://gonzalez-rostani.com/">Valentina González-Rostani (University of Pittsburgh)</a></li>
+            <li><a href="https://polisci.la.psu.edu/people/lkz5164/">Lingbo Zhao (Pennsylvania State University)</a></li>
+            
+        </ul>
+
     </div>
 
     <div style="flex: 1;">
@@ -32,18 +40,7 @@ author_profile: true
     </div>
 </div>
 
-<div style="clear: both;"></div>
 
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1; margin-right: 20px;">
-        <h2>Media</h2>
-        <ul>
-          <li><a href="https://gonzalez-rostani.com/">Valentina González-Rostani (University of Pittsburgh)</a></li>
-            <li><a href="https://polisci.la.psu.edu/people/lkz5164/">Lingbo Zhao (Pennsylvania State University)</a></li>
-            
-        </ul>
-    </div>
-</div>
 
 
 
