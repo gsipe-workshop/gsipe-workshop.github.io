@@ -7,11 +7,11 @@ author_profile: true
 
 All workshop events take place virtually on Thursday, 12:00-13:00 (1:00 pm) Eastern Time (UTC−05:00).
 
-**September 14	“The Politics of Compulsory Licensing: Democracy and Regulatory Threat in Public Health” [Sojun Park](https://www.sojunpark.com/) (Princeton University)** [Manuscript](https://drive.google.com/file/d/11OgtQNpaoR9HJAYWIMfDpaRXc7FLHd8e/view?usp=sharing)
+**September 14	“The Politics of Compulsory Licensing: Democracy and Regulatory Threat in Public Health” [Sojun Park](https://www.sojunpark.com/) (Princeton University). [Manuscript](https://drive.google.com/file/d/11OgtQNpaoR9HJAYWIMfDpaRXc7FLHd8e/view?usp=sharing).** 
 <br />
 *Moderator:* [Hao Zhang](https://www.haocharliezhang.com/) (Massachusetts Institute of Technology)
 
-**September 21	“Commerce, Coalitions, and Global Value Chains: Coordinated and Collective Lobbying on Trade” [Hao Zhang](https://www.haocharliezhang.com/) (Massachusetts Institute of Technology)** [Manuscript](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4527143)
+**September 21	“Commerce, Coalitions, and Global Value Chains: Coordinated and Collective Lobbying on Trade” [Hao Zhang](https://www.haocharliezhang.com/) (Massachusetts Institute of Technology). [Manuscript](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4527143).** 
 <br />
 *Moderator:* [Sojun Park](https://www.sojunpark.com/)  (Princeton University)
 
@@ -23,7 +23,7 @@ All workshop events take place virtually on Thursday, 12:00-13:00 (1:00 pm) East
 <br />
 *Moderator:* [Valentina Gonzalez Rostani](https://gonzalez-rostani.com/) (University of Pittsburgh)
 
-**October 12	“The Path from Automation to Populist Political Behavior” [Valentina Gonzalez Rostani](https://gonzalez-rostani.com/) (University of Pittsburgh)** [Manuscript](https://www.dropbox.com/scl/fi/0g6wo4lwac6ldk42gr0mw/APSA_Automation_Culture.pdf?rlkey=ecck0pxx7v4hb6wjsgs3s9ww6&raw=1)
+**October 12	“The Path from Automation to Populist Political Behavior” [Valentina Gonzalez Rostani](https://gonzalez-rostani.com/) (University of Pittsburgh). [Manuscript](https://www.dropbox.com/scl/fi/0g6wo4lwac6ldk42gr0mw/APSA_Automation_Culture.pdf?rlkey=ecck0pxx7v4hb6wjsgs3s9ww6&raw=1).** 
 <br />
 *Moderator:* [Elisa Navarra](https://sites.google.com/view/elisanavarra) (Université de Bruxelles)
 
