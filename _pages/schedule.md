@@ -7,9 +7,9 @@ author_profile: true
 
 All workshop events take place virtually on Thursday, 12:00-13:00 (1:00 pm) Eastern Time (UTC−05:00).
 
-**September 14	“The Politics of Compulsory Licensing: Democracy and Regulatory Threat in Public Health” Sojun Park (Princeton University)**
+**September 14	“The Politics of Compulsory Licensing: Democracy and Regulatory Threat in Public Health” Sojun Park (Princeton University)** [https://drive.google.com/file/d/11OgtQNpaoR9HJAYWIMfDpaRXc7FLHd8e/view?usp=sharing](Manuscript)
 <br />
-*Moderator:* TBD
+*Moderator:* Hao Zhang 
 
 **September 21	“Commerce, Coalitions, and Global Value Chains: Coordinated and Collective Lobbying on Trade” Hao Zhang (Massachusetts Institute of Technology)**
 <br />
