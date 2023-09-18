@@ -239,8 +239,6 @@ details[open] div {
   </details> </td> 
       </tr>
 </thead>
-<thead>
-  <tr>
 
   
 </table>
