@@ -1,11 +1,11 @@
 # main links links
 main:
 
-#  - title: "Paper"
-#    url: /paper/
+  - title: "Paper"
+    url: /paper/
     
-  - title: "Call for Papers"
-    url: /call-papers/
+#  - title: "Call for Papers"
+#    url: /call-papers/
     
   - title: "Schedule"
     url: /schedule/
