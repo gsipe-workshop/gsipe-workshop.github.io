@@ -7,20 +7,15 @@ author_profile: true
 
 All workshop events take place virtually on Thursday, 12:00-13:00 (1:00 pm) Eastern Time (UTC−05:00).
 
-## Next Week Workshop
-
-**September 21	“Commerce, Coalitions, and Global Value Chains: Coordinated and Collective Lobbying on Trade” [Hao Zhang](https://www.haocharliezhang.com/) (Massachusetts Institute of Technology). [Manuscript](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4527143).** 
-<br />
-*Moderator:* [Sojun Park](https://www.sojunpark.com/)  (Princeton University)
 
 
 ## Full Schedule
 
-**September 14	“The Politics of Compulsory Licensing: Democracy and Regulatory Threat in Public Health” [Sojun Park](https://www.sojunpark.com/) (Princeton University). [Manuscript](https://drive.google.com/file/d/11OgtQNpaoR9HJAYWIMfDpaRXc7FLHd8e/view?usp=sharing).** 
+**September 14	“The Politics of Compulsory Licensing: Democracy and Regulatory Threat in Public Health” [Sojun Park](https://www.sojunpark.com/) (Princeton University).** 
 <br />
 *Moderator:* [Hao Zhang](https://www.haocharliezhang.com/) (Massachusetts Institute of Technology)
 
-**September 21	“Commerce, Coalitions, and Global Value Chains: Coordinated and Collective Lobbying on Trade” [Hao Zhang](https://www.haocharliezhang.com/) (Massachusetts Institute of Technology). [Manuscript](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4527143).** 
+**September 21	“Commerce, Coalitions, and Global Value Chains: Coordinated and Collective Lobbying on Trade” [Hao Zhang](https://www.haocharliezhang.com/) (Massachusetts Institute of Technology).** 
 <br />
 *Moderator:* [Sojun Park](https://www.sojunpark.com/)  (Princeton University)
 
