@@ -8,7 +8,7 @@ author_profile: true
 
 Thursday, September 21st
 
-Hao Zhang (Massachusetts Institute of Technology)
+[Hao Zhang](https://www.haocharliezhang.com/) (Massachusetts Institute of Technology)
 
 Title: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4527143">**Commerce, Coalitions, and Global Value Chains: Coordinated and Collective Lobbying on Trade**</a>
 
