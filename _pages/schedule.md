@@ -49,7 +49,7 @@ All workshop events take place virtually on Thursday, 12:00-13:00 (1:00 pm) East
 
 **November 16	“Refugee Reception Policy and Nation Building” Federica lo Polito (Toulouse School of Economics)**
 <br />
-*Moderator:* [Yujin Zhang](https://polisci.columbia.edu/content/yujin-zhang) (University of Columbia)
+*Moderator:* [Yujin Zhang](https://polisci.columbia.edu/content/yujin-zhang) (Columbia University)
 
 **November 23	“Preferential Trade Agreements and Leaders' Business Experience” [Nicola Nones](https://www.nicolanones.com/) (University of Toronto)**
 <br />
