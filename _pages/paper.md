@@ -6,15 +6,15 @@ author_profile: true
 ---
 
 
-Thursday, September 28th
+Thursday, October 5th
 
-[Hongyi She](https://www.hongyshe.com/) (University of Rochester)
+[Austin Beacham](https://www.austinbeacham.com/) (University of California, San Diego)
 
-Title: <a href="https://gsipe-workshop.github.io/files/SheHongyi_GSIPE.pdf">**Learning About Trade**</a>
+Title: <a href="https://gsipe-workshop.github.io/files/Beacham_JMP.pdf">**Extractive “Protectionism”? The Conditional Effect of Natural Resource Dependence on Protected Area Designation**</a>
 
 
 **Abstract:**
 
-How do citizens form their opinions on international trade? Recent studies have challenged the assumption that economic self-interest is a key driving force behind individuals’ trade attitudes. Using a survey experiment on a nationally representative sample of Americans, I show that despite widespread misperceptions, respondents are able to form more accurate beliefs, in a manner consistent with rational (Bayesian) updating, when given expert information about the economic consequences of trade. Moreover, information affects stated support for different trade policies only through its impact on beliefs. While individual trade preferences differ by party, race, and the identity of the trading partner, none of these factors lead to biased information processing. Nevertheless, the speed of learning does vary by gender, numeracy, prior trade knowledge, and the identity of the trading partner.
+Biodiversity decline and ecosystem loss are among the gravest transnational crises facing the planet, with deep implications for climate change. What determines how different countries choose to protect nature? Previous work has argued that economic dependence on natural resources undermines green policies. I instead argue that resource dependence can lead to mobilization in favor of protection. Citizens experience the negative consequences of environmental degradation and ecosystem loss firsthand, and domestic and international green groups take notice. Although mobilization occurs across regimes, in democracies these groups can more effectively advocate for protection once mobilized. The adverse effects of resource dependence, therefore, mainly apply to less democratic countries, where extractive interests are most able to steer policymaking and mobilization is less likely to succeed. To test this argument, I employ a mixed-methods research design. I employ a novel panel regression discontinuity design at country borders for all terrestrial country-border pairs from 1992 to 2020, using new geospatial data on protected area (PA) designation over time. I find that the effect of natural resource dependence is conditional: when democratic institutions are weaker, natural resource dependence leads to less biodiversity protection. When democracy is stronger, natural resource dependence increases the likelihood that protected areas are established. I complement these results with a qualitative case study of the history of conservation in Costa Rica as a typical case for my mechanisms. These findings highlight the mitigating role that democratic institutions can play between natural resource dependence and biodiversity protection, and have important implications for our understanding of environmental politics and the role of mobilization among various actors in shifting policy.
 
-**Moderator:** [Jing Qian](https://jingqian.org/)
+**Moderator:** [Valentina Gonzalez-Rostani](https://gonzalez-rostani.com/)
