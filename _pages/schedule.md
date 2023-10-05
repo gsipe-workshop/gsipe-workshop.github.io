@@ -5,11 +5,57 @@ permalink: /schedule/
 author_profile: true
 ---
 
-All workshop events take place virtually on Thursday, 12:00-13:00 (1:00 pm) Eastern Time (UTC−05:00).
+**NEW DATE**
+All workshop events take place virtually on Tuesday, 12:00-13:00 (1:00 pm) Eastern Time (UTC−05:00).
 
 
+# Full Schedule 
 
-## Full Schedule
+## Upcoming Workshops 
+
+**October 10	“The Path from Automation to Populist Political Behavior” [Valentina Gonzalez Rostani](https://gonzalez-rostani.com/) (University of Pittsburgh). [Manuscript](https://www.dropbox.com/scl/fi/0g6wo4lwac6ldk42gr0mw/APSA_Automation_Culture.pdf?rlkey=ecck0pxx7v4hb6wjsgs3s9ww6&raw=1).** 
+<br />
+*Moderator:* [Elisa Navarra](https://sites.google.com/view/elisanavarra) (Université de Bruxelles)
+
+**October 19	“Treaty Shopping, Race to the Bottom, and Treaty Cascades” [Jing Qian](https://jingqian.org/) (Princeton University)**
+<br />
+*Moderator:* [Austin Beacham](https://www.austinbeacham.com/) (University of California, San Diego)
+
+**October 24	“Dynamics of Varieties in the US: Evidence from Trademarks” Giulia Lo Forte (University of British Columbia)**
+<br />
+*Moderator:* [Oriana Montti](https://www.orianamontti.com/) (Brandeis University)
+
+**October 31	“Effects of Trade Barriers on FDI: Evidence from Chinese Solar Panels” [Oriana Montti](https://www.orianamontti.com/) (Brandeis University)**
+<br />
+*Moderator:* Giulia Lo Forte (University of British Columbia)
+
+**November 7	“Trade, Labor Unions and Populism: Do Weak Unions Explain the Rise of Far-right Nationalism in Response to Trade Shocks?” [Carlos Felipe Balcazar](https://cfbalcazar.github.io/) (Yale University)**
+<br /> 
+*Moderator:* Seung-Uk Huh (University of Illinois at Urbana-Champaign)
+
+**November 14	“Refugee Reception Policy and Nation Building” Federica lo Polito (Toulouse School of Economics)**
+<br />
+*Moderator:* [Yujin Zhang](https://polisci.columbia.edu/content/yujin-zhang) (Columbia University)
+
+**November 21	“Preferential Trade Agreements and Leaders' Business Experience” [Nicola Nones](https://www.nicolanones.com/) (University of Toronto)**
+<br />
+*Moderator:* Isabella Bellezza-Smull (Brown University)
+
+**November 28	“Normative Preferences and Support for International Economic Dispute Settlement” Seung-Uk Huh (University of Illinois at Urbana-Champaign)**
+<br />
+*Moderator:* [Nicola Nones](https://www.nicolanones.com/) (University of Toronto)
+ 
+**December 5	“Have your Cake and Eat it Too: Impatient Chinese State Capital in the Global South” [Keyi Tang](https://keyitang94.github.io/) (Boston University)**
+<br />
+*Moderator:* [James Sundquist](https://jamessundquist.github.io/website/) (Yale University) 
+
+**December 12: "Regulation Goods Beyond the Borderline: Effects of Trusted Trader Agreements on Bilateral Trade Flows" Isabella Belleza (Brown University)**
+<br />
+*Moderator:* [Zarlasht Muhammad Razeq](https://www.zarlashtmrazeq.com/) (McGill University) 
+
+
+## Previous Workshops
+
 
 **September 14	“The Politics of Compulsory Licensing: Democracy and Regulatory Threat in Public Health” [Sojun Park](https://www.sojunpark.com/) (Princeton University).** 
 <br />
@@ -27,45 +73,6 @@ All workshop events take place virtually on Thursday, 12:00-13:00 (1:00 pm) East
 <br />
 *Moderator:* [Valentina Gonzalez Rostani](https://gonzalez-rostani.com/) (University of Pittsburgh)
 
-**October 12	“The Path from Automation to Populist Political Behavior” [Valentina Gonzalez Rostani](https://gonzalez-rostani.com/) (University of Pittsburgh). [Manuscript](https://www.dropbox.com/scl/fi/0g6wo4lwac6ldk42gr0mw/APSA_Automation_Culture.pdf?rlkey=ecck0pxx7v4hb6wjsgs3s9ww6&raw=1).** 
-<br />
-*Moderator:* [Elisa Navarra](https://sites.google.com/view/elisanavarra) (Université de Bruxelles)
-
-**October 19	“Treaty Shopping, Race to the Bottom, and Treaty Cascades” [Jing Qian](https://jingqian.org/) (Princeton University)**
-<br />
-*Moderator:* [Austin Beacham](https://www.austinbeacham.com/) (University of California, San Diego)
-
-**October 26	“Dynamics of Varieties in the US: Evidence from Trademarks” Giulia Lo Forte (University of British Columbia)**
-<br />
-*Moderator:* [Oriana Montti](https://www.orianamontti.com/) (Brandeis University)
-
-**November 2	“Effects of Trade Barriers on FDI: Evidence from Chinese Solar Panels” [Oriana Montti](https://www.orianamontti.com/) (Brandeis University)**
-<br />
-*Moderator:* Giulia Lo Forte (University of British Columbia)
-
-**November 9	“Trade, Labor Unions and Populism: Do Weak Unions Explain the Rise of Far-right Nationalism in Response to Trade Shocks?” [Carlos Felipe Balcazar](https://cfbalcazar.github.io/) (Yale University)**
-<br /> 
-*Moderator:* Seung-Uk Huh (University of Illinois at Urbana-Champaign)
-
-**November 16	“Refugee Reception Policy and Nation Building” Federica lo Polito (Toulouse School of Economics)**
-<br />
-*Moderator:* [Yujin Zhang](https://polisci.columbia.edu/content/yujin-zhang) (Columbia University)
-
-**November 23	“Preferential Trade Agreements and Leaders' Business Experience” [Nicola Nones](https://www.nicolanones.com/) (University of Toronto)**
-<br />
-*Moderator:* Isabella Bellezza-Smull (Brown University)
-
-**November 30	“Normative Preferences and Support for International Economic Dispute Settlement” Seung-Uk Huh (University of Illinois at Urbana-Champaign)**
-<br />
-*Moderator:* [Nicola Nones](https://www.nicolanones.com/) (University of Toronto)
- 
-**December 7	“Have your Cake and Eat it Too: Impatient Chinese State Capital in the Global South” [Keyi Tang](https://keyitang94.github.io/) (Boston University)**
-<br />
-*Moderator:* [James Sundquist](https://jamessundquist.github.io/website/) (Yale University) 
-
-**December 14: "Regulation Goods Beyond the Borderline: Effects of Trusted Trader Agreements on Bilateral Trade Flows" Isabella Belleza (Brown University)**
-<br />
-*Moderator:* [Zarlasht Muhammad Razeq](https://www.zarlashtmrazeq.com/) (McGill University) 
 
 <!---**
 
