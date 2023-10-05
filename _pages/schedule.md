@@ -11,7 +11,6 @@ All workshop events take place virtually on Tuesday, 12:00-13:00 (1:00 pm) Easte
 
 *Links to workshop papers will be active as events draw closer [here](https://gsipe-workshop.github.io/paper/).*
 
-# Full Schedule 
 
 ## Upcoming Workshops 
 
