@@ -15,7 +15,7 @@ All workshop events take place virtually on Tuesday, 12:00-13:00 (1:00 pm) Easte
 
 ## Upcoming Workshops 
 
-**October 10	“The Path from Automation to Populist Political Behavior” [Valentina Gonzalez Rostani](https://gonzalez-rostani.com/) (University of Pittsburgh). [Manuscript](https://www.dropbox.com/scl/fi/0g6wo4lwac6ldk42gr0mw/APSA_Automation_Culture.pdf?rlkey=ecck0pxx7v4hb6wjsgs3s9ww6&raw=1).** 
+**October 10	“The Path from Automation to Populist Political Behavior” [Valentina Gonzalez Rostani](https://gonzalez-rostani.com/) (University of Pittsburgh).** 
 <br />
 *Moderator:* [Elisa Navarra](https://sites.google.com/view/elisanavarra) (Université de Bruxelles)
 
