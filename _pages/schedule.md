@@ -18,7 +18,7 @@ All workshop events take place virtually on Tuesday, 12:00-13:00 (1:00 pm) Easte
 <br />
 *Moderator:* [Elisa Navarra](https://sites.google.com/view/elisanavarra) (Université de Bruxelles)
 
-**October 19	“Treaty Shopping, Race to the Bottom, and Treaty Cascades” [Jing Qian](https://jingqian.org/) (Princeton University)**
+**October 17	“Treaty Shopping, Race to the Bottom, and Treaty Cascades” [Jing Qian](https://jingqian.org/) (Princeton University)**
 <br />
 *Moderator:* [Austin Beacham](https://www.austinbeacham.com/) (University of California, San Diego)
 
