@@ -6,15 +6,15 @@ author_profile: true
 ---
 
 
-Thursday, October 5th
+Tuesday, October 10th
 
-[Austin Beacham](https://www.austinbeacham.com/) (University of California, San Diego)
+[Valentina González-Rostani](https://gonzalez-rostani.com/) (University of Pittsburgh)
 
-Title: <a href="https://gsipe-workshop.github.io/files/Beacham_JMP.pdf">**Extractive “Protectionism”? The Conditional Effect of Natural Resource Dependence on Protected Area Designation**</a>
+Title: <a href="https://www.dropbox.com/scl/fi/0g6wo4lwac6ldk42gr0mw/APSA_Automation_Culture.pdf?rlkey=ecck0pxx7v4hb6wjsgs3s9ww6&raw=1">**The Path from Automation to Populist Political Behavior**</a>
 
 
 **Abstract:**
 
-Biodiversity decline and ecosystem loss are among the gravest transnational crises facing the planet, with deep implications for climate change. What determines how different countries choose to protect nature? Previous work has argued that economic dependence on natural resources undermines green policies. I instead argue that resource dependence can lead to mobilization in favor of protection. Citizens experience the negative consequences of environmental degradation and ecosystem loss firsthand, and domestic and international green groups take notice. Although mobilization occurs across regimes, in democracies these groups can more effectively advocate for protection once mobilized. The adverse effects of resource dependence, therefore, mainly apply to less democratic countries, where extractive interests are most able to steer policymaking and mobilization is less likely to succeed. To test this argument, I employ a mixed-methods research design. I employ a novel panel regression discontinuity design at country borders for all terrestrial country-border pairs from 1992 to 2020, using new geospatial data on protected area (PA) designation over time. I find that the effect of natural resource dependence is conditional: when democratic institutions are weaker, natural resource dependence leads to less biodiversity protection. When democracy is stronger, natural resource dependence increases the likelihood that protected areas are established. I complement these results with a qualitative case study of the history of conservation in Costa Rica as a typical case for my mechanisms. These findings highlight the mitigating role that democratic institutions can play between natural resource dependence and biodiversity protection, and have important implications for our understanding of environmental politics and the role of mobilization among various actors in shifting policy.
+I investigate the impact of automation exposure on political behavior in post-industrial societies, with a specific focus on support for populism. I examine potential causal mechanisms by exploring the interplay between economic and cultural factors. Using double randomization of treatment and mediators in a survey experiment conducted in the US, I divide my sample into two groups: one is randomly assigned to either a treatment condition related to exposure to robots or AI replacing jobs, or a control condition related to technological development; the other experiences manipulation of both the treatment and the encouragement of mediators (marginalization and nostalgia). My findings reveal that feelings of marginalization and nostalgia mediate the effects of job-threatening technological change on support for populism and illiberal policies. To enhance external validity, I implement mediation analysis using survey data from the European Social Survey. The results help us understand how structural changes in labor markets and cultural factors impact political behavior and inequality. 
 
-**Moderator:** [Valentina Gonzalez-Rostani](https://gonzalez-rostani.com/)
+**Moderator:** [Elisa Navarra](https://sites.google.com/view/elisanavarra)
