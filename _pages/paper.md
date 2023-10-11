@@ -6,15 +6,16 @@ author_profile: true
 ---
 
 
-Tuesday, October 10th
+Tuesday, October 17th
 
-[Valentina González-Rostani](https://gonzalez-rostani.com/) (University of Pittsburgh)
+[Jing Qian ](https://jingqian.org/) (Princeton University)
 
-Title: <a href="https://www.dropbox.com/scl/fi/0g6wo4lwac6ldk42gr0mw/APSA_Automation_Culture.pdf?rlkey=ecck0pxx7v4hb6wjsgs3s9ww6&raw=1">**The Path from Automation to Populist Political Behavior**</a>
+Title: <a href="https://drive.google.com/file/d/1-SGH70TjRpAG4hb6M4d5-rPJpPmtyC_q/view">**Treaty Shopping, Race to the Bo!om, and Treaty Cascades**</a>
 
 
 **Abstract:**
 
-I investigate the impact of automation exposure on political behavior in post-industrial societies, with a specific focus on support for populism. I examine potential causal mechanisms by exploring the interplay between economic and cultural factors. Using double randomization of treatment and mediators in a survey experiment conducted in the US, I divide my sample into two groups: one is randomly assigned to either a treatment condition related to exposure to robots or AI replacing jobs, or a control condition related to technological development; the other experiences manipulation of both the treatment and the encouragement of mediators (marginalization and nostalgia). My findings reveal that feelings of marginalization and nostalgia mediate the effects of job-threatening technological change on support for populism and illiberal policies. To enhance external validity, I implement mediation analysis using survey data from the European Social Survey. The results help us understand why at-risk workers turn to radical right parties. 
+Bilateral tax treaties (BTTs) enable multinational enterprises to engage in treaty shopping and lead to a drain on government tax revenue. Despite this, BTTs continue to proliferate with increasingly generous provisions, raising the puzzle of why governments are seemingly incentivized to perpetuate a system that creates tax avoidance opportunities for multinational enterprises through treaty shopping. This paper argues that the risk of treaty shopping, wherein investors exploit cheaper indirect routes through conduit countries for international payments, is a crucial driver of BTT network expansion. To address this risk, governments sign new BTTs with more favorable terms, leading to a vicious cycle that generates treaty cascades and a race to the bottom in withholding tax rates. Using original and comprehensive data on the universe of tax treaties and corporate tax codes covering more than 170 countries from 1980 to 2020, this paper provides empirical support for this argument. The results reveal that governments facing treaty-shopping risks are more likely to enter new BTTs and agree to lower withholding tax rates. These findings highlight the need for coordinated international efforts to address treaty shopping and shed light on
+international economic cooperation.
 
-**Moderator:** [Elisa Navarra](https://sites.google.com/view/elisanavarra)
+**Moderator:** [Austin Beacham](https://www.austinbeacham.com/)
