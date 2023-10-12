@@ -239,8 +239,20 @@ details[open] div {
   </details> </td> 
       </tr>
 </thead>
+<thead>
+  <tr>
+      <td class="tg-0pky">
+   <p style="font-size:20px"><a href = "https://jingqian.org"><b>Jing Qian</b></a></p>
+    <a href="https://jingqian.org">
+    <img src="https://gsipe-workshop.github.io/images/jing_qian.jpg" width="300" height="300"
+    ></a>
+  <br />
+  <details><summary>BIO</summary><p>My name is Jing Qian, and I am a Postgraduate Research Associate in the Department of Politics at Princeton University, where I defended my dissertation in May 2023. I am also affiliated with the Niehaus Center for Globalization and Governance. My dissertation explores the domestic and international politics of international taxation, with a focus on why — for decades — governments have been reluctant and unable to curb tax avoidance. More broadly, I study the politics of public finance, as well as transparency and replicability in quantitative research. My dissertation is supported by the Princeton University Multi-Center Graduate Student Dissertation Grant. Some of my work has been published in International Organization and Public Administration. </p>
+  </details>
+  </td>
+      </tr>
+</thead>  
 
-  
 </table>
 
 <hr>
