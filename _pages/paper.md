@@ -8,14 +8,13 @@ author_profile: true
 
 Tuesday, October 17th
 
-[Jing Qian ](https://jingqian.org/) (Princeton University)
+Giulia Lo Forte (University of British Columbia)
 
-Title: <a href="https://drive.google.com/file/d/1-SGH70TjRpAG4hb6M4d5-rPJpPmtyC_q/view">**Treaty Shopping, Race to the Bo!om, and Treaty Cascades**</a>
+Title: <a href="https://gsipe-workshop.github.io/files/Draft_GLF.pdf">**Trademarks and Gains from Variety: The Role of Multinational Enterprises**</a>
 
 
 **Abstract:**
 
-Bilateral tax treaties (BTTs) enable multinational enterprises to engage in treaty shopping and lead to a drain on government tax revenue. Despite this, BTTs continue to proliferate with increasingly generous provisions, raising the puzzle of why governments are seemingly incentivized to perpetuate a system that creates tax avoidance opportunities for multinational enterprises through treaty shopping. This paper argues that the risk of treaty shopping, wherein investors exploit cheaper indirect routes through conduit countries for international payments, is a crucial driver of BTT network expansion. To address this risk, governments sign new BTTs with more favorable terms, leading to a vicious cycle that generates treaty cascades and a race to the bottom in withholding tax rates. Using original and comprehensive data on the universe of tax treaties and corporate tax codes covering more than 170 countries from 1980 to 2020, this paper provides empirical support for this argument. The results reveal that governments facing treaty-shopping risks are more likely to enter new BTTs and agree to lower withholding tax rates. These findings highlight the need for coordinated international efforts to address treaty shopping and shed light on
-international economic cooperation.
+This paper investigates the role of multinational enterprises on variety growth. I introduce a new measurement of varieties based on trademarks, which is able to encompass all sectors of the economy and offer a unique perspective on the country of origin of varieties. Using data on federal trademarks registered in the United States between 1989 and 2014, I uncover a surprising trend of declining variety entry rates, despite a contemporaneous increase in imports. Detailed Chinese customs data show that the entry of Chinese firms into exporting is associated with Chinese variety gains but non-Chinese variety losses for US consumers, while multinational activity from China has a mildly positive effect on non-Chinese varieties. Therefore, this research contributes to a more nuanced understanding of the relationship between Chinese import competition and product innovation in the United States, challenging the assumption that all trade flows result in equal gains from variety.
 
-**Moderator:** [Austin Beacham](https://www.austinbeacham.com/)
+**Moderator:** [Oriana Montti](https://www.orianamontti.com/) (Brandeis University)
