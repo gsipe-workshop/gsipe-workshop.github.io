@@ -12,19 +12,9 @@ All workshop events take place virtually on Tuesday, 12:00-13:00 (1:00 pm) Easte
 *Links to workshop papers will be active as events draw closer [here](https://gsipe-workshop.github.io/paper/).*
 
 
+
 ## Upcoming Workshops 
 
-**October 10	“The Path from Automation to Populist Political Behavior” [Valentina González-Rostani](https://gonzalez-rostani.com/) (University of Pittsburgh).** 
-<br />
-*Moderator:* [Elisa Navarra](https://sites.google.com/view/elisanavarra) (Université de Bruxelles)
-
-**October 17	“Treaty Shopping, Race to the Bottom, and Treaty Cascades” [Jing Qian](https://jingqian.org/) (Princeton University)**
-<br />
-*Moderator:* [Austin Beacham](https://www.austinbeacham.com/) (University of California, San Diego)
-
-**October 24	“Dynamics of Varieties in the US: Evidence from Trademarks” Giulia Lo Forte (University of British Columbia)**
-<br />
-*Moderator:* [Oriana Montti](https://www.orianamontti.com/) (Brandeis University)
 
 **October 31	“Effects of Trade Barriers on FDI: Evidence from Chinese Solar Panels” [Oriana Montti](https://www.orianamontti.com/) (Brandeis University)**
 <br />
@@ -74,6 +64,17 @@ All workshop events take place virtually on Tuesday, 12:00-13:00 (1:00 pm) Easte
 <br />
 *Moderator:* [Valentina Gonzalez Rostani](https://gonzalez-rostani.com/) (University of Pittsburgh)
 
+**October 10	“The Path from Automation to Populist Political Behavior” [Valentina González-Rostani](https://gonzalez-rostani.com/) (University of Pittsburgh).** 
+<br />
+*Moderator:* [Elisa Navarra](https://sites.google.com/view/elisanavarra) (Université de Bruxelles)
+
+**October 17	“Treaty Shopping, Race to the Bottom, and Treaty Cascades” [Jing Qian](https://jingqian.org/) (Princeton University)**
+<br />
+*Moderator:* [Austin Beacham](https://www.austinbeacham.com/) (University of California, San Diego)
+
+**October 24	“Dynamics of Varieties in the US: Evidence from Trademarks” Giulia Lo Forte (University of British Columbia)**
+<br />
+*Moderator:* [Oriana Montti](https://www.orianamontti.com/) (Brandeis University)
 
 <!---**
 
