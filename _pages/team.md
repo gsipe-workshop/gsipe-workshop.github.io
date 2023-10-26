@@ -19,7 +19,7 @@ author_profile: true
          <h2>Media</h2>
         <ul>
           <li><a href="https://gonzalez-rostani.com/">Valentina González-Rostani (University of Pittsburgh)</a></li>
-            <li><a href="https://https://lingbozhao.github.io/">Lingbo Zhao (Pennsylvania State University)</a></li>
+            <li><a href="https://lingbozhao.github.io/">Lingbo Zhao (Pennsylvania State University)</a></li>
             
         </ul>
 
