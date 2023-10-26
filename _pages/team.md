@@ -19,7 +19,7 @@ author_profile: true
          <h2>Media</h2>
         <ul>
           <li><a href="https://gonzalez-rostani.com/">Valentina González-Rostani (University of Pittsburgh)</a></li>
-            <li><a href="https://polisci.la.psu.edu/people/lkz5164/">Lingbo Zhao (Pennsylvania State University)</a></li>
+            <li><a href="https://https://lingbozhao.github.io/">Lingbo Zhao (Pennsylvania State University)</a></li>
             
         </ul>
 
@@ -35,7 +35,7 @@ author_profile: true
             <li><a href="https://www.sociology.pitt.edu/people/ant-26">Tania Lucia Ramirez Farias (University of Pittsburgh)</a></li>
             <li><a href="https://www.zarlashtmrazeq.com/">Zarlasht M. Razeq (McGill University)</a></li>
             <li><a href="https://scholars.duke.edu/person/phuong.pham">Phuong Pham (Duke University)</a></li>
-             <li><a href="https://polisci.la.psu.edu/people/lkz5164/">Lingbo Zhao (Pennsylvania State University)</a></li>
+             <li><a href="https://lingbozhao.github.io/">Lingbo Zhao (Pennsylvania State University)</a></li>
         </ul>
     </div>
 </div>
