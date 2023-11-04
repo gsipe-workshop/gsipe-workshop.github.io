@@ -6,15 +6,16 @@ author_profile: true
 ---
 
 
-Tuesday, October 17th
+Tuesday, November 7th
 
-Giulia Lo Forte (University of British Columbia)
+[Carlos Felipe Balcazar](https://cfbalcazar.github.io/) (Yale University)
 
-Title: <a href="https://gsipe-workshop.github.io/files/Draft_GLF.pdf">**Trademarks and Gains from Variety: The Role of Multinational Enterprises**</a>
+Title: <a href="https://gsipe-workshop.github.io/files/Felipe.pdf">**Unions and protectionist populism: The role of unions in the backlash against globalization**</a>
 
 
 **Abstract:**
 
-This paper investigates the role of multinational enterprises on variety growth. I introduce a new measurement of varieties based on trademarks, which is able to encompass all sectors of the economy and offer a unique perspective on the country of origin of varieties. Using data on federal trademarks registered in the United States between 1989 and 2014, I uncover a surprising trend of declining variety entry rates, despite a contemporaneous increase in imports. Detailed Chinese customs data show that the entry of Chinese firms into exporting is associated with Chinese variety gains but non-Chinese variety losses for US consumers, while multinational activity from China has a mildly positive effect on non-Chinese varieties. Therefore, this research contributes to a more nuanced understanding of the relationship between Chinese import competition and product innovation in the United States, challenging the assumption that all trade flows result in equal gains from variety.
+The connection between import competition, economic nationalism and the rise of political extremism has been well-established, but little is known about the mechanisms that drive it. I argue that labor unions are essential institutions that protect society from these outcomes. I posit that strong labor unions increase the cost of using populist-politics for politicians, hamstringing populism. I provide evidence for my claims using data from the U.S. (2002-2016) and a shift-share that leverages quasi-exogenous variation in import competition, at the congressional district level. I find that where unions have weakened the most pre-treatment, import competition leads to an increase in the use of populist rhetoric, a negative effect on voters' attitudes towards cosmopolitanism,  and an increase in voters' support for economic nationalism. I also show that import competition leads to a reduction in congresspeople's support of unions' interests in policy making, especially regarding welfare policy, explaining the aforementioned findings. I also show that these findings reflect a dynamic process insofar as union activities fall with import competition.
 
-**Moderator:** [Oriana Montti](https://www.orianamontti.com/) (Brandeis University)
+
+**Moderator:** Seung-Uk Huh (University of Illinois at Urbana-Champaign)
