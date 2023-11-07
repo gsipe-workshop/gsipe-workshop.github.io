@@ -15,11 +15,6 @@ All workshop events take place virtually on Tuesday, 12:00-13:00 (1:00 pm) Easte
 
 ## Upcoming Workshops 
 
-
-**October 31	“Effects of Trade Barriers on FDI: Evidence from Chinese Solar Panels” [Oriana Montti](https://www.orianamontti.com/) (Brandeis University)**
-<br />
-*Moderator:* Giulia Lo Forte (University of British Columbia)
-
 **November 7	“Trade, Labor Unions and Populism: Do Weak Unions Explain the Rise of Far-right Nationalism in Response to Trade Shocks?” [Carlos Felipe Balcazar](https://cfbalcazar.github.io/) (Yale University)**
 <br /> 
 *Moderator:* Seung-Uk Huh (University of Illinois at Urbana-Champaign)
@@ -75,6 +70,13 @@ All workshop events take place virtually on Tuesday, 12:00-13:00 (1:00 pm) Easte
 **October 24	“Dynamics of Varieties in the US: Evidence from Trademarks” Giulia Lo Forte (University of British Columbia)**
 <br />
 *Moderator:* [Oriana Montti](https://www.orianamontti.com/) (Brandeis University)
+
+
+**October 31	“Effects of Trade Barriers on FDI: Evidence from Chinese Solar Panels” [Oriana Montti](https://www.orianamontti.com/) (Brandeis University)**
+<br />
+*Moderator:* Giulia Lo Forte (University of British Columbia)
+
+
 
 <!---**
 
