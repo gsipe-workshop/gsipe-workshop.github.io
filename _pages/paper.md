@@ -8,14 +8,15 @@ author_profile: true
 
 Tuesday, November 7th
 
-[Carlos Felipe Balcazar](https://cfbalcazar.github.io/) (Yale University)
+Federica lo Polito (Toulouse School of Economics)
 
-Title: <a href="https://gsipe-workshop.github.io/files/Felipe.pdf">**Unions and protectionist populism: The role of unions in the backlash against globalization**</a>
+Title: <a href="https://gsipe-workshop.github.io/files/JMP - Federica lo Polito.pdf">**Italians First: Refugee Reception Policy and National Identity**</a>
 
 
 **Abstract:**
 
-The connection between import competition, economic nationalism and the rise of political extremism has been well-established, but little is known about the mechanisms that drive it. I argue that labor unions are essential institutions that protect society from these outcomes. I posit that strong labor unions increase the cost of using populist-politics for politicians, hamstringing populism. I provide evidence for my claims using data from the U.S. (2002-2016) and a shift-share that leverages quasi-exogenous variation in import competition, at the congressional district level. I find that where unions have weakened the most pre-treatment, import competition leads to an increase in the use of populist rhetoric, a negative effect on voters' attitudes towards cosmopolitanism,  and an increase in voters' support for economic nationalism. I also show that import competition leads to a reduction in congresspeople's support of unions' interests in policy making, especially regarding welfare policy, explaining the aforementioned findings. I also show that these findings reflect a dynamic process insofar as union activities fall with import competition.
+This paper investigates the effects of intergroup contact with immigrants on natives' attachment to national identity. During the European refugee crisis, the Italian government implemented an emergency reception policy to address the unprecedented number of refugees. Using administrative data on the universe of reception centers that were opened between 2014 and 2018 and exploiting time and geographic variation in the opening of such centers, I first examine the effect of contact with refugees on behavior-based proxies of attachment to the nation. I find that the presence of refugees reduces support for regionalist political movements and increases the likelihood of voting for parties that promote national unity and identity. Municipalities receiving refugees also exhibit an increased level of social capital, which is proxied by consent to organ donation, and a significant increase in expenditures for non-excludable goods and transfers received from other levels of government. Finally, I construct an index of national identity by leveraging on rich data from Google Trends on terms related to Italian culture. Results show a significant increase in the search volume for these terms in municipalities that experienced intergroup contact. Overall, the evidence suggests that intergroup contact strengthens national identity among Italians.
 
 
-**Moderator:** Seung-Uk Huh (University of Illinois at Urbana-Champaign)
+
+**Moderator:** Yujin Zhang (Columbia University)
