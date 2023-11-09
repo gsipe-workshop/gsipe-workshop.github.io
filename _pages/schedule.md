@@ -15,9 +15,6 @@ All workshop events take place virtually on Tuesday, 12:00-13:00 (1:00 pm) Easte
 
 ## Upcoming Workshops 
 
-**November 7	“Trade, Labor Unions and Populism: Do Weak Unions Explain the Rise of Far-right Nationalism in Response to Trade Shocks?” [Carlos Felipe Balcazar](https://cfbalcazar.github.io/) (Yale University)**
-<br /> 
-*Moderator:* Seung-Uk Huh (University of Illinois at Urbana-Champaign)
 
 **November 14	“Refugee Reception Policy and Nation Building” Federica lo Polito (Toulouse School of Economics)**
 <br />
@@ -76,7 +73,9 @@ All workshop events take place virtually on Tuesday, 12:00-13:00 (1:00 pm) Easte
 <br />
 *Moderator:* Giulia Lo Forte (University of British Columbia)
 
-
+**November 7	“Trade, Labor Unions and Populism: Do Weak Unions Explain the Rise of Far-right Nationalism in Response to Trade Shocks?” [Carlos Felipe Balcazar](https://cfbalcazar.github.io/) (Yale University)**
+<br /> 
+*Moderator:* Seung-Uk Huh (University of Illinois at Urbana-Champaign)
 
 <!---**
 
