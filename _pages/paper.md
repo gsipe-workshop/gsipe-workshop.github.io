@@ -6,17 +6,16 @@ author_profile: true
 ---
 
 
-Tuesday, November 14th
+Tuesday, November 21st
 
-Federica lo Polito (Toulouse School of Economics)
+Nicola Nones[https://www.nicolanones.com/] (University of Toronto)
 
-Title: <a href="https://gsipe-workshop.github.io/files/JMP - Federica lo Polito.pdf">**Italians First: Refugee Reception Policy and National Identity**</a>
+Title: <a href="https://gsipe-workshop.github.io/files/Paper_nicolaNones.pdf">**Preferential Trade Agreements and Leaders’ Business Experience**</a>
 
 
 **Abstract:**
 
-This paper investigates the effects of intergroup contact with immigrants on natives' attachment to national identity. During the European refugee crisis, the Italian government implemented an emergency reception policy to address the unprecedented number of refugees. Using administrative data on the universe of reception centers that were opened between 2014 and 2018 and exploiting time and geographic variation in the opening of such centers, I first examine the effect of contact with refugees on behavior-based proxies of attachment to the nation. I find that the presence of refugees reduces support for regionalist political movements and increases the likelihood of voting for parties that promote national unity and identity. Municipalities receiving refugees also exhibit an increased level of social capital, which is proxied by consent to organ donation, and a significant increase in expenditures for non-excludable goods and transfers received from other levels of government. Finally, I construct an index of national identity by leveraging on rich data from Google Trends on terms related to Italian culture. Results show a significant increase in the search volume for these terms in municipalities that experienced intergroup contact. Overall, the evidence suggests that intergroup contact strengthens national identity among Italians.
+Many theories attempt to explain the determinants of Preferential Trade Agreements (PTAs) and their design. Existing accounts, however, focus almost exclusively on structural or domestic factors and ignore individual leaders. In this paper, I develop and test novel theoretical claims regarding executive leaders' prior career in private business and their trade cooperation policy once in office. I construct a new dataset on the Heads of the Executive's business managerial experience in the private, tradeable sector and test my main claims in a time-series-cross-sectional setting covering 185 countries from 1948 to 2009. To establish causality, I rely on an Instrumental variable strategy and leverage exogenous transitions due to sudden deaths in office. The results show that businesspersons-turned-politicians are more likely to enter PTAs and are more likely to sign deeper PTAs. The relationship is further mediated by a country's factor endowment as suggested by the Stolper-Samuelson trade model. The substantive effect of business experience is comparable to that of established factors in the literature, such as regime type.
 
 
-
-**Moderator:** Yujin Zhang (Columbia University)
+**Moderator:** Isabella Bellezza-Smull (Brown University)
