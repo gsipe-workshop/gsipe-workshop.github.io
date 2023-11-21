@@ -8,7 +8,7 @@ author_profile: true
 
 Tuesday, November 21st
 
-Nicola Nones[https://www.nicolanones.com/] (University of Toronto)
+[Nicola Nones](https://www.nicolanones.com/) (University of Toronto)
 
 Title: <a href="https://gsipe-workshop.github.io/files/Paper_nicolaNones.pdf">**Preferential Trade Agreements and Leaders’ Business Experience**</a>
 
