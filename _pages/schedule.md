@@ -16,14 +16,6 @@ All workshop events take place virtually on Tuesday, 12:00-13:00 (1:00 pm) Easte
 ## Upcoming Workshops 
 
 
-**November 14	“Refugee Reception Policy and Nation Building” Federica lo Polito (Toulouse School of Economics)**
-<br />
-*Moderator:* [Yujin Zhang](https://polisci.columbia.edu/content/yujin-zhang) (Columbia University)
-
-**November 21	“Preferential Trade Agreements and Leaders' Business Experience” [Nicola Nones](https://www.nicolanones.com/) (University of Toronto)**
-<br />
-*Moderator:* Isabella Bellezza-Smull (Brown University)
-
 **November 28	“Normative Preferences and Support for International Economic Dispute Settlement” Seung-Uk Huh (University of Illinois at Urbana-Champaign)**
 <br />
 *Moderator:* [Nicola Nones](https://www.nicolanones.com/) (University of Toronto)
@@ -76,6 +68,15 @@ All workshop events take place virtually on Tuesday, 12:00-13:00 (1:00 pm) Easte
 **November 7	“Trade, Labor Unions and Populism: Do Weak Unions Explain the Rise of Far-right Nationalism in Response to Trade Shocks?” [Carlos Felipe Balcazar](https://cfbalcazar.github.io/) (Yale University)**
 <br /> 
 *Moderator:* Seung-Uk Huh (University of Illinois at Urbana-Champaign)
+
+**November 14	“Refugee Reception Policy and Nation Building” Federica lo Polito (Toulouse School of Economics)**
+<br />
+*Moderator:* [Yujin Zhang](https://polisci.columbia.edu/content/yujin-zhang) (Columbia University)
+
+**November 21	“Preferential Trade Agreements and Leaders' Business Experience” [Nicola Nones](https://www.nicolanones.com/) (University of Toronto)**
+<br />
+*Moderator:* Isabella Bellezza-Smull (Brown University)
+
 
 <!---**
 
