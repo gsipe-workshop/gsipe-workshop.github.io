@@ -7,11 +7,13 @@ author_profile: true
 Information about special events and opportunities can be found here.
 
 
-<a href="https://twitter.com/gradstudent_ipe/status/1679871368068775937">Junior IPE APSA Happy Hour (September 1, 2023)</a>
+<a href="https://gsipe-workshop.github.io/files/GSIPE_6th_mini-conference_call_new - Documenti Google.pdf">6th GSIPE Mini-Conference: De-globalization or re-globalization: What outlooks for international economic relations? (March 15th, 2024)</a>
 
 <hr>
 
 ## Previous events:
+
+<a href="https://twitter.com/gradstudent_ipe/status/1679871368068775937">Junior IPE APSA Happy Hour (September 1, 2023)</a>
 
 <a href="https://gsipe-workshop.github.io/special-events/First_conference/">First Conference on International Economics and Political Economy (February 3-4, 2023)</a>
 
