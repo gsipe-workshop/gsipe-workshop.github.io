@@ -15,10 +15,6 @@ All workshop events take place virtually on Tuesday, 12:00-13:00 (1:00 pm) Easte
 
 ## Upcoming Workshops 
 
-
-**November 28	“Normative Preferences and Support for International Economic Dispute Settlement” Seung-Uk Huh (University of Illinois at Urbana-Champaign)**
-<br />
-*Moderator:* [Nicola Nones](https://www.nicolanones.com/) (University of Toronto)
  
 **December 5	“Have your Cake and Eat it Too: Impatient Chinese State Capital in the Global South” [Keyi Tang](https://keyitang94.github.io/) (Boston University)**
 <br />
@@ -76,6 +72,11 @@ All workshop events take place virtually on Tuesday, 12:00-13:00 (1:00 pm) Easte
 **November 21	“Preferential Trade Agreements and Leaders' Business Experience” [Nicola Nones](https://www.nicolanones.com/) (University of Toronto)**
 <br />
 *Moderator:* Isabella Bellezza-Smull (Brown University)
+
+
+**November 28	“Normative Preferences and Support for International Economic Dispute Settlement” Seung-Uk Huh (University of Illinois at Urbana-Champaign)**
+<br />
+*Moderator:* [Nicola Nones](https://www.nicolanones.com/) (University of Toronto)
 
 
 <!---**
