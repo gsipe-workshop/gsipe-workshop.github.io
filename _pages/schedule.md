@@ -15,10 +15,6 @@ All workshop events take place virtually on Tuesday, 12:00-13:00 (1:00 pm) Easte
 
 ## Upcoming Workshops 
 
- 
-**December 5	“Have your Cake and Eat it Too: Impatient Chinese State Capital in the Global South” [Keyi Tang](https://keyitang94.github.io/) (Boston University)**
-<br />
-*Moderator:* [James Sundquist](https://jamessundquist.github.io/website/) (Yale University) 
 
 **December 12: "Regulation Goods Beyond the Borderline: Effects of Trusted Trader Agreements on Bilateral Trade Flows" Isabella Belleza (Brown University)**
 <br />
@@ -77,6 +73,10 @@ All workshop events take place virtually on Tuesday, 12:00-13:00 (1:00 pm) Easte
 **November 28	“Normative Preferences and Support for International Economic Dispute Settlement” Seung-Uk Huh (University of Illinois at Urbana-Champaign)**
 <br />
 *Moderator:* [Nicola Nones](https://www.nicolanones.com/) (University of Toronto)
+
+**December 5	“Have your Cake and Eat it Too: Impatient Chinese State Capital in the Global South” [Keyi Tang](https://keyitang94.github.io/) (Boston University)**
+<br />
+*Moderator:* [James Sundquist](https://jamessundquist.github.io/website/) (Yale University) 
 
 
 <!---**
