@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Schedule Fall 2023"
+title: "Schedule Spring 2024"
 permalink: /schedule/
 author_profile: true
 ---
 
 **NEW DATE**
 
-All workshop events take place virtually on Tuesday, 12:00-13:00 (1:00 pm) Eastern Time (UTC−05:00).
+All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Eastern Time (UTC−05:00).
 
 *Links to workshop papers will be active as events draw closer [here](https://gsipe-workshop.github.io/paper/).*
 
@@ -15,13 +15,74 @@ All workshop events take place virtually on Tuesday, 12:00-13:00 (1:00 pm) Easte
 
 ## Upcoming Workshops 
 
-
-**December 12: "Regulation Goods Beyond the Borderline: Effects of Trusted Trader Agreements on Bilateral Trade Flows" Isabella Belleza (Brown University)**
+**February 12： Shiyang Wu (University of California Santa Barbara), "Strategized Exit: Sunset Clauses and Unilateral Terminations of Bilateral Investment Treaties"**
 <br />
-*Moderator:* [Zarlasht Muhammad Razeq](https://www.zarlashtmrazeq.com/) (McGill University) 
+*Moderator:* Marnie Ginis (Columbia University)
+
+
+**February 19： Ishana Ratan (University of California, Berkeley), "Does Manufacturing Matter? Forward Linkages and Downstream Growth in the Malaysian Solar Industry"**
+<br />
+*Moderator:* Christian Elliott (Brown University)
+
+
+**February 26： Nicolas Wesseler (UBC Sauder School of Business), "The Ties that Bind: Bilateral Gains from Trade and Interstate Conflicts"**
+<br />
+*Moderator:* Seung-Uk Huh (University of Illinois at Urbana-Champaign)
+
+**March 4： Seung-Uk Huh (University of Illinois at Urbana-Champaign), "Failed Coup Attempts and Fading Foreign Direct Investment in the Extractive Sector"**
+<br />
+*Moderator:* Yue Lin (University of California, Berkeley)
+
+
+**March 11： Yujin Zhang (Columbia University), "Openness and Prosperity: The Rise and Fall of Globalization and Mass Preferences for Free Trade"**
+<br />
+*Moderator:* Kirthana Ganeson (World Trade Institute)
+
+**March 18： Melle Scholten (University of Virginia), "Investing in Voice: Remittances and Varieties of Political Participation"**
+<br />
+*Moderator:* Søren Frank Etzerodt (Technical University of Munich)
+
+
+**March 25： Alexander Yarkin (Brown University and LISER), "Lobbying for Industrialization: Theory and Evidence"**
+<br />
+*Moderator:* Sujin Cha (University of Michigan)
+
+
+**April 1： Natalie Romeri-Grass (Ohio State University), "From Fighters to Farmers in My Backyard? Social and Economic Cohesion Among Unlikely Neighbors in the Hardest of Contexts"**
+<br />
+*Moderator:* Melle Scholten (University of Virginia)
+
+**April 8： Harshal Zalke (Princeton University), "Investments in the Shadow of Conflict"**
+<br />
+*Moderator:* Nicola Nones (University of Toronto)
+
+**April 15： Sujin Cha (University of Michigan), "Political Motives in Subsidy Distribution: A Firm-Level Analysis of US Industrial Policy from 1966 to 2023"**
+<br />
+*Moderator:* Harshal Zalke (Princeton University)
+
+**April 22： Søren Frank Etzerodt (Technical University of Munich), "The Political Shadows of Industrial Job Displacements: How to Compensate Losers from a Major Plant Closure"**
+<br />
+*Moderator:* Elisa Navarra (Universite libre de Bruxelles)
+
+
+**April 29： Kirthana Ganeson (World Trade Institute), "Accessing Markets or Exporting Norms: The Determinants of Democratic Provisions in EU Trade Agreements"**
+<br />
+*Moderator:* Yujin Zhang (Columbia University)
+
+**May 6： Marnie Ginis (Columbia University), "Strategic Adoption of Production Technology"**
+<br />
+*Moderator:* Shiyang Wu (University of California Santa Barbara)
 
 
 ## Previous Workshops
+
+
+
+
+
+<!---**
+
+All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Eastern Time (UTC−05:00).
 
 
 **September 14	“The Politics of Compulsory Licensing: Democracy and Regulatory Threat in Public Health” [Sojun Park](https://www.sojunpark.com/) (Princeton University).** 
@@ -78,10 +139,10 @@ All workshop events take place virtually on Tuesday, 12:00-13:00 (1:00 pm) Easte
 <br />
 *Moderator:* [James Sundquist](https://jamessundquist.github.io/website/) (Yale University) 
 
+**December 12: "Regulation Goods Beyond the Borderline: Effects of Trusted Trader Agreements on Bilateral Trade Flows" Isabella Belleza (Brown University)**
+<br />
+*Moderator:* [Zarlasht Muhammad Razeq](https://www.zarlashtmrazeq.com/) (McGill University) 
 
-<!---**
-
-All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Eastern Time (UTC−05:00).
 
 **February 13: Michael Allen (Yale University), "Unbundling the State: Legal Development in an Era of Global, Private Governance"**
 <br />
