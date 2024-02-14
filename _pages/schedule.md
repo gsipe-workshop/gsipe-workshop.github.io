@@ -15,11 +15,6 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 
 ## Upcoming Workshops 
 
-**February 12： Shiyang Wu (University of California Santa Barbara), "Strategized Exit: Sunset Clauses and Unilateral Terminations of Bilateral Investment Treaties"**
-<br />
-*Moderator:* Marnie Ginis (Columbia University)
-
-
 **February 19： Ishana Ratan (University of California, Berkeley), "Does Manufacturing Matter? Forward Linkages and Downstream Growth in the Malaysian Solar Industry"**
 <br />
 *Moderator:* Christian Elliott (Brown University)
@@ -77,6 +72,9 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 ## Previous Workshops
 
 
+**February 12： Shiyang Wu (University of California Santa Barbara), "Strategized Exit: Sunset Clauses and Unilateral Terminations of Bilateral Investment Treaties"**
+<br />
+*Moderator:* Marnie Ginis (Columbia University)
 
 
 
