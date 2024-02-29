@@ -15,9 +15,6 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 
 ## Upcoming Workshops 
 
-**February 26： Nicolas Wesseler (UBC Sauder School of Business), "The Ties that Bind: Bilateral Gains from Trade and Interstate Conflicts"**
-<br />
-*Moderator:* Seung-Uk Huh (University of Illinois at Urbana-Champaign)
 
 **March 4： Seung-Uk Huh (University of Illinois at Urbana-Champaign), "Failed Coup Attempts and Fading Foreign Direct Investment in the Extractive Sector"**
 <br />
@@ -74,6 +71,10 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 **February 19： Ishana Ratan (University of California, Berkeley), "Does Manufacturing Matter? Forward Linkages and Downstream Growth in the Malaysian Solar Industry"**
 <br />
 *Moderator:* Christian Elliott (Brown University)
+
+**February 26： Nicolas Wesseler (UBC Sauder School of Business), "The Ties that Bind: Bilateral Gains from Trade and Interstate Conflicts"**
+<br />
+*Moderator:* Seung-Uk Huh (University of Illinois at Urbana-Champaign)
 
 
 <!---**
