@@ -10,7 +10,7 @@ Monday, March 26th
 
 Seung-Uk Huh (University of Illinois at Urbana-Champaign)
 
-Title: <a href="https://gsipe-workshop.github.io/files/coup_fdi_GSIPE.pdf">**Failed Coup Attempts and Fading FDI in the Extractive Sector**</a>
+Title: <a href="https://gsipe-workshop.github.io/files/coup_fdi_GSIPE.v2.pdf">**Failed Coup Attempts and Fading FDI in the Extractive Sector**</a>
 
 **Abstract:**
 
