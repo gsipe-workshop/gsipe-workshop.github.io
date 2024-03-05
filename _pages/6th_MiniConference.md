@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-The **6th mini-conference on "De-globalization or re-globalization: What outlooks for international economic relations?"** will take place on the **15th of March 2024**.
+The **6th mini-conference** will take place on the **15th of March 2024**.
 
 Our panel of speakers will engage in insightful discussions and provide valuable perspectives on various facets of de-globalization and re-globalization. Topics to be covered include (but are not limited to) international flows and movements, multilateral institutions, climate and energy, economic statecraft, global value chains, public policy.
 
