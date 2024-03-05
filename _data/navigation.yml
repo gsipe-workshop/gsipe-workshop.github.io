@@ -11,7 +11,10 @@ main:
     url: /schedule/
 
   - title: "Special Events"
-    url: /special-events/    
+    url: /special-events/   
+
+  - title: "Special Events"
+    url: /special-events/6th_MiniConference/
 
   - title: "Previous Schedules"
     url: /previous-schedules/    
