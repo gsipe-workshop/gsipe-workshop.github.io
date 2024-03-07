@@ -16,11 +16,6 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 ## Upcoming Workshops 
 
 
-**March 4： Seung-Uk Huh (University of Illinois at Urbana-Champaign), "Failed Coup Attempts and Fading Foreign Direct Investment in the Extractive Sector"**
-<br />
-*Moderator:* Yue Lin (University of California, Berkeley)
-
-
 **March 11： Yujin Zhang (Columbia University), "Openness and Prosperity: The Rise and Fall of Globalization and Mass Preferences for Free Trade"**
 <br />
 *Moderator:* Kirthana Ganeson (World Trade Institute)
@@ -75,6 +70,11 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 **February 26： Nicolas Wesseler (UBC Sauder School of Business), "The Ties that Bind: Bilateral Gains from Trade and Interstate Conflicts"**
 <br />
 *Moderator:* Seung-Uk Huh (University of Illinois at Urbana-Champaign)
+
+
+**March 4： Seung-Uk Huh (University of Illinois at Urbana-Champaign), "Failed Coup Attempts and Fading Foreign Direct Investment in the Extractive Sector"**
+<br />
+*Moderator:* Yue Lin (University of California, Berkeley)
 
 
 <!---**
