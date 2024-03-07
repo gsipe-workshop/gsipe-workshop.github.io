@@ -6,15 +6,15 @@ author_profile: true
 ---
 
 
-Monday, March 26th
+Monday, March 11th
 
-Seung-Uk Huh (University of Illinois at Urbana-Champaign)
+<a href="https://sites.google.com/view/yujin-zhang/">Yujin Zhang</a> (Columbia University)
 
-Title: <a href="https://gsipe-workshop.github.io/files/coup_fdi_GSIPE.v2.pdf">**Failed Coup Attempts and Fading FDI in the Extractive Sector**</a>
+Title: <a href="https://gsipe-workshop.github.io/files/Openness_and_Prosperity.pdf">**Openness and Prosperity: Globalization Experiences and Mass Preferences for Free Trade**</a>
 
 **Abstract:**
 
-How do failed coup attempts impact foreign direct investment (FDI) inflows? A number of studies have examined the effects of political institutions and violent events on FDI inflows. However, the specific impact of failed coup attempts on sectoral FDI inflows has remained unexplored. In this paper, we argue that failed coup attempts lead to a decline in FDI inflows, particularly in the primary sector. Faced with failed coup attempts, leaders are compelled to devise various coup-proofing strategies, such as enhancing repressive capabilities and buying off military elites to counter potential future coups. To finance these strategies, leaders may prioritize deriving revenues from the primary sector, given its relatively straightforward revenue extraction processes. Drawing on sectoral FDI volume data from 1980 to 2008, we find a decline in FDI inflows within the primary sector in the years following failed coup attempts. This trend is not observed in other sectors, such as the secondary and tertiary sectors.
+Anti-globalization movements in advanced economies have attracted substantial scholarly attention, but to what extent do cumulative experiences of openness as opposed to personal socioeconomic status at a given time affect trade support? Adopting an inductive approach, this study argues that individuals can learn and form trade preferences from their early exposure to trade openness and economic growth. Employing cross-national datasets that cover individuals' preferences during the last three decades and exploring the exogenous shock caused by the Asian Financial Crisis, I demonstrate that increasing exposure to openness during economic upswings leads to significantly stronger later-life trade support. Conversely, experiencing greater openness during economic downturns could result in heightened opposition to international trade. Further examination indicates past experiences contribute to sustained trade support by enhancing individuals' material well-being and cultivating cosmopolitan perceptions. This paper documents the crucial impacts of personal experiences on political attitudes and provides a novel perspective for explaining the formation of trade preferences.
 
-**Moderator:** Yue Lin (UC Berkeley) 
+**Moderator:** Kirthana Ganeson (World Trade Institute) 
 
