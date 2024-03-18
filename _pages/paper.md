@@ -6,15 +6,14 @@ author_profile: true
 ---
 
 
-Monday, March 11th
+Monday, March 18th
 
-<a href="https://sites.google.com/view/yujin-zhang/">Yujin Zhang</a> (Columbia University)
+<a href="https://orcid.org/0009-0006-8853-6812">Melle Scholten</a> (University of Virginia)
 
-Title: <a href="https://gsipe-workshop.github.io/files/Openness_and_Prosperity.pdf">**Openness and Prosperity: Globalization Experiences and Mass Preferences for Free Trade**</a>
+Title: <a href="https://gsipe-workshop.github.io/files/scholten_remit_action_wp.pdf">**Investing in Voice: Remittances and Varieties of Political Participation**</a>
 
 **Abstract:**
 
-Anti-globalization movements in advanced economies have attracted substantial scholarly attention, but to what extent do cumulative experiences of openness as opposed to personal socioeconomic status at a given time affect trade support? Adopting an inductive approach, this study argues that individuals can learn and form trade preferences from their early exposure to trade openness and economic growth. Employing cross-national datasets that cover individuals' preferences during the last three decades and exploring the exogenous shock caused by the Asian Financial Crisis, I demonstrate that increasing exposure to openness during economic upswings leads to significantly stronger later-life trade support. Conversely, experiencing greater openness during economic downturns could result in heightened opposition to international trade. Further examination indicates past experiences contribute to sustained trade support by enhancing individuals' material well-being and cultivating cosmopolitan perceptions. This paper documents the crucial impacts of personal experiences on political attitudes and provides a novel perspective for explaining the formation of trade preferences.
+Remittances are the single most important source of foreign finance for emerging economies worldwide, yet political economists have not studied the political effects of remittances as much as they have other forms of global economic flows. I argue that remittances increase the participation of recipients in the macro-economy, changing and amplifying their political-economic interests. The best way for them to advocate these interests is not through voting, but by finding non-electoral pathways for exercising political voice. I test this theory using several different estimators, accounting for self-selection and country level institutional differences which could attenuate the personal effect of remittances. I find robust evidence in favor of my argument across specifications using Wave 7 of the Afrobarometer. My findings imply that recent work focusing on the linkages between remittances and democracy should consider the ways in which individuals can advocate their interests beyond formal electoral channels.
 
-**Moderator:** Kirthana Ganeson (World Trade Institute) 
-
+**Moderator:** Søren Frank Etzerodt (Technical University of Munich)
