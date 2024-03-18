@@ -13,8 +13,8 @@ main:
   - title: "Special Events"
     url: /special-events/   
 
-  - title: "Mini Conference"
-    url: /special-events/6th_MiniConference/
+#  - title: "Mini Conference"
+#    url: /special-events/6th_MiniConference/
 
   - title: "Previous Schedules"
     url: /previous-schedules/    
