@@ -6,7 +6,7 @@ author_profile: true
 ---
 Information about special events and opportunities can be found here.
 
-Come and join our ISA Happy Hour at Murphy's! Meeting time and location can be found in the ![flyer](gsipe-workshop.github.io/files/GSIPE_flyer.jpg) below. 
+Come and join our ISA Happy Hour at Murphy's! Meeting time and location can be found in the ![flyer](/files/GSIPE_flyer.jpg) below. 
 
 
 
