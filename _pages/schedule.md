@@ -16,18 +16,6 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 ## Upcoming Workshops 
 
 
-**March 11： Yujin Zhang (Columbia University), "Openness and Prosperity: The Rise and Fall of Globalization and Mass Preferences for Free Trade"**
-<br />
-*Moderator:* Kirthana Ganeson (World Trade Institute)
-
-**March 18： Melle Scholten (University of Virginia), "Investing in Voice: Remittances and Varieties of Political Participation"**
-<br />
-*Moderator:* Søren Frank Etzerodt (Technical University of Munich)
-
-
-**March 25： Alexander Yarkin (Brown University and LISER), "Lobbying for Industrialization: Theory and Evidence"**
-<br />
-*Moderator:* Sujin Cha (University of Michigan)
 
 
 **April 1： Natalie Romeri-Grass (Ohio State University), "From Fighters to Farmers in My Backyard? Social and Economic Cohesion Among Unlikely Neighbors in the Hardest of Contexts"**
@@ -75,6 +63,20 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 **March 4： Seung-Uk Huh (University of Illinois at Urbana-Champaign), "Failed Coup Attempts and Fading Foreign Direct Investment in the Extractive Sector"**
 <br />
 *Moderator:* Yue Lin (University of California, Berkeley)
+
+
+**March 11： Yujin Zhang (Columbia University), "Openness and Prosperity: The Rise and Fall of Globalization and Mass Preferences for Free Trade"**
+<br />
+*Moderator:* Kirthana Ganeson (World Trade Institute)
+
+**March 18： Melle Scholten (University of Virginia), "Investing in Voice: Remittances and Varieties of Political Participation"**
+<br />
+*Moderator:* Søren Frank Etzerodt (Technical University of Munich)
+
+
+**March 25： Alexander Yarkin (Brown University and LISER), "Lobbying for Industrialization: Theory and Evidence"**
+<br />
+*Moderator:* Sujin Cha (University of Michigan)
 
 
 <!---**
