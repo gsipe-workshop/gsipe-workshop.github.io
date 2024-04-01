@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 
-Monday, March 18th
+Monday, April 1st
 
-<a href="https://orcid.org/0009-0006-8853-6812">Melle Scholten</a> (University of Virginia)
+Natalie Romeri-Grass (Ohio State University)
 
-Title: <a href="https://gsipe-workshop.github.io/files/scholten_remit_action_wp.pdf">**Investing in Voice: Remittances and Varieties of Political Participation**</a>
+Title: <a href="https://docs.google.com/document/d/18Jbzi_yGXWosONVG7eeFihQzVU8JcqG1/edit">**After Peaceland? Ex-combatant Reintegration Markets, Peace Economies, and Community Cohesion in 'Post-Conflict' Colombia**</a>
 
 **Abstract:**
 
-Remittances are the single most important source of foreign finance for emerging economies worldwide, yet political economists have not studied the political effects of remittances as much as they have other forms of global economic flows. I argue that remittances increase the participation of recipients in the macro-economy, changing and amplifying their political-economic interests. The best way for them to advocate these interests is not through voting, but by finding non-electoral pathways for exercising political voice. I test this theory using several different estimators, accounting for self-selection and country level institutional differences which could attenuate the personal effect of remittances. I find robust evidence in favor of my argument across specifications using Wave 7 of the Afrobarometer. My findings imply that recent work focusing on the linkages between remittances and democracy should consider the ways in which individuals can advocate their interests beyond formal electoral channels.
+This dissertation prospectus proposes measuring the impact of Colombia's peace process by comparing the experiences of former FARC fighters under two reintegration tracks (individual v collective) offered to them and the experiences of civilians with whom they interact. While both tracks offer aid, one track helps ex-fighters develop increased social and economic ties and thus integrate better into society and ponder less on returning to war. Because collective reintegration settlements vary from each other, this prospectus proposes comparing ex-fighters within two municipalities in which both tracks operate. To do so, I use two ex-fighter sub-groups: collective aid/treated v individual aid/controlled. This project also measures levels of community acceptance of ex-fighters who have moved into formerly civilian areas, ex-fighter acceptance of civilians, and both aggregated for an overall social cohesion score. Further, I survey several civilian sub-groups by distance to the reintegration settlement: the civilians living in villages surrounding the reintegration settlement (treated), (semi-treated) civilians in town, (semi-treated) civilians living in other villages, and (controlled) civilians in distant villages. By comparing civilian responses based on distance to ex-fighters, I can track the flow of aid throughout the municipality to measure the impact of aid received on acceptance and economic and social cohesion. Finally, in comparing Colombia’s unique dual-track reintegration programming and civilian responses, this study theorizes an ex-fighter reintegration market and a reintegration resource-curse.
 
-**Moderator:** Søren Frank Etzerodt (Technical University of Munich)
+**Moderator:** Melle Scholten (University of Virginia)
