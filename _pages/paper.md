@@ -10,7 +10,7 @@ Monday, April 8th
 
 Harshal Zalke (Princeton University)
 
-Title: <a href="https://gsipe-workshop.github.io/files/Inv_War_HZ.pdf">**Investment Strategies in the Shadow of Conflict**</a>
+Title: <a href="https://gsipe-workshop.github.io/files/Investments_in_the_Shadow_of_War_HZ.pdf">**Investment Strategies in the Shadow of Conflict**</a>
 
 **Abstract:**
 
