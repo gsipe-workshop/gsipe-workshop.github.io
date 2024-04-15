@@ -18,14 +18,6 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 
 
 
-**April 1： Natalie Romeri-Grass (Ohio State University), "From Fighters to Farmers in My Backyard? Social and Economic Cohesion Among Unlikely Neighbors in the Hardest of Contexts"**
-<br />
-*Moderator:* Melle Scholten (University of Virginia)
-
-**April 8： Harshal Zalke (Princeton University), "Investments in the Shadow of Conflict"**
-<br />
-*Moderator:* Nicola Nones (University of Toronto)
-
 **April 15： Sujin Cha (University of Michigan), "Political Motives in Subsidy Distribution: A Firm-Level Analysis of US Industrial Policy from 1966 to 2023"**
 <br />
 *Moderator:* Harshal Zalke (Princeton University)
@@ -77,6 +69,15 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 **March 25： Alexander Yarkin (Brown University and LISER), "Lobbying for Industrialization: Theory and Evidence"**
 <br />
 *Moderator:* Sujin Cha (University of Michigan)
+
+
+**April 1： Natalie Romeri-Grass (Ohio State University), "From Fighters to Farmers in My Backyard? Social and Economic Cohesion Among Unlikely Neighbors in the Hardest of Contexts"**
+<br />
+*Moderator:* Melle Scholten (University of Virginia)
+
+**April 8： Harshal Zalke (Princeton University), "Investments in the Shadow of Conflict"**
+<br />
+*Moderator:* Nicola Nones (University of Toronto)
 
 
 <!---**
