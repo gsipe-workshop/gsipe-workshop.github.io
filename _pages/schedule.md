@@ -15,22 +15,6 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 
 ## Upcoming Workshops 
 
-
-
-
-**April 15： Sujin Cha (University of Michigan), "Political Motives in Subsidy Distribution: A Firm-Level Analysis of US Industrial Policy from 1966 to 2023"**
-<br />
-*Moderator:* Harshal Zalke (Princeton University)
-
-**April 22： Søren Frank Etzerodt (Technical University of Munich), "The Political Shadows of Industrial Job Displacements: How to Compensate Losers from a Major Plant Closure"**
-<br />
-*Moderator:* Elisa Navarra (Universite libre de Bruxelles)
-
-
-**April 29： Kirthana Ganeson (World Trade Institute), "Accessing Markets or Exporting Norms: The Determinants of Democratic Provisions in EU Trade Agreements"**
-<br />
-*Moderator:* Yujin Zhang (Columbia University)
-
 **May 6： Marnie Ginis (Columbia University), "Strategic Adoption of Production Technology"**
 <br />
 *Moderator:* Shiyang Wu (University of California Santa Barbara)
@@ -79,6 +63,17 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 <br />
 *Moderator:* Nicola Nones (University of Toronto)
 
+**April 15： Sujin Cha (University of Michigan), "Political Motives in Subsidy Distribution: A Firm-Level Analysis of US Industrial Policy from 1966 to 2023"**
+<br />
+*Moderator:* Harshal Zalke (Princeton University)
+
+**April 22： Søren Frank Etzerodt (Technical University of Munich), "The Political Shadows of Industrial Job Displacements: How to Compensate Losers from a Major Plant Closure"**
+<br />
+*Moderator:* Elisa Navarra (Universite libre de Bruxelles)
+
+**April 29： Kirthana Ganeson (World Trade Institute), "Accessing Markets or Exporting Norms: The Determinants of Democratic Provisions in EU Trade Agreements"**
+<br />
+*Moderator:* Yujin Zhang (Columbia University)
 
 <!---**
 
