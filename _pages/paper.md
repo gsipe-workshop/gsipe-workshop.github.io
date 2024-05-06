@@ -6,14 +6,15 @@ author_profile: true
 ---
 
 
-Monday, April 29th
+Monday, May 6th
 
-Kirthana Ganeson (World Trade Institute; University of Bern)
+Marnie Ginis (Columbia University)
 
-Title: <a href="https://gsipe-workshop.github.io/files/Ganeson_GSIPE2024.pdf">**Accessing Markets or Exporting Norms: The Determinants of Democratic Provisions in EU Trade Agreements**</a>
+Title: <a href="https://gsipe-workshop.github.io/files/GSIPE_Ginis.pdf">**Production Complexity as Extraction Protection**</a>
 
 **Abstract:**
 
-The European Union (EU) has been characterised as a conflicted trade power. It seeks to secure market access for its exporting companies while simultaneously using trade as a foreign policy tool to propagate its institutional values such as human rights and democracy. Given the EU’s dualistic approach to trade, this paper investigates which factors influence the inclusion of democracy-related provisions in EU preferential trade agreements (PTAs). Using novel data on democracy-related provisions in PTAs, the paper analyses 112 PTAs signed by the EU from 1960-2023. The results show that PTAs with countries that the EU has identified as economically significant incorporate relatively fewer democracy clauses. Furthermore, agreements with consolidated democracies are observed to contain a greater number of democracy clauses than those with autocratic regimes. Overall, the results suggest that the EU adopts varied frameworks for its trade agreements, tailored to the strategic importance of each trading partner. This paper highlights the EU's dual role as both a commercial and a normative power and reflects its internal conflict between gaining market shares and exporting democratic principles. This paper contributes to the literature on EU trade policy, the design of PTAs, and democracy within international trade.
+Do firms in developing countries use production complexity to avoid state extraction of their assets? For states, production complexity creates new, varied, and less visible asset extraction opportunities. For firms, production complexity can protect against asset extraction by making the production process less legi- ble. The implication of this strategic interaction is that production complexity is an important determinant of likelihood of asset extraction by the state. I argue that firms use the complexity of their production processes to obfuscate them from the state and protect themselves from asset extraction. Interviews with firms, government officials, and NGOs in Vietnam suggest that firms manufacturing complex products take advantage of the state’s lack of understanding of their production process to avoid fines, fees, and taxes. These findings reveal a novel way in which the changing global production landscape affects how firms in developing countries protect themselves from state asset extraction.
 
-**Moderator:** Yujin Zhang (Columbia University)
+
+**Moderator:** Shiyang Wu (University of California Santa Barbara)
