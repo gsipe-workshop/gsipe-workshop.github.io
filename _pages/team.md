@@ -10,16 +10,16 @@ author_profile: true
         <h2>Organizing</h2>
         <p>Email: <a href="mailto:gsipe.workshop@gmail.com">gsipe.workshop@gmail.com</a></p>
         <ul>
-            <li><a href="https://sites.google.com/view/ilaria-natali/home">Ilaria Natali (Toulouse School of Economics)</a></li>
-            <li><a href="https://ishanaratan.com/">Ishana Ratan (University of California, Berkeley)</a></li>
-                        <li><a href="https://www.haocharliezhang.com/">Hao Zhang (Massachusetts Institute of Technology)</a></li>
+            <li><a href="https://lsa.umich.edu/polisci/people/graduate-students/sujin-cha.html"> Sujin Cha (University of Michigan)</a></li>
+            <li><a href="https://www.nicolanones.com/"> Nicola Nones (University of Toronto)</a></li>
+            <li><a href="https://uva.theopenscholar.com/melle-scholten"> Melle Scholten (University of Virginia)</a></li>
 
         </ul>
         
          <h2>Media</h2>
         <ul>
-          <li><a href="https://gonzalez-rostani.com/">Valentina González-Rostani (University of Pittsburgh)</a></li>
-            <li><a href="https://lingbozhao.github.io/">Lingbo Zhao (Pennsylvania State University)</a></li>
+          <li><a href="https://www.linkedin.com/in/kexin-bai-08a3921b0/"> Kexin Bai (Texas A&M University)</a></li>
+           
             
         </ul>
 
@@ -29,13 +29,12 @@ author_profile: true
         <h2>Events</h2>
         <p>Email: <a href="mailto:gsipe.planning@gmail.com">gsipe.planning@gmail.com</a></p>
         <ul>
-            <li><a href="https://www.linkedin.com/in/arianna-bondi-375435161/?originalSubdomain=it">Arianna Bondi (McGill University)</a></li>
-            <li><a href="https://lsa.umich.edu/polisci/people/graduate-students/junfang.html">Jun Fang (University of Michigan)</a></li>
-            <li><a href="https://pol.illinois.edu/directory/profile/seungmi2">Seungmi Kim (University of Illinois Urbana-Champaign)</a></li>
-            <li><a href="https://www.sociology.pitt.edu/people/ant-26">Tania Lucia Ramirez Farias (University of Pittsburgh)</a></li>
-            <li><a href="https://www.zarlashtmrazeq.com/">Zarlasht M. Razeq (McGill University)</a></li>
-            <li><a href="https://scholars.duke.edu/person/phuong.pham">Phuong Pham (Duke University)</a></li>
-             <li><a href="https://lingbozhao.github.io/">Lingbo Zhao (Pennsylvania State University)</a></li>
+            <li><a href="https://www.maziebernard.com/"> Mazie Bernard (Purdue University)</a></li>
+            <li><a href="https://www.lse.ac.uk/international-relations/phd-students/della-guardia-anne"> Anne Della Guardia (London School of Economics and Political Science)</a></li>
+            <li><a href="https://pol.illinois.edu/directory/profile/suhuh2"> Seung-Uk Huh (University of Illinois Urbana-Champaign)</a></li>
+            <li><a href="https://florenceyuelin.github.io/"> Yue Lin (University of California, Berkeley)</a></li>
+            <li><a href="https://www.gov.harvard.edu/directory/ruofan-ma/"> Ruofan Ma (Harvard University)</a></li>
+             <li><a href="https://www.yujinzhang.com/"> Yujin Zhang (Columbia University)</a></li>
         </ul>
     </div>
 </div>
@@ -53,6 +52,32 @@ author_profile: true
 
 
 ## Former team members:
+
+### 2023-2024
+[IIaria Natali (Toulouse School of Economics)](https://sites.google.com/view/ilaria-natali/home)  
+
+[Ishana Ratan (University of California, Berkeley)](https://ishanaratan.com/)  
+
+[Hao Zhang (Massachusetts Institute of Technology)](https://www.haocharliezhang.com/)
+
+[Valentina González-Rostani (University of Pittsburgh)](https://gonzalez-rostani.com/)
+
+[Lingbo Zhao (Pennsylvania State University)](https://lingbozhao.github.io/)  
+
+[Arianna Bondi (McGill University)](https://www.linkedin.com/in/arianna-bondi-375435161/?originalSubdomain=it)
+
+[Jun Fang (University of Michigan)](https://lsa.umich.edu/polisci/people/graduate-students/junfang.html)
+
+[Seungmi Kim (University of Illinois Urbana-Champaign)](https://pol.illinois.edu/directory/profile/seungmi2)
+
+[Tania Lucia Ramirez Farias (University of Pittsburgh)](https://www.sociology.pitt.edu/people/ant-26)
+
+[Zarlasht M. Razeq (McGill University)](https://www.sociology.pitt.edu/people/ant-26)
+
+[Phuong Pham (Duke University)](https://scholars.duke.edu/person/phuong.pham)
+
+[Lingbo Zhao (Pennsylvania State University)](https://lingbozhao.github.io/)
+
 
 ### 2022-2023
 
