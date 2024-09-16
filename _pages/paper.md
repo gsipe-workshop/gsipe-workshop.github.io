@@ -10,7 +10,7 @@ Monday, September 16
 
 Tim Liptrot (Georgetown University)
 
-Title: <a href="https://gsipe-workshop.github.io/files/liptrot_gsipe_2024.pdf">**Personalist Property: When do Autocratic Successions Cause FDI Expropriation? **</a>
+Title: <a href="https://gsipe-workshop.github.io/files/liptrot_gsipe_2024.pdf">Personalist Property: When do Autocratic Successions Cause FDI Expropriation?</a>
 
 **Abstract:**
 
