@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Schedule Spring 2024"
+title: "Schedule Fall 2024"
 permalink: /schedule/
 author_profile: true
 ---
@@ -16,6 +16,10 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 ## Upcoming Workshops 
 **September 16： Tim Liptrot (Georgetown University), "Personalist Property: When do Autocratic Successions Cause FDI Expropriation?"**
 <br />
+
+
+
+<!---**
 
 ## Previous Workshops
 **May 6： Marnie Ginis (Columbia University), "Strategic Adoption of Production Technology"**
@@ -74,7 +78,7 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 <br />
 *Moderator:* Yujin Zhang (Columbia University)
 
-<!---**
+
 
 All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Eastern Time (UTC−05:00).
 
