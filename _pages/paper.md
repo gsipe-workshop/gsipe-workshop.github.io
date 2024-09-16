@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 
-Monday, May 6th
+Monday, September 16
 
-Marnie Ginis (Columbia University)
+Tim Liptrot (Georgetown University)
 
 Title: <a href="https://gsipe-workshop.github.io/files/GSIPE_Ginis.pdf">**Production Complexity as Extraction Protection**</a>
 
