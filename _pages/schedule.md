@@ -14,14 +14,13 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 
 
 ## Upcoming Workshops 
+**September 16： Tim Liptrot (Georgetown University), "Personalist Property: When do Autocratic Successions Cause FDI Expropriation?"**
+<br />
 
+## Previous Workshops
 **May 6： Marnie Ginis (Columbia University), "Strategic Adoption of Production Technology"**
 <br />
 *Moderator:* Shiyang Wu (University of California Santa Barbara)
-
-
-## Previous Workshops
-
 
 **February 12： Shiyang Wu (University of California Santa Barbara), "Strategized Exit: Sunset Clauses and Unilateral Terminations of Bilateral Investment Treaties"**
 <br />
