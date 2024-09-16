@@ -4,7 +4,7 @@ title: "Previous Schedules"
 permalink: /previous-schedules/
 author_profile: true
 ---
-<a href="https://gsipe-workshop.github.io/files/WorkshopSeriesFall2023.pdf">Fall 2024</a>
+<a href="https://gsipe-workshop.github.io/files/Spring2024.pdf">Spring 2024</a>
 
 <a href="https://gsipe-workshop.github.io/files/Schedule Spring 2023 - GSIPE Workshop.pdf
 ">Spring 2023</a>
