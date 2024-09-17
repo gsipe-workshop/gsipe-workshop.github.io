@@ -14,14 +14,18 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 
 
 ## Upcoming Workshops 
-**September 16： Tim Liptrot (Georgetown University), "Personalist Property: When do Autocratic Successions Cause FDI Expropriation?"**
+**September 23: Melle Scholten (University of Virginia), "The Prodigal Child Returns? Attitudes Towards Return Migration in a Developing Economy"**
 <br />
-
+*Moderator:* Natalia Guerrero Trinidad (University of Minnesota)
 
 
 <!---**
 
 ## Previous Workshops
+**September 16： Tim Liptrot (Georgetown University), "Personalist Property: When do Autocratic Successions Cause FDI Expropriation?"**
+<br />
+*Moderator:* Sujin Cha (University of Michigan)
+
 **May 6： Marnie Ginis (Columbia University), "Strategic Adoption of Production Technology"**
 <br />
 *Moderator:* Shiyang Wu (University of California Santa Barbara)
