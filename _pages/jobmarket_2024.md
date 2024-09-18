@@ -219,7 +219,6 @@ details[open] div {
 
 <a id='jmc_tag'></a>
 
-<!---**
 # Job Market Candidates by tags
 
 <br />
