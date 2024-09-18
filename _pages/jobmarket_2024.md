@@ -9,7 +9,7 @@ author_profile: true
 
 Profiles of graduate students in international political economy on the 2024 job market can be found here. 
 
-Are you on the 2024 IPE job market and would like to be featured on this page? Fill out this <a href = "https://docs.google.com/forms/d/e/1FAIpQLSfplQyOa9VMP23xnjb21ifpc-UbWY7ZxyY2bRAaao3_jnjn0A/viewform?usp=sf_link"><b>form</b></a>.
+Are you on the 2024 IPE job market and would like to be featured on this page? Fill out this <a href = "https://docs.google.com/forms/d/e/1FAIpQLSe0gVojrDDn-9lwx8JLeECqxfGkcWLLiHsWwLrcIDDVIwkTAg/viewform"><b>form</b></a>.
 
 <style>
 HTML SCSSResult Skip Results Iframe
