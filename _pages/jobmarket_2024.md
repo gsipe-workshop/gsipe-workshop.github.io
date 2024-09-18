@@ -210,10 +210,7 @@ details[open] div {
 </thead>
 <thead>
   <tr>
-    
-</thead>  
 
-</table>
 
 <hr>
 
