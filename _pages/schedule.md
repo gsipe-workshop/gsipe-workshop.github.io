@@ -12,11 +12,21 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 *Links to workshop papers will be active as events draw closer [here](https://gsipe-workshop.github.io/paper/).*
 
 
-
 ## Upcoming Workshops 
+
+**October 7th: Sujin Cha (University of Michigan), "Industrial Policy in a Globalized Economy: Firm Foreignness and US Subsidy Allocation"**
+<br />
+*Moderator:* Sojun Park (Princeton University) 
+
+## Previous Workshops
+
 **September 23: Melle Scholten (University of Virginia), "The Prodigal Child Returns? Attitudes Towards Return Migration in a Developing Economy"**
 <br />
 *Moderator:* Natalia Guerrero Trinidad (University of Minnesota)
+
+**September 16: Tim Liptrot (Georgetown University), "Personalist Property: When do Autocratic Successions Cause FDI Expropriation?"**
+<br />
+*Moderator:* Sujin Cha (University of Michigan) 
 
 
 <!---**
