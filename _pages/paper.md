@@ -6,13 +6,10 @@ author_profile: true
 ---
 
 
-Monday, September 23
+Monday, October 7
 
-Melle Scholten (University of Virginia) 
+Sujin Cha (University of Michigan)
 
-Title: <a href="https://gsipe-workshop.github.io/files/scholten_gsipe_2024.pdf">The Prodigal Child Returns? Attitudes Towards Return Migration in a Developing Economy</a>
+Title: <a href="https://gsipe-workshop.github.io/files/cha_gsipe_2024.pdf">Industrial Policy in a Globalized Economy: Firm Foreignness and US Subsidy Allocation</a>
 
-**Abstract:**
-Data estimates suggest that up to half of all migrants return to the country within 5 years of leaving. Return migration is known to be a boon for the local economy and a catalyst for political reform. However, these effects are conditional on successful reintegration, which is dependent on the preferences of non-migrants. What causes negative attitudes towards return migration, given its significant potential economic benefits? I argue that non-migrants are concerned about both the economic and political competition of returnees. Non-migrants prefer to welcome back migrants who can bring back home financial capital and employment, but will oppose competitors on the job market when unemployment is high. Furthermore, non-migrants are concerned about the potential role of return migrants as norm entrepreneurs. I test my hypotheses with a conjoint survey experiment conducted in Colombia, as well as an analysis of the 2016 peace referendum. 
-
-
+**Abstract:** Industrial policy (IP) supports strategically significant industries to serve national interests. In a globalized economy, however, IP benefits often extend to foreign firms, such as the US government’s $6.6 billion subsidy to Taiwan’s TSMC for a project in Arizona. This raises questions about the determinants of IP support distribution, including what explains the allocation of industrial subsidies to firms in a globalized economy. I argue that political incentives drive politicians to support firms to secure backing from businesses and workers and international competition compels governments to favor large domestic firms in key sectors like manufacturing and energy. Using data on US publicly traded firms and industrial subsidies from 2000 to 2023, I find that American firms—especially large ones collaborating with local suppliers and serving American customers—receive more subsidies than foreign ones. This trend has amplified since 2008 amid rising global competition, with large US firms benefiting more than non-US companies. While the discussion on industrial policy often focuses on its effects and consequences, this paper contributes to our understanding of the distribution of industrial policy from both domestic and international perspectives.
