@@ -13,12 +13,14 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 
 
 ## Upcoming Workshops 
-
-**October 7th: Sujin Cha (University of Michigan), "Industrial Policy in a Globalized Economy: Firm Foreignness and US Subsidy Allocation"**
+**October 14: Eric Thai (UC San Diego), " The Strategic Use of Tariff Phaseouts in US Free Trade Agreements"**
 <br />
-*Moderator:* Sojun Park (Princeton University) 
+*Moderator:* RyuGyung (Rio) Park (UC Davis)  
 
 ## Previous Workshops
+**October 7: Sujin Cha (University of Michigan), "Industrial Policy in a Globalized Economy: Firm Foreignness and US Subsidy Allocation"**
+<br />
+*Moderator:* Sojun Park (Princeton University) 
 
 **September 23: Melle Scholten (University of Virginia), "The Prodigal Child Returns? Attitudes Towards Return Migration in a Developing Economy"**
 <br />
