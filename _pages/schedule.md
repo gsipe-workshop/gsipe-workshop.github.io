@@ -13,11 +13,15 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 
 
 ## Upcoming Workshops 
+**October 21: RyuGyung (Rio) Park (UC Davis), "Green Protectionism in the Eyes of the Beholder"**
+<br />
+*Moderator:* Eric Thai (UC San Diego)   
+
+## Previous Workshops
 **October 14: Eric Thai (UC San Diego), " The Strategic Use of Tariff Phaseouts in US Free Trade Agreements"**
 <br />
 *Moderator:* RyuGyung (Rio) Park (UC Davis)  
 
-## Previous Workshops
 **October 7: Sujin Cha (University of Michigan), "Industrial Policy in a Globalized Economy: Firm Foreignness and US Subsidy Allocation"**
 <br />
 *Moderator:* Sojun Park (Princeton University) 
