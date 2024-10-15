@@ -16,7 +16,7 @@ tags:
 
   
 ---
-<img src="" width="300" height="500" />
+<img src="https://gsipe-workshop.github.io/images/Sojun_Park.jpg" width="300" height="300" />
 
 
 I am a Ph.D. candidate at Princeton University and a Global Political Economy Project fellow at Georgetown University. My research uncovers various sources of economic insecurity firms encounter in a globalized world, such as intellectual property theft and pandemics, and shows how the unpredictability of global markets drives corporate political behaviors and trade negotiations. I hold a B.A. in International Studies and a B.A. in Economics from Korea University. My work has been published at the Review of International Organizations and won the Best Graduate Student Paper Award at the International Studies Association's International Political Economy (IPE) section in 2024.
