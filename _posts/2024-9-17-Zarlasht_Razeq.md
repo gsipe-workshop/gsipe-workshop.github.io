@@ -7,7 +7,7 @@ excerpt: "Zarlasht received her Ph.D. in Political Science from McGill Universit
 
 tags:
   - trade
-  - foreign direct investment
+  - FDI
   - globalization
   - GVCs
 
