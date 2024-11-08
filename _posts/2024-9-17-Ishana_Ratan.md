@@ -7,8 +7,8 @@ excerpt: "I am a PhD candidate in Political Science at the University of Califor
 
 tags:
   - development
-  - multinational corporations
-  - foreign direct investment
+  - MNCs
+  - FDI
   - environment 
   
 ---
