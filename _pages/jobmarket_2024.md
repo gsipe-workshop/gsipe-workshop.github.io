@@ -136,7 +136,7 @@ details[open] div {
   </details>
   </td>
       <td class="tg-0pky">
-    <p style="font-size:20px"><a href = ""><b>RyuGyung (Rio) Park</b></a></p>
+    <p style="font-size:20px"><a href = "https://riopark.weebly.com/"><b>RyuGyung (Rio) Park</b></a></p>
     <a href="https://riopark.weebly.com/">
     <img src="https://gsipe-workshop.github.io/images/RyuGyung_Park.JPG" width="300" height="300"
     ></a>
