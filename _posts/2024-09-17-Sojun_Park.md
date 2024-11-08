@@ -7,10 +7,10 @@ excerpt: "I am a Ph.D. candidate at Princeton University and a Global Political 
 
 tags:
   - trade
-  - multinational corporations
+  - MNCs
   - globalization
   - technology
-  - intellectual property rights
+  - IP rights
 
 
 
