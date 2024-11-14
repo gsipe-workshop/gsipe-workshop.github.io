@@ -30,7 +30,6 @@ author_profile: true
         <p>Email: <a href="mailto:gsipe.planning@gmail.com">gsipe.planning@gmail.com</a></p>
         <ul>
             <li><a href="https://www.maziebernard.com/"> Mazie Bernard (Purdue University)</a></li>
-            <li><a href="https://www.lse.ac.uk/international-relations/phd-students/della-guardia-anne"> Anne Della Guardia (London School of Economics and Political Science)</a></li>
             <li><a href="https://pol.illinois.edu/directory/profile/suhuh2"> Seung-Uk Huh (University of Illinois Urbana-Champaign)</a></li>
             <li><a href="https://florenceyuelin.github.io/"> Yue Lin (University of California, Berkeley)</a></li>
             <li><a href="https://www.gov.harvard.edu/directory/ruofan-ma/"> Ruofan Ma (Harvard University)</a></li>
