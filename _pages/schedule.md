@@ -13,9 +13,9 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 
 
 ## Upcoming Workshops 
-**November 25: Abdulrasheed Isah (ETH Zürich), "What drives the specificity of climate finance needs in developing countries’
-international climate pledges?"**
-
+**November 25: Abdulrasheed Isah (ETH Zürich), "What drives the specificity of climate finance needs in developing countries’ international climate pledges?"**
+<br />
+*Moderator:* Nicola Nones (University of Toronto)
 
 ## Previous Workshops
 **November 4: Natalia Pia Guerrero Trinidad (Minnesota), "Non-State Social Structures and Social Capital: Evidence on Crime and Conflict"**
