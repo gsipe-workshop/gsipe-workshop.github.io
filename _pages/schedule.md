@@ -13,11 +13,15 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 
 
 ## Upcoming Workshops 
-**November 4: Natalia Pia Guerrero Trinidad (Minnesota), "Non-State Social Structures and Social Capital: Evidence on Crime and Conflict"**
-<br />
-*Moderator:* Jing Li (Notre Dame)   
+**November 25: Abdulrasheed Isah (ETH Zürich), "What drives the specificity of climate finance needs in developing countries’
+international climate pledges?"**
+
 
 ## Previous Workshops
+**November 4: Natalia Pia Guerrero Trinidad (Minnesota), "Non-State Social Structures and Social Capital: Evidence on Crime and Conflict"**
+<br />
+*Moderator:* Jing Li (Notre Dame)  
+
 **October 28: Yongzheng (Parker) Li (UBC), "Africa? US? Or China? The Impact of Policy Framing on Public Support Toward a Closer US-African Engagement"**
 <br />
 *Moderator:* Melle Scholten (Virginia)  
