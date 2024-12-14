@@ -13,11 +13,15 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 
 
 ## Upcoming Workshops 
+**December 9: Jing Li (Notre Dame), "Beyond Dollar Dominance: Why does Chile Diversify their Reserve Currency Portfolio?"**
+<br />
+*Moderator:* Timothy Liptrot (Georgetown)
+
+## Previous Workshops
 **December 2: Ruofan Ma (Harvard; co-authored with Licheng Liu of Stanford), "BIT by BIT: How Bilateral Investment Treaty Network Shapes Foreign Direct Investment"**
 <br />
 *Moderator:* Parker Li (University of British Columbia)
 
-## Previous Workshops
 **November 25: Abdulrasheed Isah (ETH Zürich), "What drives the specificity of climate finance needs in developing countries’ international climate pledges?"**
 <br />
 *Moderator:* Nicola Nones (University of Toronto)
