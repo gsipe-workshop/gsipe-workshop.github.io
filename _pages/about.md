@@ -18,7 +18,10 @@ We invite graduate students and faculty from Political Science and Economics wit
 *News:*
 
 - We are excited to announce our **APSA 2025 Pre-Conference Workshop**! Please submit your abstract through this [link](https://docs.google.com/forms/d/e/1FAIpQLScOVThcoxL3kXLQOfQ4KRjK_3UKIpQw0pLEVbzJ0MyadvEDdg/viewform) by December 31, 2024!
- 
+
+-  We are excited to announce the call for papers for the **GSIPE Conference at UC Berkeley**. 
+Please submit your abstract [here](https://docs.google.com/forms/d/e/1FAIpQLSdz8U4kvY8RQZkfQwYwKaVvyks9atIrtTJ_v34GqzMtW0KKKw/closedform) by **November 11, 2024**. 
+
 - We will have our [6th GSIPE Mini-Conference: De-globalization or re-globalization: What outlooks for international economic relations?](https://gsipe-workshop.github.io/special-events/) (March 15th, 2024)
   
 - We are excited to announce our [Spring 2024 Workshop lineup](https://gsipe-workshop.github.io/schedule/)! We are looking forward to seeing you all!
