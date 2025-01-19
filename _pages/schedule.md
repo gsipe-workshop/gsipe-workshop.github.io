@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Schedule Fall 2024"
+title: "Schedule Spring 2025"
 permalink: /schedule/
 author_profile: true
 ---
@@ -13,11 +13,16 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 
 
 ## Upcoming Workshops 
+**January: WanTing Lee (Arizona State University), "How Foreign Direct Investment Affects Support for Defense Commitments"**
+<br />
+*Moderator:* Margaret Kenney (University of California, Berkeley) 
+
+
+<!---** ## Previous Workshops
 **December 9: Jing Li (Notre Dame), "Beyond Dollar Dominance: Why does Chile Diversify their Reserve Currency Portfolio?"**
 <br />
 *Moderator:* Timothy Liptrot (Georgetown)
 
-## Previous Workshops
 **December 2: Ruofan Ma (Harvard; co-authored with Licheng Liu of Stanford), "BIT by BIT: How Bilateral Investment Treaty Network Shapes Foreign Direct Investment"**
 <br />
 *Moderator:* Parker Li (University of British Columbia)
