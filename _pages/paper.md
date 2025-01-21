@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 
-Monday, January 20
+Monday, January 27
 
-WanTing Lee (Arizona State University)
+Margaret Kenney (University of California, Berkeley) 
 
-Title:  How Foreign Direct Investment Affects Support for Defense Commitments
+Title:  Cash, Cuts, and Controversy: How Features of Investment Incentives Affect Credit Claiming
 
-Abstract: This study examines how public perceptions of foreign direct investment (FDI) shape support for defense commitments. It argues that perceptions of national interests and their strategic importance can increase public willingness to defend an ally in the event of conflict. Using a conjoint experiment, this research evaluates how perceived economic benefits from Taiwan Semiconductor Manufacturing Company (TSMC) and the strategic importance of Taiwan influence public support for defending Taiwan. The findings reveal that public backing for defense commitments is significantly stronger when economic and strategic interests are 
-perceived as vital to national security. This study advances our understanding of how economic interdependence informs public opinion on foreign policy, particularly in the context of high-risk security challenges.
+Abstract: The rise of industrial policy has led to a global increase in the use of investment incentives. However, new international agreement on taxation will limit the benefits of tax incentives and will reshape how politicians and bureaucrats recruit investment. Therefore, in this paper, I ask: How do the features of investment incentive programs affect the support of voters and policymakers? I argue that the policy instrument (tax vs. non-tax), firm’s nationality, and the number of jobs created impact public support for investment incentives. I also expect that politicians will provide incentives in line with voters’ preferences to maximize credit claiming benefits. I test these theoretical expectations through a survey experiment of 3753 Americans and an extension of a field experiment of 3117 municipal governments. I find that there are distinct levels of support from voters based on firm nationality, number of jobs created, and policy instrument. Negative characteristics of investment incentives – in the eyes of voters – cannot be ameliorated by providing additional benefits. Next, I find that elected politicians provide incentives that reflect their assumption of voters’ preferences. This paper contributes to our understanding of industrial policy programs, in addition to providing insight on economic pandering.
+
