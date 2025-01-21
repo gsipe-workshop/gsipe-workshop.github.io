@@ -13,12 +13,16 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 
 
 ## Upcoming Workshops 
-**January: WanTing Lee (Arizona State University), "How Foreign Direct Investment Affects Support for Defense Commitments"**
+**January 27: Margaret Kenney (University of California, Berkeley), "Cash, Cuts, and Controversy: How Features of Investment Incentives Affect Credit Claiming"**
 <br />
-*Moderator:* Margaret Kenney (University of California, Berkeley) 
+*Moderator:* Ghita Chraibi (University of Virginia) 
 
 
 <!---** ## Previous Workshops
+**January 20: WanTing Lee (Arizona State University), "How Foreign Direct Investment Affects Support for Defense Commitments"**
+<br />
+*Moderator:* Margaret Kenney (University of California, Berkeley) 
+
 **December 9: Jing Li (Notre Dame), "Beyond Dollar Dominance: Why does Chile Diversify their Reserve Currency Portfolio?"**
 <br />
 *Moderator:* Timothy Liptrot (Georgetown)
