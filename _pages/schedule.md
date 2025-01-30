@@ -13,10 +13,18 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 
 
 ## Upcoming Workshops 
+**February 3: Tobias Schillings (University of Oxford), "Progressive versus Competitive Democracy: Examining the Political Determinants of Universal Healthcare Reform in the Global South"**
+<br />
+*Moderator:* Melle Scholten (University of Virginia)  
+
+## Previous Workshops
 **January 27: Margaret Kenney (University of California, Berkeley), "Cash, Cuts, and Controversy: How Features of Investment Incentives Affect Credit Claiming"**
 <br />
 *Moderator:* Ghita Chraibi (University of Virginia) 
 
+**January 20: WanTing Lee (Arizona State University), "How Foreign Direct Investment Affects Support for Defense Commitments"**
+<br />
+*Moderator:* Margaret Kenney (University of California, Berkeley) 
 
 <!---** ## Previous Workshops
 **January 20: WanTing Lee (Arizona State University), "How Foreign Direct Investment Affects Support for Defense Commitments"**
