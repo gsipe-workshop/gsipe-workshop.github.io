@@ -13,11 +13,15 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 
 
 ## Upcoming Workshops 
+**February 10: Avi Ahuja & Mengfan Cheng (New York University), "Beyond Foreign Aid: How do Developing Countries Substitute Concessional Financing?"**
+<br />
+*Moderator:* Jacob Winter (University of Toronto)   
+
+## Previous Workshops
 **February 3: Tobias Schillings (University of Oxford), "Progressive versus Competitive Democracy: Examining the Political Determinants of Universal Healthcare Reform in the Global South"**
 <br />
 *Moderator:* Melle Scholten (University of Virginia)  
 
-## Previous Workshops
 **January 27: Margaret Kenney (University of California, Berkeley), "Cash, Cuts, and Controversy: How Features of Investment Incentives Affect Credit Claiming"**
 <br />
 *Moderator:* Ghita Chraibi (University of Virginia) 
