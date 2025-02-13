@@ -9,7 +9,7 @@ Information about special events and opportunities can be found here.
 **Second GSIPE In-person Conference: The Intersection of International and Comparative Political Economy at University of California, Berkeley (February 8th, 2025).**
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://gsipe-workshop.github.io/files/Berkeley_conferences/Berkeley020825_3.jpg" 
+    <img src="https://gsipe-workshop.github.io/files/Berkeley_conferences/Berkeley020825_3_compressed.jpg" 
          alt="Conference Image 3" 
          style="width: 300px; height: auto; border-radius: 5px;">
 </div>
