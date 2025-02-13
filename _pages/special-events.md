@@ -6,15 +6,14 @@ author_profile: true
 ---
 Information about special events and opportunities can be found here.
 
-Come and join our ISA Happy Hour at Murphy's! Meeting time and location can be found below. 
 
-![flyer](/files/GSIPE_flyer.jpg)
 
 
 <hr>
 
 ## Previous events:
 
+<a href="https://gsipe-workshop.github.io/files/GSIPE_flyer.jpg"> Come and join our ISA Happy Hour at Murphy's! Meeting time and location can be found below. (April 4th, 2025) </a>
 
 <a href="https://gsipe-workshop.github.io/files/GSIPE_6th_mini-conference_call_new - Documenti Google.pdf">6th GSIPE Mini-Conference: De-globalization or re-globalization: What outlooks for international economic relations? (March 15th, 2024)</a>
 
