@@ -12,8 +12,9 @@ Information about special events and opportunities can be found here.
     <img src="https://gsipe-workshop.github.io/files/Berkeley_conferences/Berkeley020825.jpg" alt="Conference Image 1" width="300">
     <img src="https://gsipe-workshop.github.io/files/berkeley_conferences/Berkeley020825_2.jpg" alt="Conference Image 2" width="300">
     <img src="https://gsipe-workshop.github.io/files/berkeley_conferences/Berkeley020825_3.jpg" alt="Conference Image 3" width="300">
-    <img src="https://gsipe-workshop.github.io/files/berkeley_conferences/Berkeley020825_4.jpg" alt="Conference Image 3" width="300"></div>
-<hr>
+    <img src="https://gsipe-workshop.github.io/files/berkeley_conferences/Berkeley020825_4.jpg" alt="Conference Image 3" width="300">
+
+</div>
 
 <hr>
 
