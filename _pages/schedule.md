@@ -13,11 +13,15 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 
 
 ## Upcoming Workshops 
+**February 24: Jacob Winter (University of Toronto), "Loaded Questions: Global Liquidity and the Legislative Agenda in Zambia"**
+<br />
+*Moderator:* Avi Ahuja (New York University) 
+
+## Previous Workshops
 **February 17: June Jung (University of California San Diego & University of Mannheim), "Illiberal Human Rights Norms in Trade and the Effectiveness of Western Conditionalities"**
 <br />
 *Moderator:* Sujin Cha (University of Michigan) 
 
-## Previous Workshops
 **February 10: Avi Ahuja & Mengfan Cheng (New York University), "Beyond Foreign Aid: How do Developing Countries Substitute Concessional Financing?"**
 <br />
 *Moderator:* Jacob Winter (University of Toronto)   
