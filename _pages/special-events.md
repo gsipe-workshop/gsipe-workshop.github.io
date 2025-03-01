@@ -9,7 +9,7 @@ Information about special events and opportunities can be found here.
 **Come and join our ISA Happy Hour at The Game Room (March 3rd, 2025)!!**
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://gsipe-workshop.github.io/files/ISA25-HappyHour-GSIPE" 
+    <img src="https://gsipe-workshop.github.io/files/ISA25-HappyHour-GSIPE.png" 
          alt="ISA25-HappyHour" 
          style="width: 600px; height: auto; border-radius: 5px;">
 </div>
