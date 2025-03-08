@@ -13,11 +13,15 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 
 
 ## Upcoming Workshops 
+**March 10: Lingbo Zhao (Pennsylvania State University), "Supply Chains and Political Strategies: Analyzing Firm Responses to the EU’s Carbon Border Adjustment Mechanism"**
+<br />
+*Moderator:* Wanting Lee (Arizona State University)
+
+## Previous Workshops
 **February 24: Jacob Winter (University of Toronto), "Loaded Questions: Global Liquidity and the Legislative Agenda in Zambia"**
 <br />
 *Moderator:* Avi Ahuja (New York University) 
 
-## Previous Workshops
 **February 17: June Jung (University of California San Diego & University of Mannheim), "Illiberal Human Rights Norms in Trade and the Effectiveness of Western Conditionalities"**
 <br />
 *Moderator:* Sujin Cha (University of Michigan) 
