@@ -13,11 +13,15 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 
 
 ## Upcoming Workshops 
+**March 31: Barak Zur (Tel Aviv University), "How Migration Options Shape the Political Behaviour of Those Who Stay: The Case of Intra-EU Employment Opportunities"**
+<br />
+*Moderator:* Melle Scholten (University of Virginia) 
+
+## Previous Workshops
 **March 24: Zagreb Mukerjee (Yale), "Instability of Trade Gains Reduces Support for Globalization"**
 <br />
 *Moderator:* Lingbo Zhao (Penn State University)
 
-## Previous Workshops
 **March 17: Melle Scholten (University of Virginia), "The Paradox of Migrant Rights and Outward Remittances"**
 <br />
 *Moderator:* Nicola Nones (University of Toronto)
