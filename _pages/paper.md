@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 
-Monday, March 24
+Monday, March 31
 
-Zagreb Mukerjee (Yale) 
+Barak Zur (Tel Aviv University) 
 
-Title: Instability of Trade Gains Reduces Support for Globalization
+Title: How Migration Options Shape the Political Behaviour of Those Who Stay: The Case of Intra-EU Employment Opportunities
 
-Abstract: What did the 'winners' of trade liberalization end up getting? Often, it was not as good as they may have hoped. Trade has allowed consumers to acquire goods far more cheaply but at the cost of reliance on foreign supply chains and new risks to standards of living. I argue that the realization of these risks leads voters to update their attitudes towards globalization. I test this hypothesis with exchange-rate driven losses in gains from trade, using fluctuations in the Euro coupled with novel measures of Eurozone regions' differential currency exposure. When a region's realized gains from trade are threatened, that region elects more protectionist and autarkic parties. This potentially explains some of the 'backlash' against globalization and illustrates how the pro-liberalization coalition evolves over time.
+Abstract: Recent literature has highlighted different political consequences of emigration on sending countries. I argue that another related phenomenon is also significant: the growing availability of the options to migrate. Theoretically, migration options can affect the political behaviour of those who stay in different ways: It can provide citizens with an exit option and insulate them from national politics, interests, and sense of belonging, or it can provide them with an exit threat that empowers citizens within their national communities and boosts political participation. The purpose of this paper is to test these hypotheses empirically. It does so by examining cross-border employment opportunities within the Schengen Area as major manifestations of the migration options available to European labour. In the first step of my analysis, I use microdata from the Eurostat Labor Force Survey (LFS) to construct an index that ranks each occupational category (ISCO08-3D) by its level of cross-border mobility. Then, I combine this index with cross-national data from the European Social Survey (ESS) rounds 6 to 10. The preliminary findings show that, ceteris paribus, individuals with more opportunities to work abroad are less likely to support redistribution policies and to engage in politics. These effects are more sizable and significant in Eastern and Central European countries, where migration options are not only available, but also attractive.
