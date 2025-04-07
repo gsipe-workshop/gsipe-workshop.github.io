@@ -13,11 +13,15 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 
 
 ## Upcoming Workshops 
+**April 14: Ghita Chraibi (University of Virginia), "Cashless vs Cash Only: The Political Economy of Digital Payments"**
+<br />
+*Moderator:* Barak Zur (Tel Aviv University)
+
+## Previous Workshops
 **April 7: Nicola Nones (University of Toronto), "Do as I preach, not as I do? Economists Policymakers and Fiscal Consolidation"**
 <br />
 *Moderator:* Robin Yajie Wang (Yale University)
 
-## Previous Workshops
 **March 31: Barak Zur (Tel Aviv University), "How Migration Options Shape the Political Behaviour of Those Who Stay: The Case of Intra-EU Employment Opportunities"**
 <br />
 *Moderator:* Melle Scholten (University of Virginia) 
