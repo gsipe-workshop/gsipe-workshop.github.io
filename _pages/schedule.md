@@ -13,11 +13,15 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 
 
 ## Upcoming Workshops 
+**April 28: Kexin Bai (Texas A&M), "Pressure Breeds Innovation: How Firms Adapt to Export Control Sanctions"**
+<br />
+*Moderator:* Rudra Guha Biswas (UC Riverside)
+
+## Previous Workshops
 **April 21: Fikayo Akeredolu (University of Oxford), "Administrative and Fiscal Dimensions of State Capacity and Renewable Energy Adoption: Evidence from Nigeria’s 36 States"**
 <br />
 *Moderator:* Alicja Paulina Krubnik (McMaster University) 
 
-## Previous Workshops
 **April 14: Ghita Chraibi (University of Virginia), "Cashless vs Cash Only: The Political Economy of Digital Payments"**
 <br />
 *Moderator:* Barak Zur (Tel Aviv University)
