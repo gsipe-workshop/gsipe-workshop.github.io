@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 
-Monday, April 21
+Monday, April 28
 
-Fikayo Akeredolu (University of Oxford) 
+Kexin Bai (Texas A&M)
 
-Title: Administrative and Fiscal Dimensions of State Capacity and Renewable Energy Adoption: Evidence from Nigeria’s 36 States
+Title: Pressure Breeds Innovation: How Firms Adapt to Export Control Sanctions
 
-Abstract: This paper examines how state capacity, particularly its fiscal and administrative dimensions, shapes energy transition outcomes across Nigeria’s 36 states. Drawing on primary and secondary data from Nigeria’s 36 states and applying a mixed-methods design, I investigate why states exhibit variations in renewable energy policy implementation and outcomes despite operating within the same federal system. Logistic regression models highlight fiscal capacity as a key driver of renewable energy adoption, while demonstrating that financial resources alone are insufficient without robust administrative systems to translate them into effective policy implementation. The findings reveal that oil-producing states underperform in energy transitions, supporting resource curse theories that explain how resource wealth exacerbates institutional inertia and elite capture. Additionally, historical legacies influence policy outcomes indirectly through contemporary fiscal and administrative capacities, emphasizing the need for integrated institutional development. By situating Nigeria’s energy transition within the broader context of developing federal systems, the study contributes to state capacity and environmental governance literature. It also offers actionable insights for policymakers, stressing the importance of strengthening fiscal resources, administrative capacity, and strategies to overcome resource dependency.
+Abstract: This article examines whether firms listed on the U.S. Entity List increase in-house technology development in response to export control sanctions, and under what conditions this response is more likely. I argue that targeted firms are more likely to invest in internal R&D when they are highly dependent on U.S. technology, face strict license review policies, expect sanctions to last for a long time, and have strong financial resources or existing innovation capacity. Using a panel of 97 publicly traded sanctioned firms and 367 matched peer firms from 2003 to 2023, I apply a staggered Difference-in-Differences (DiD) design with firm-fixed effects and cluster-robust standard errors. Innovation is measured by R&D spending, R&D personnel, and the number of applied and granted patents. The empirical results partially support the theory. The findings show that targeted sanctions can unintentionally promote technological self-sufficiency and innovation. This study contributes to the sanctions literature by identifying the policy features and firm characteristics that shape different innovation responses.
