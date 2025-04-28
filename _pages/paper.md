@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 
-Monday, April 28
+Monday, May 5
 
-Kexin Bai (Texas A&M)
+Rudra Guha Biswas (UC Riverside) 
 
-Title: Pressure Breeds Innovation: How Firms Adapt to Export Control Sanctions
+Title: The Effect of Geoeconomic Risk on outward FDI from Emerging and Developing Economies
 
-Abstract: This article examines whether firms listed on the U.S. Entity List increase in-house technology development in response to export control sanctions, and under what conditions this response is more likely. I argue that targeted firms are more likely to invest in internal R&D when they are highly dependent on U.S. technology, face strict license review policies, expect sanctions to last for a long time, and have strong financial resources or existing innovation capacity. Using a panel of 97 publicly traded sanctioned firms and 367 matched peer firms from 2003 to 2023, I apply a staggered Difference-in-Differences (DiD) design with firm-fixed effects and cluster-robust standard errors. Innovation is measured by R&D spending, R&D personnel, and the number of applied and granted patents. The empirical results partially support the theory. The findings show that targeted sanctions can unintentionally promote technological self-sufficiency and innovation. This study contributes to the sanctions literature by identifying the policy features and firm characteristics that shape different innovation responses.
+Abstract: Geoeconomics, or the strategic use of economic instruments for geopolitical outcomes, increasingly shapes global trade and investment flows. A rise in geoeconomic tensions has raised concerns about the fragmentation of global foreign direct investment (FDI) patterns. Firms are increasingly expected to shift their international investments using ‘friend-shoring’ strategies. This study examines the impact of geoeconomic risk on outward FDI from emerging and developing market economies (EDMEs), analyzing how these countries’ responses vary based on their state strength. I argue that EDMEs with a stronger state, defined as the insulation of policy makers from domestic interest groups, are likely to reduce their overall outward FDI since they are left with fewer alternative investment opportunities. The paper analyzes country-year data from UNCTAD, covering outward FDI over the 2012-2023 period. It finds evidence that rising geoeconomic risks are associated with a decline in outward FDI from EDMEs. This research contributes to a broader understanding of EDMEs’ reaction to global political and economic risk factors, offering important insights for policymakers in an increasingly geoeconomic world.
