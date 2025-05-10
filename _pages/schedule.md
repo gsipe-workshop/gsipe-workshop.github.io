@@ -13,11 +13,15 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 
 
 ## Upcoming Workshops 
+**May 12: Alicja Paulina Krubnik (McMaster University), "Energy Transitions as Transformative Openings? Critical Analysis of Development Financing in Brazil and Ecuador"**
+<br />
+*Moderator:* Fikayo Akeredolu (Oxford University) 
+
+## Previous Workshops
 **May 5: Rudra Guha Biswas (UC Riverside), "The Effect of Geoeconomic Risk on outward FDI from Emerging and Developing Economies"**
 <br />
 *Moderator:* Kexin Bai (Texas A&M)
 
-## Previous Workshops
 **April 28: Kexin Bai (Texas A&M), "Pressure Breeds Innovation: How Firms Adapt to Export Control Sanctions"**
 <br />
 *Moderator:* Rudra Guha Biswas (UC Riverside)
