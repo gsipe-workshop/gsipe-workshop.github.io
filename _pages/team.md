@@ -4,53 +4,37 @@ title: "Our Team"
 permalink: /team/
 author_profile: true
 ---
+## Organizing
+<ul>
+    <li><a href="https://www.linkedin.com/in/kexin-bai-08a3921b0/">Kexin Bai (Texas A&M University)</a> - baikexin@tamu.edu</li>
+    <li><a href="https://www.maziebernard.com/">Mazie Bernard (Purdue University)</a> - bernard1@purdue.edu </li>
+    <li><a href="https://sites.google.com/view/ghita-chraibi/bio">Ghita Chraibi (University of Virginia)</a> - usx8ns@virginia.edu</li>
+    <li><a href="https://rudraguhabiswas.org/">Rudra M Guha Biswas (University of California, Riverside)</a> - rguha003@ucr.edu</li>
+    <li><a href="https://adamlhobbs.com/">Adam Hobbs (University of California, Riverside)</a> - ahobb005@ucr.edu</li>
+    <li><a href="https://parkerli.org/">Yongzheng (Parker) Li (University of British Columbia)</a> - parkeryz@mail.ubc.ca</li>
+</ul>
 
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1; margin-right: 20px;">
-        <h2>Organizing</h2>
-        <p>Email: <a href="mailto:gsipe.workshop@gmail.com">gsipe.workshop@gmail.com</a></p>
-        <ul>
-            <li><a href="https://lsa.umich.edu/polisci/people/graduate-students/sujin-cha.html"> Sujin Cha (University of Michigan)</a></li>
-            <li><a href="https://www.nicolanones.com/"> Nicola Nones (University of Toronto)</a></li>
-            <li><a href="https://uva.theopenscholar.com/melle-scholten"> Melle Scholten (University of Virginia)</a></li>
-
-        </ul>
-        
-         <h2>Media</h2>
-        <ul>
-          <li><a href="https://www.linkedin.com/in/kexin-bai-08a3921b0/"> Kexin Bai (Texas A&M University)</a></li>
-           
-            
-        </ul>
-
-    </div>
-
-    <div style="flex: 1;">
-        <h2>Events</h2>
-        <p>Email: <a href="mailto:gsipe.planning@gmail.com">gsipe.planning@gmail.com</a></p>
-        <ul>
-            <li><a href="https://www.maziebernard.com/"> Mazie Bernard (Purdue University)</a></li>
-            <li><a href="https://pol.illinois.edu/directory/profile/suhuh2"> Seung-Uk Huh (University of Illinois Urbana-Champaign)</a></li>
-            <li><a href="https://florenceyuelin.github.io/"> Yue Lin (University of California, Berkeley)</a></li>
-            <li><a href="https://www.gov.harvard.edu/directory/ruofan-ma/"> Ruofan Ma (Harvard University)</a></li>
-             <li><a href="https://www.yujinzhang.com/"> Yujin Zhang (Columbia University)</a></li>
-        </ul>
-    </div>
-</div>
-
-
-
-
-
-
-
-
-
-<hr>
-<hr>
-
+<hr> 
 
 ## Former team members:
+### 2024-2025
+[Kexin Bai (Texas A&M University)](https://www.linkedin.com/in/kexin-bai-08a3921b0/)  
+
+[Mazie Bernard (Purdue University)](https://www.maziebernard.com/)  
+
+[Sujin Cha (University of Michigan)](https://lsa.umich.edu/polisci/people/graduate-students/sujin-cha.html)  
+
+[Seung-Uk Huh (University of Illinois Urbana-Champaign)](https://pol.illinois.edu/directory/profile/suhuh2)  
+
+[Yue Lin (University of California, Berkeley)](https://florenceyuelin.github.io/)  
+
+[Ruofan Ma (Harvard University)](https://www.gov.harvard.edu/directory/ruofan-ma/)  
+
+[Nicola Nones (University of Toronto)](https://www.nicolanones.com/)  
+
+[Melle Scholten (University of Virginia)](https://uva.theopenscholar.com/melle-scholten)  
+
+[Yujin Zhang (Columbia University)](https://www.yujinzhang.com/)
 
 ### 2023-2024
 [IIaria Natali (Toulouse School of Economics)](https://sites.google.com/view/ilaria-natali/home)  
