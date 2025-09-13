@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Schedule Spring 2025"
+title: "Schedule Fall 2025"
 permalink: /schedule/
 author_profile: true
 ---
@@ -11,13 +11,90 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 
 *Links to workshop papers will be active as events draw closer [here](https://gsipe-workshop.github.io/paper/).*
 
-
 ## Upcoming Workshops 
+
+**September 15**
+**"Money Talks: Using Cash and Bitcoin to Unpack The Politics of Financial Disintermediation"**
+**Ghita Chraibi**
+***University of Virginia***
+
+**September 22**
+**"World Wide Webs: How Migrant Networks and Porous Bureaucracies Forged the Knowledge Economy in the Global South"**
+**Jerik Cruz**
+***Massachusetts Institute of Technology***
+*Moderator:* Yujin Zhang
+
+**September 29**
+**"The Digital Reconstruction of the U.S. Financial Hegemony: Challenge and Governance of Non-Sovereign Digital Assets"**
+**Richard Yifan Zhou**
+***Queen Mary University of London***
+*Moderator:* Greg Brownstein, George Washington University
+
+**October 6**
+**"Droughts in the Field, Drug Lords on the Hunt"**
+**Enrico Cavallotti**
+***European University Institute***
+*Moderator:* Ryan Pike
+
+**October 13**
+**"The Role of Supply Chains in the Politics of Liberalization"**
+**Zagreb Mukerjee**
+***Yale University***
+*Moderator:* Richard Yifan Zhou, Queen Mary University of London
+
+**October 20**
+**"Deindustrialization, Decarbonization and Climate Investment: A Green Bullet for a Rusty Belt?"**
+**Ryan Pike**
+***Yale University***
+*Moderator:* Ezio Jiaqi Wang
+
+**October 27**
+**"Elite Political Settlements and Energy Transition in Nigeria"**
+**Fikayo Akeredolu**
+***Oxford University***
+*Moderator:* Jerik Cruz
+
+**November 3**
+**"Explaining The Racial Heterogeneity of Economic Shocks in the U.S.: A Theory of Racialized Labor Markets"**
+**Ezio Jiaqi Wang**
+***The University of North Carolina***
+*Moderator:* Zagreb Mukerjee
+
+**November 10**
+**"Who Contests? How Outside Options Shape Contestation in Global Financial Governance"**
+**Greg Brownstein**
+***George Washington University***
+*Moderator:* Natalie Playford
+
+**November 17**
+**"International Competition and Technological Preferences: Evidence from the United States and China"**
+**Yujin Zhang & Ziwen (Gary) Zu**
+***Columbia University & UCSD***
+*Moderator:* Ghita Chraibi
+
+**November 24**
+**"Extreme Weather Events, Economic Inequality, and Electoral Behaviour: Shifts in Political Allegiance in Costa Rica (2002–2022)"**
+**Alvaro ZUNIGA-CORDERO**
+***University of Namur & World Inequality Lab (PSE)***
+*Moderator:* Enrico Cavallotti
+
+**December 1**
+**"Talking about democracy without naming it: The case of the WTO"**
+**Noah Wheatley**
+***World Trade Institute, University of Bern***
+*Moderator:* Fikayo Akeredolu
+
+**December 8**
+**"Clause and Effect: Mapping Gender-Clause Enforcement in Multilateral Development Bank Loans (2000 - 2025)"**
+**Natalie Playford**
+***University of Toronto***
+
+<!---** ## Previous Workshops
+
 **May 12: Alicja Paulina Krubnik (McMaster University), "Energy Transitions as Transformative Openings? Critical Analysis of Development Financing in Brazil and Ecuador"**
 <br />
 *Moderator:* Fikayo Akeredolu (Oxford University) 
 
-## Previous Workshops
 **May 5: Rudra Guha Biswas (UC Riverside), "The Effect of Geoeconomic Risk on outward FDI from Emerging and Developing Economies"**
 <br />
 *Moderator:* Kexin Bai (Texas A&M)
@@ -26,7 +103,7 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 <br />
 *Moderator:* Rudra Guha Biswas (UC Riverside)
 
-**April 21: Fikayo Akeredolu (University of Oxford), "Administrative and Fiscal Dimensions of State Capacity and Renewable Energy Adoption: Evidence from Nigeria’s 36 States"**
+**April 21: Fikayo Akeredolu (University of Oxford), "Administrative and Fiscal Dimensions of State Capacity and Renewable Energy Adoption: Evidence from Nigeria's 36 States"**
 <br />
 *Moderator:* Alicja Paulina Krubnik (McMaster University) 
 
@@ -50,7 +127,7 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 <br />
 *Moderator:* Nicola Nones (University of Toronto)
 
-**March 10: Lingbo Zhao (Pennsylvania State University), "Supply Chains and Political Strategies: Analyzing Firm Responses to the EU’s Carbon Border Adjustment Mechanism"**
+**March 10: Lingbo Zhao (Pennsylvania State University), "Supply Chains and Political Strategies: Analyzing Firm Responses to the EU's Carbon Border Adjustment Mechanism"**
 <br />
 *Moderator:* Wanting Lee (Arizona State University)
 
@@ -76,7 +153,7 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 
 **January 20: WanTing Lee (Arizona State University), "How Foreign Direct Investment Affects Support for Defense Commitments"**
 <br />
-*Moderator:* Margaret Kenney (University of California, Berkeley) 
+*Moderator:* Margaret Kenney (University of California, Berkeley)
 
 <!---** ## Previous Workshops
 **January 20: WanTing Lee (Arizona State University), "How Foreign Direct Investment Affects Support for Defense Commitments"**
