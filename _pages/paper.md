@@ -5,11 +5,66 @@ permalink: /paper/
 author_profile: true
 ---
 
+<style>
+.paper-entry {
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: #fafbfc;
+}
 
-Monday, May 12
+.paper-date {
+  color: #6c757d;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
 
-Alicja Paulina Krubnik (McMaster University)
+.paper-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
 
-Title: Energy Transitions as Transformative Openings? Critical Analysis of Development Financing in Brazil and Ecuador
+.paper-author {
+  font-size: 16px;
+  color: #495057;
+  margin-bottom: 4px;
+}
 
-Abstract: For developing and fossil fuel-dependent economies in Latin America, energy transitions present potentially transformative openings. Decarbonization can generate sustainable industries and economic growth while also displacing environmentally and socially harmful/fraught fossil fuel extractives. However, energy transitions also create openings for new dependency relations if, in pursuing green sectors, Latin American countries become inequitably integrated into global energy networks. Development financing institutions (DFIs) are an influential factor in whether opportunities outweigh challenges for Latin America’s hydrocarbon economies. They have an outsized financial and policy influence on energy transitions in these contexts, with United States- (US-) and Chinese-led DFIs leading the charge. This article examines the impact of DFIs on energy transitions in Brazil and Ecuador as methodologically influential and diverse cases. Both countries are paradigmatic examples of extractivist hydrocarbon sites receiving financing from predominantly US and Chinese DFIs. Yet, differing positionalities in the international political economy (IPE) mean Ecuador and Brazil face diverse opportunities and challenges in leveraging development financing for energy transitions. This paper first puts forward an analytical framework to understand the economically and socially transformational opportunities and challenges surrounding Brazil and Ecuador’s energy transitions. It builds on existing green industrial policy to more comprehensively capture IPE structures and socially just industrial development by leveraging a critical IPE perspective. Next, patterns of DFI initiatives and their commitment to green and socially-oriented industrial policy in Brazil and Ecuador’s energy transitions are analysed. I make two key arguments. First, US- and Chinese-led DFIs prioritize transnational capital accumulation while minimizing the space for states to pursue active industrialization policy. Second, Ecuador and Brazil are increasingly turning to regional and national DFIs in an attempt to serve developmental goals, with varying degrees of success that can be attributed to their respective political economy positions.
+.paper-university {
+  font-size: 14px;
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+
+.paper-abstract {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #495057;
+  text-align: justify;
+}
+
+.abstract-label {
+  font-weight: 600;
+  color: #495057;
+  margin-bottom: 8px;
+}
+</style>
+
+<div class="paper-entry">
+  <div class="paper-date">September 15</div>
+  <div class="paper-title">Money Talks: Using Cash and Bitcoin to Unpack The Politics of Financial Disintermediation</div>
+  <div class="paper-author">Ghita Chraibi</div>
+  <div class="paper-university">University of Virginia</div>
+  <div class="abstract-label">Abstract:</div>
+  <div class="paper-abstract">
+    When do people choose formal financial services and when do they instead exit `a la Hirschman (1970) using cash or Bitcoin? Despite financial technologies' (fintech) growth, citizens are still bypassing traditional institutions: cash remains sticky worldwide and Bitcoin adoption is increasing. I refer to this phenomenon as financial disintermediation, distinguishing between intermediated fintech (mobile banking) that relies on trusted third parties and disintermediated alternatives (peer-topeer Bitcoin, cash) that operate without central authorities and protect anonymity. Extending Hirschman's "Exit, Voice, and Loyalty" framework to finance, I argue that payment choices reflect political preferences rather than economic efficiency alone. My research reveals that autocratic governance increases citizens' "exit" from formal financial systems. Citizens in these contexts either distrust institutions or fear them, resulting in exit through disintermediated alternatives. I test this theory using cash dependency (167 countries, 2001-2020) and Bitcoin peer-to-peer transactions (143 countries, 2020). My findings confirm that financial disintermediation is systematically prevalent in autocratic contexts. This work contributes by bringing individual agency back into financial intermediation debates, extending Hirschman's framework to finance, and providing the first systematic evidence linking autocratic governance to payment preferences.
+  </div>
+</div>
