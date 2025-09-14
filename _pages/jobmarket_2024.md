@@ -4,7 +4,7 @@ title: "Job Market Candidates"
 permalink: /jobmarket_2025/
 author_profile: true
 ---
-
+ 
 Profiles of graduate students in international political economy on the 2025 job market can be found here. 
 
 Are you on the 2025 IPE job market and would like to be featured on this page? Fill out this <a href = "https://docs.google.com/forms/d/e/1FAIpQLSe0gVojrDDn-9lwx8JLeECqxfGkcWLLiHsWwLrcIDDVIwkTAg/viewform"><b>form</b></a>.
