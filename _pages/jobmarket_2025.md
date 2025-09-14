@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Job Market Candidates"
-permalink: /jobmarket_2024/ 
+permalink: /jobmarket_2025/ 
 author_profile: true
 ---
  
