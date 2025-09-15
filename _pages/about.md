@@ -1,4 +1,3 @@
-```markdown
 ---
 permalink: /
 title: "Graduate Students in International Political Economy (GSIPE) Workshop"
@@ -9,43 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-## About GSIPE
+The Graduate Student International Political Economy Workshop (GSIPE) is a **virtual, interdisciplinary, graduate-student-run workshop**. We aim to provide a venue for graduate students (including pre-docs and post-docs) to present works-in-progress and solicit feedback from their peers and faculty. 
 
-The Graduate Student International Political Economy Workshop (GSIPE) is a **virtual, interdisciplinary, graduate-student-run workshop** that creates a supportive environment for emerging scholars in the field.
+We invite graduate students and faculty from **Political Science** and **Economics** with an interest in International Political Economy ([broadly defined](https://www.isanet.org/ISA/Sections/IPE)) to participate, and to sign up for our [mailing list](#mailing). We welcome papers in **all stages of progress** and job market papers.
 
-### Our Mission
-We provide a dedicated venue for graduate students, pre-docs, and post-docs to:
-- Present works-in-progress
-- Receive constructive feedback from peers and faculty
-- Build connections within the IPE community
+<hr> 
 
-### Who We Serve
-We welcome graduate students and faculty from **Political Science** and **Economics** with interests in International Political Economy ([broadly defined](https://www.isanet.org/ISA/Sections/IPE)). 
-
-**All stages of research are welcome** — from early-stage projects to job market papers.
-
----
-
-## 📢 Latest News
-
-**🎉 Spring 2025 Workshop Lineup**  
-We're excited to announce our [Spring 2025 Workshop schedule](https://gsipe-workshop.github.io/schedule/)! Join us for another engaging semester of presentations and discussions.
-
-**🎓 Job Market Spotlight**  
-Discover the profiles of graduate students in international political economy on the [2025 job market](https://gsipe-workshop.github.io/job-market_25/).
-
-**👥 New Leadership Team**  
-We're thrilled to welcome our [new organizing team](https://gsipe-workshop.github.io/team/) for GSIPE, effective June 1st, 2025!
-
-**📚 Featured Publication**  
-Learn about GSIPE's impact in our founders' recent publication: ["Less Stress, More Confidence": Supporting Junior Scholars Online at the Graduate Student International Political Economy Workshop](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/less-stress-more-confidence-supporting-junior-scholars-online-at-the-graduate-student-international-political-economy-workshop/A175F2AE8EC397F9EE967623D48B9BD5) by [Alexander Kirss](https://www.alexanderkirss.com/), [Paul Ilhak Ko](https://sites.google.com/view/paulko/home), and [Cleo O'Brien-Udry](https://cobrienudry.github.io/) in *PS: Political Science & Politics*.
-
----
-
-## Get Involved
-
-Ready to join our community? [Sign up for our mailing list](#mailing) to stay updated on upcoming workshops and opportunities.
-```
+**News:**
+- We are excited to announce our [Spring 2025 Workshop lineup](https://gsipe-workshop.github.io/schedule/)! We are looking forward to seeing you all!
+- Check out the profiles of graduate students in **international political economy** on the [2025 job market](https://gsipe-workshop.github.io/job-market_25/)!
+- We welcome our [new team](https://gsipe-workshop.github.io/team/) for GSIPE, starting June 1st 2025！
+- The past, present, and future about GSIPE: ["Less Stress, More Confidence": Supporting Junior Scholars Online at the Graduate Student International Political Economy Workshop](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/less-stress-more-confidence-supporting-junior-scholars-online-at-the-graduate-student-international-political-economy-workshop/A175F2AE8EC397F9EE967623D48B9BD5) by our founders [Alexander Kirss](https://www.alexanderkirss.com/), [Paul Ilhak Ko](https://sites.google.com/view/paulko/home), and [Cleo O'Brien-Udry](https://cobrienudry.github.io/) is published in *PS: Political Science & Politics*.
 
 <!---
 ARCHIVE
