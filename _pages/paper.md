@@ -52,6 +52,63 @@ author_profile: true
 }
 </style>
 <div class="paper-entry">
+  <div class="paper-date">September 29</div>
+  <div class="paper-title">The Digital Reconstruction of the US Financial Hegemony: Challenge and Governance of Non-Sovereign Digital Assets</div>
+  <div class="paper-author">Richard Yifan Zhou</div>
+  <div class="paper-university">Queen Mary University</div>
+  <div class="abstract-label">Abstract:</div>
+  <div class="paper-abstract">
+    After the Bretton Woods, the US Financial hegemony has shown a complex evolution rooted in structural power and market power, and is undergoing a brand-new digital-fintech-driven evolution. The paper innovatively integrates reduced-form regressions and Bayesian structural vector autoregressions to identify potential transformative digital forces that could affect the international monetary order and the US financial hegemony. The empirical results indicate that US-dollar-backed Bitcoin is promisingly possible to exert a significant positive effect on the dollar index DXY in the near future, as most Markov Chain Monte Carlo draws of the 95% credible interval of the impulse response are positive. It further accredits the main long-term driving factor on Bitcoin to stablecoin supply at the 95% credible level and then jointly reveals the logic that the self-reinforcement cycle from dollar to stablecoin to Bitcoin finally back to dollar is playing a role in bolstering the global dominance of the dollar in the international monetary order.
+  </div>
+</div>
+
+<style>
+.paper-entry {
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: #fafbfc;
+}
+.paper-date {
+  color: #6c757d;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+.paper-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+.paper-author {
+  font-size: 16px;
+  color: #495057;
+  margin-bottom: 4px;
+}
+.paper-university {
+  font-size: 14px;
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+.paper-abstract {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #495057;
+  text-align: justify;
+}
+.abstract-label {
+  font-weight: 600;
+  color: #495057;
+  margin-bottom: 8px;
+}
+</style>
+<div class="paper-entry">
   <div class="paper-date">September 22</div>
   <div class="paper-title">World Wide Webs: How Migrant Networks and Porous Bureaucracies Forged the Knowledge Economy in the Global South</div>
   <div class="paper-author">Jerik Cruz</div>
