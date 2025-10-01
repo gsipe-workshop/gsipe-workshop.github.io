@@ -30,12 +30,6 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 ***Queen Mary University of London***
 *Moderator:* Greg Brownstein, George Washington University
 
-**October 6**
-**"Droughts in the Field, Drug Lords on the Hunt"**
-**Enrico Cavallotti**
-***European University Institute***
-*Moderator:* Ryan Pike
-
 **October 13**
 **"The Role of Supply Chains in the Politics of Liberalization"**
 **Zagreb Mukerjee**
