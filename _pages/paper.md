@@ -4,7 +4,6 @@ title: "Paper"
 permalink: /paper/
 author_profile: true
 ---
-
 <style>
 .paper-entry {
   border: 1px solid #e1e5e9;
@@ -53,7 +52,61 @@ author_profile: true
 </style>
 <div class="paper-entry">
   <div class="paper-date">October 20, 2025</div>
+  <div class="paper-title">Deindustrialization, Decarbonization and Climate Investment: A Green Bullet for a Rusty Belt?</div>
+  <div class="paper-author">Ryan Pike</div>
+  <div class="paper-university">Yale University</div>
+  <div class="abstract-label">Abstract:</div>
+  <div class="paper-abstract">
+    Market interventions are a frequent lever for governments to ease the costs of economic transformations. Green industrial policy (GIP) is a recent example of such policy, seeking to ease the costs of the ecological transition. It is an open question, however, if governments benefit from the provision of GIP. My central claim is that rather than GIP being a tool against climate change alone, it is better considered as one against deindustrialization. This broader conceptualization provides insights into the spatial variation of GIP's electoral consequences: GIP is more likely to win the incumbent votes in places with increased risk and exposure to deindustrialization, namely along the dimensions of globalization and decarbonization. Hence in communities doubly-pressured by both dimensions, GIP implementation is an effective tool to win back voters "left-behind" and at risk of further economic precarity. I test this argument using geo-located data from the Inflation Reduction Act, leveraging variation in investment status in November 2024 for identification in a difference-in-differences framework. The absence of general electoral impact masks substantial heterogeneity: doubly-pressured communities shifted 2-3 p.p. towards the Democrats after receiving investment. I complement these national level results with a case study of Michigan. Fine grained voting data, planning documents, candidate statements, and local news coverage corroborate the differential response to GIP in these doubly-pressured areas, but not elsewhere.
+  </div>
+</div>
 
+<style>
+.paper-entry {
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: #fafbfc;
+}
+.paper-date {
+  color: #6c757d;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+.paper-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+.paper-author {
+  font-size: 16px;
+  color: #495057;
+  margin-bottom: 4px;
+}
+.paper-university {
+  font-size: 14px;
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+.paper-abstract {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #495057;
+  text-align: justify;
+}
+.abstract-label {
+  font-weight: 600;
+  color: #495057;
+  margin-bottom: 8px;
+}
+</style>
 <div class="paper-entry">
   <div class="paper-date">October 13, 2025</div>
   <div class="paper-title">The Role of Supply Chains in the Politics of Liberalization</div>
@@ -62,14 +115,6 @@ author_profile: true
   <div class="abstract-label">Abstract:</div>
   <div class="paper-abstract">
     How do electorates react to trade liberalization? I argue that liberalization offers domestic producers access to new, cheaper, and better inputs. This in turn increases real incomes, leading to electoral rewards. I test this hypothesis in the context of the 1991 trade reforms imposed by the IMF on India, which I argue constitute a natural experiment to determine the effects of tariff reduction. I create novel measures of region-specific exposure to tariff changes and use a difference-in-difference design to find that greater access to better inputs is spatially associated with greater support for the pro-reform incumbent.
-  </div>
-</div>
-  <div class="paper-title">Deindustrialization, Decarbonization and Climate Investment: A Green Bullet for a Rusty Belt?</div>
-  <div class="paper-author">Ryan Pike</div>
-  <div class="paper-university">Yale University</div>
-  <div class="abstract-label">Abstract:</div>
-  <div class="paper-abstract">
-    Market interventions are a frequent lever for governments to ease the costs of economic transformations. Green industrial policy (GIP) is a recent example of such policy, seeking to ease the costs of the ecological transition. It is an open question, however, if governments benefit from the provision of GIP. My central claim is that rather than GIP being a tool against climate change alone, it is better considered as one against deindustrialization. This broader conceptualization provides insights into the spatial variation of GIP's electoral consequences: GIP is more likely to win the incumbent votes in places with increased risk and exposure to deindustrialization, namely along the dimensions of globalization and decarbonization. Hence in communities doubly-pressured by both dimensions, GIP implementation is an effective tool to win back voters "left-behind" and at risk of further economic precarity. I test this argument using geo-located data from the Inflation Reduction Act, leveraging variation in investment status in November 2024 for identification in a difference-in-differences framework. The absence of general electoral impact masks substantial heterogeneity: doubly-pressured communities shifted 2-3 p.p. towards the Democrats after receiving investment. I complement these national level results with a case study of Michigan. Fine grained voting data, planning documents, candidate statements, and local news coverage corroborate the differential response to GIP in these doubly-pressured areas, but not elsewhere.
   </div>
 </div>
 
