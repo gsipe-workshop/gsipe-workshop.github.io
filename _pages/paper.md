@@ -4,6 +4,63 @@ title: "Paper"
 permalink: /paper/
 author_profile: true
 ---
+
+<style>
+.paper-entry {
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: #fafbfc;
+}
+.paper-date {
+  color: #6c757d;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+.paper-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+.paper-author {
+  font-size: 16px;
+  color: #495057;
+  margin-bottom: 4px;
+}
+.paper-university {
+  font-size: 14px;
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+.paper-abstract {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #495057;
+  text-align: justify;
+}
+.abstract-label {
+  font-weight: 600;
+  color: #495057;
+  margin-bottom: 8px;
+}
+</style>
+<div class="paper-entry">
+  <div class="paper-date">October 27, 2025</div>
+  <div class="paper-title">Distributive Politics and Energy Transitions: Household Stratified Adaption to Fuel Subsidy Reform in Nigeria</div>
+  <div class="paper-author">Fikayo Akeredolu</div>
+  <div class="paper-university">University of Oxford</div>
+  <div class="abstract-label">Abstract:</div>
+  <div class="paper-abstract">
+    How do unequal capacities for adaption shape the distribution consequences and political legitimacy of welfare reform in weak-capacity, oil-producing states? This paper examines Nigeria's 2023 fuel subsidy removal, a policy justified on fiscal grounds but implemented amid widespread energy poverty. Using two waves of the World Bank Living Standards Measurement Study, Afrobarometer survey data, and 250 household interviews, I find that the subsidy removal produced more regressive outcomes than the policy it replaced. The reform drove petrol prices from N200 to N1,250 per liter, making solar energy cost-competitive but requiring prohibitive upfront capital of N2 million or more. Wealthier households adopted solar at substantially higher rates and partially escaped energy poverty. Poorer households curtailed energy consumption entirely, experiencing welfare losses without compensating gains. I theorize this as stratified adaptation, a process through which pre-existing inequalities in financial resources and infrastructure access determine both material and political effects of reform. This material stratification translated directly into legitimacy erosion: citizens unable to adapt interpreted the reform as state abandonment and systematically withdrew support from government institutions. Because adaptive capacity follows existing wealth hierarchies, subsidy removal reproduced inequality in both material outcomes and political trust, illustrating how reform outcomes are conditioned by prior distributions of advantage.
+  </div>
+</div>
 <style>
 .paper-entry {
   border: 1px solid #e1e5e9;
