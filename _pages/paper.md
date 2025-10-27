@@ -52,6 +52,63 @@ author_profile: true
 }
 </style>
 <div class="paper-entry">
+  <div class="paper-date"> November 3, 2025</div>
+  <div class="paper-title">Trade Shocks, Recoveries, And Their Discontents: A theory of Racialized Labor Markets </div>
+  <div class="paper-author">Ezio Jiaqi Wang</div>
+  <div class="paper-university">The University of North Carolina at Chapel Hill</div>
+  <div class="abstract-label">Abstract:</div>
+  <div class="paper-abstract">
+    Why do white and minority Americans appear to react differently to the same trade shocks? I argue that what looks like identity-based divergence is largely the product of racialized labor markets: groups face different exposure to import competition and unequal access to recovery pathways. Using commuting-zone, race-specific measures of the China trade shock and service-sector reallocation, and estimating group-specific causal effects with a double machine learning IV design, I show that (i) among white respondants, higher trade exposure reduced support for the Democratic candidate in 2016, but this effect was buffered where lower-value (non-professional) services expanded; (ii) among Black respondents, baseline trade effects are small, but growth in professional services modestly sustains Democratic support; and (iii) estimates for Hispanic respondents are mixed and imprecise. Additional evidence favors a sociotropic mechanism - changes in perceptions of national well-being and opportunity - over individual income losses. The results recast the "trade backlash" as a consequence of how shocks and recovery are distributed across racialized labor markets, and they clarify why prior interaction-based models confounded identification.
+  </div>
+</div>
+
+<style>
+.paper-entry {
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: #fafbfc;
+}
+.paper-date {
+  color: #6c757d;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+.paper-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+.paper-author {
+  font-size: 16px;
+  color: #495057;
+  margin-bottom: 4px;
+}
+.paper-university {
+  font-size: 14px;
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+.paper-abstract {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #495057;
+  text-align: justify;
+}
+.abstract-label {
+  font-weight: 600;
+  color: #495057;
+  margin-bottom: 8px;
+}
+</style>
+<div class="paper-entry">
   <div class="paper-date">October 27, 2025</div>
   <div class="paper-title">Distributive Politics and Energy Transitions: Household Stratified Adaption to Fuel Subsidy Reform in Nigeria</div>
   <div class="paper-author">Fikayo Akeredolu</div>
