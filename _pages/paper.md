@@ -52,6 +52,63 @@ author_profile: true
 }
 </style>
 <div class="paper-entry">
+  <div class="paper-date"> November 10, 2025</div>
+  <div class="paper-title">Who Contests? How Outside Options Shape Contestation in Global Financial Governance </div>
+  <div class="paper-author">Greg Brownstein</div>
+  <div class="paper-university">George Washington University</div>
+  <div class="abstract-label">Abstract:</div>
+  <div class="paper-abstract">
+    How have new sovereign creditors impacted contestation in global financial governance? Since the 1990s, the number of creditors available to sovereign borrowers has expanded. Conventional wisdom suggests that new creditors constitute an "outside option" for debtor states. Scholars have found that states leverage outside options to push back on the International Monetary Fund (IMF) during loan program negotiations. But the literature has not fully considered how different types of outside options impact contestation differently. Nor have scholars explored this relationship within the context of economic surveillance. I hypothesize that outside options exhibit variation with regards to their credibility. Credibility options enable contestation while others do not. To test this argument, I compile a novel dataset of 1900 IMF Executive Board statements from 1992 to 2022 in which country representatives share their views on IMF surveillance findings. I develop a bespoke text analysis model to measure the level of contestation in each of the statements. Using fixed effects linear regression models, I find statistically significant evidence that an increase in Chinese finance is correlated with an increase in contestation while an increase in private finance is correlated with a decrease in contestation. These findings suggest that the ongoing fragmentation of global governance will have mixed effects on patterns of contestation.
+  </div>
+</div>
+
+<style>
+.paper-entry {
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: #fafbfc;
+}
+.paper-date {
+  color: #6c757d;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+.paper-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+.paper-author {
+  font-size: 16px;
+  color: #495057;
+  margin-bottom: 4px;
+}
+.paper-university {
+  font-size: 14px;
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+.paper-abstract {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #495057;
+  text-align: justify;
+}
+.abstract-label {
+  font-weight: 600;
+  color: #495057;
+  margin-bottom: 8px;
+}
+</style>
+<div class="paper-entry">
   <div class="paper-date"> November 3, 2025</div>
   <div class="paper-title">Trade Shocks, Recoveries, And Their Discontents: A theory of Racialized Labor Markets </div>
   <div class="paper-author">Ezio Jiaqi Wang</div>
