@@ -5,6 +5,64 @@ permalink: /paper/
 author_profile: true
 ---
 
+
+<style>
+.paper-entry {
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: #fafbfc;
+}
+.paper-date {
+  color: #6c757d;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+.paper-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+.paper-author {
+  font-size: 16px;
+  color: #495057;
+  margin-bottom: 4px;
+}
+.paper-university {
+  font-size: 14px;
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+.paper-abstract {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #495057;
+  text-align: justify;
+}
+.abstract-label {
+  font-weight: 600;
+  color: #495057;
+  margin-bottom: 8px;
+}
+</style>
+<div class="paper-entry">
+  <div class="paper-date"> November 17, 2025</div>
+  <div class="paper-title">Beyond Pro- and Anti-Trade: A Two Dimensional Framework of Trade Preferences </div>
+  <div class="paper-author">Yujin Zhang (Columbia University)  & Gary Ziwen Zu (UC San Diego) </div>
+  <div class="abstract-label">Abstract:</div>
+  <div class="paper-abstract">
+    Public attitudes toward international trade have long been analyzed as unidimensional, with individuals’ preferences placed on a spectrum ranging from opposition to support. This framework, however, struggles to conceptualize trade positions with opposite views on imports and exports, as well as masks different rationales driving the same policy positions. This study proposes a two-dimensional perspective. Based on their attitudes toward imports and exports and the relationship between the two, we categorize individuals into four trade groups. Drawing on original surveys conducted in the United States and China, we find significant profile differences between these groups in terms of their economic, ideological, and out-group preferences, suggesting distinct rationales in forming their trade attitudes. Relying on embedded vignette and conjoint experiments, we causally document that groups with similar attitudes toward imports or exports react substantially differently to the same frames of trade balance and vary in their support for trade policies. Together, our findings establish a novel framework for understanding trade preferences in future research and the public support for trade policies in
+the world’s two largest economies.
+  </div>
+</div>
+
 <style>
 .paper-entry {
   border: 1px solid #e1e5e9;
