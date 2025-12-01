@@ -6,6 +6,64 @@ author_profile: true
 ---
 
 
+
+<style>
+.paper-entry {
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: #fafbfc;
+}
+.paper-date {
+  color: #6c757d;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+.paper-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+.paper-author {
+  font-size: 16px;
+  color: #495057;
+  margin-bottom: 4px;
+}
+.paper-university {
+  font-size: 14px;
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+.paper-abstract {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #495057;
+  text-align: justify;
+}
+.abstract-label {
+  font-weight: 600;
+  color: #495057;
+  margin-bottom: 8px;
+}
+</style>
+<div class="paper-entry">
+  <div class="paper-date"> December 1, 2025</div>
+  <div class="paper-title"> To Invest or Not to Invest: Geoeconomic Closeness & Strategic Sector Investments </div>
+  <div class="paper-author"> Rudra M Guha Bisas </div>
+  <div class="paper-university">University of California, Riverside</div>
+  <div class="abstract-label">Abstract:</div>
+  <div class="paper-abstract">
+   How does the increasing tensions between the US and China affect inward investments to the US? Geoeconomics, or the strategic use of economic instruments for geopolitical outcomes, increasingly shapes global investment and trade flows, and has raised fears of a geoeconomic fragmentation, as firms adjust their internationalization strategies based on emerging global political realities. This study suggests that instead of a geoeconomic fragmentation, the world is witnessing a geoeconomic re-alignment, with investments flowing based on the political closeness. I use incoming foreign direct investment (FDI) to the US to argue that strategic sector firms from countries closely aligned to China are reducing investments into the US due to fears of adverse policy actions, i.e., a weaponization of interdependence. Leveraging the semi-conductor sales ban to Chinese firms implemented by the US in 2022 as an identification mechanism, I use a difference-in-difference (DiD) as well as a Synthetic Control DiD design to analyze global FDI inflows to the US from 2014 thru 2023, utilizing country-wise sector-year data from fDiMarkets. I find strong evidence that countries closer to China reduced their strategic sector FDI to the US after the geoeconomic shock in 2022. These findings provide evidence for a geoeconomic re-alignment of international investments. Along with providing a causal evidence for this phenomenon, this research provides key insights into the sectoral preferences of firms in this newly emergent world order.
+  </div>
+</div>
+
 <style>
 .paper-entry {
   border: 1px solid #e1e5e9;
