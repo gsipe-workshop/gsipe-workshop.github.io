@@ -5,6 +5,62 @@ permalink: /paper/
 author_profile: true
 ---
 
+<style>
+.paper-entry {
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: #fafbfc;
+}
+.paper-date {
+  color: #6c757d;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+.paper-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+.paper-author {
+  font-size: 16px;
+  color: #495057;
+  margin-bottom: 4px;
+}
+.paper-university {
+  font-size: 14px;
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+.paper-abstract {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #495057;
+  text-align: justify;
+}
+.abstract-label {
+  font-weight: 600;
+  color: #495057;
+  margin-bottom: 8px;
+}
+</style>
+<div class="paper-entry">
+  <div class="paper-date"> December 8, 2025</div>
+  <div class="paper-title"> From Gender Rhetoric to Lending Rules: Enforcing Equality in Multilateral Development Bank Lending </div>
+  <div class="paper-author"> Natalie Playford </div>
+  <div class="paper-university">University of Toronto</div>
+  <div class="abstract-label">Abstract:</div>
+  <div class="paper-abstract">
+   How and when do Multilateral Development Banks (MDBs) transform gender-equality rhetoric into enforceable lending conditions? Despite heightened global commitments, gender clauses, such as Gender Action Plans and gender-responsive budgeting, remain unevenly embedded in loan agreements. This paper provides the first systematic, cross-bank analysis of gender clause adoption across 4,906 World Bank, Asian Development Bank, and Inter-American Development Bank loans (2000-2025). Drawing on supervised machine-learning text classification and manual coding, it develops a measure of clause strength and tests three mechanisms: reputational pressure, sectoral repertoires, and bureaucratic routinization. Ordered-probit and event-study models demonstrate that global normative triggers, such as the Convention on the Elimination of All Forms of Discrimination against Women (CEDAW) reporting cycles and the establishment of the Sustainable Development Goals (SDGs), significantly increase the likelihood of substantive clauses, while internal strategy rollouts often yield symbolic rather than enforceable provisions. Social-sector lending predicts stronger clauses, but the most powerful predictor is reference to institutionalized gender-screening and monitoring processes, which increases the probability of binding language by over 20%. These findings show that gender mainstreaming in MDBs operates as a reputational equilibrium, where external scrutiny catalyzes adoption, but only durable internal procedures convert norms into enforceable commitments.
+  </div>
+</div>
 
 
 <style>
