@@ -6,10 +6,10 @@ author_profile: true
 ---
 ## Organizing
 <ul>
-    <li><a href="https://www.linkedin.com/in/kexin-bai-08a3921b0/">Kexin Bai (Texas A&M University)</a> - baikexin@tamu.edu</li>
+    <li><a href="https://www.linkedin.com/in/kexin-bai-08a3921b0/">Kexin Bai (Texas A&M University)</a> - Chair - baikexin@tamu.edu</li>
+    <li><a href="https://rudraguhabiswas.org/">Rudra M Guha Biswas (University of California, Riverside)</a> - Vice Chair - rguha003@ucr.edu</li>
     <li><a href="https://www.maziebernard.com/">Mazie Bernard (Purdue University)</a> - bernard1@purdue.edu </li>
     <li><a href="https://sites.google.com/view/ghita-chraibi/bio">Ghita Chraibi (University of Virginia)</a> - usx8ns@virginia.edu</li>
-    <li><a href="https://rudraguhabiswas.org/">Rudra M Guha Biswas (University of California, Riverside)</a> - rguha003@ucr.edu</li>
     <li><a href="https://adamlhobbs.com/">Adam Hobbs (University of California, Riverside)</a> - ahobb005@ucr.edu</li>
     <li><a href="https://parkerli.org/">Yongzheng (Parker) Li (University of British Columbia)</a> - parkeryz@mail.ubc.ca</li>
 </ul>
