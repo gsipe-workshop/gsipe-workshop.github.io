@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Schedule Fall 2025"
+title: "Schedule Spring 2026"
 permalink: /schedule/
 author_profile: true
 ---
@@ -12,6 +12,89 @@ All workshop events take place virtually on Monday, 12:00-13:00 (1:00 pm) Easter
 *Links to workshop papers will be active as events draw closer [here](https://gsipe-workshop.github.io/paper/).*
 
 ## Upcoming Workshops 
+
+**February 9**
+**"Deferring Punishment from Liberalizing Trade: The Political Consequences of Tariff Phaseouts in NAFTA"**
+**Eric Thai**
+***University of California, San Diego***
+*Moderator:* Ghita Chraibi
+
+**February 16**
+**"Democracy and Financial Disintermediation: A Conjoint Experiment in Peru"**
+**Ghita Chraibi**
+***University of Virginia***
+*Moderator:* Adam Hobbs
+
+**February 23**
+**"The Political Economy of Concessional Climate Finance: Evidence from the GCF and CIF"**
+**Abdulrasheed Isah**
+***ETH Zurich***
+*Moderator:* Enock Bulime
+
+**March 2**
+**"From Altruism to Advantage: The Geostrategic and Geoeconomic Turn in EU and US Development Policy (2015-2025)"**
+**Benjamin Smith**
+***University of Oxford***
+*Moderator:* Eric Thai
+
+**March 9**
+**"How Sovereign Wealth Funds Shape Host Country Policy"**
+**Andrew T. Fairley and John Hicks**
+***University of Wisconsin-Madison***
+*Moderator:* Abdulrasheed Isah
+
+**March 16**
+**"Environmental Costs of Trade War: Evidence from Brazil's Soybean Exports and Deforestation"**
+**Ziwen Zu & Yujin Zhang**
+***University of California, San Diego***
+*Moderator:* Keeheon Lee
+
+**March 23**
+**ISA Week; Join us for Happy Hour 😊！**
+
+**March 30**
+**"Industrial Policies against Tariff: the Case of the Solar Photovoltaic Industry"**
+**Junda Li**
+***University of Wisconsin-Madison***
+*Moderator:* Yue Lin
+
+**April 6**
+**"Does gender parity translate into substantive representation? Evidence from legislative debates in Mexico, 2003–2027"**
+**Aideé Núñez**
+***University of Toronto***
+*Moderator:* Isabel Pham
+
+**April 13**
+**"Trading Peace for War: Market Embeddedness and Military Support in the U.S. Financial Sector"**
+**Brandon Sullivan**
+***Boston University***
+*Moderator:* Kexin Bai
+
+**April 20**
+**"Striking but Fleeting: How Economic Security Shapes Multinational Firms' Nonmarket Strategies"**
+**Yue Lin**
+***University of California, Berkeley***
+*Moderator:* Brandon Sullivan
+
+**April 27**
+**"When Education Spending Works: Tax Policy and Human Capital Formation in Africa"**
+**Enock Bulime**
+***Kansas State University***
+*Moderator:* Aideé Núñez
+
+**May 4**
+**"Global Trade Landscape Shift and the Empowerment of Domestic Sustainability Standards: Insight from Indonesia's Palm Oil Industry"**
+**Keeheon Lee**
+***Georgetown University***
+*Moderator:* Yujin Zhang
+
+**May 11**
+**"Air Cargo Competition and the Implication of Trade"**
+**Isabel Pham**
+***Vienna University of Business and Economics***
+*Moderator:* Junda Li
+
+<!---** ## Previous Workshops
 
 **September 15**
 **"Money Talks: Using Cash and Bitcoin to Unpack The Politics of Financial Disintermediation"**
