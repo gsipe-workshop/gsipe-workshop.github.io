@@ -52,6 +52,63 @@ author_profile: true
 }
 </style>
 <div class="paper-entry">
+  <div class="paper-date"> February 9, 2026</div>
+  <div class="paper-title"> Deferring Punishment from Liberalizing Trade: The Effects of Tariff Phaseouts in NAFTA </div>
+  <div class="paper-author"> Eric Thai </div>
+  <div class="paper-university">UC San Diego</div>
+  <div class="abstract-label">Abstract:</div>
+  <div class="paper-abstract">
+   Can international trade agreements be designed to delay political fallout? I argue that phasing out tariffs can delay and mitigate the political consequences of trade liberalization. I test these hypotheses using the case of the North American Free Trade Agreement (NAFTA), the United States’ first and most consequential regional trade pact. First, I establish that longer phaseouts led to longer delays in employment decline for import-sensitive industries. Second, I find that counties sensitive to imports with minimal tariff phaseout punished Democratic presidential candidates immediately. In contrast, areas with more phaseout coverage penalize them later once tariffs are completely phased out. Third, Democratic Representatives and Senators who supported NAFTA are at greater risk of being voted out of office; however, greater phaseout coverage for their district mitigates such risk entirely. This article presents new evidence suggesting that highly particularistic provisions of trade agreements can delay and mitigate electoral backlash.
+  </div>
+</div>
+
+<style>
+.paper-entry {
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: #fafbfc;
+}
+.paper-date {
+  color: #6c757d;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+.paper-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+.paper-author {
+  font-size: 16px;
+  color: #495057;
+  margin-bottom: 4px;
+}
+.paper-university {
+  font-size: 14px;
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+.paper-abstract {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #495057;
+  text-align: justify;
+}
+.abstract-label {
+  font-weight: 600;
+  color: #495057;
+  margin-bottom: 8px;
+}
+</style>
+<div class="paper-entry">
   <div class="paper-date"> December 8, 2025</div>
   <div class="paper-title"> From Gender Rhetoric to Lending Rules: Enforcing Equality in Multilateral Development Bank Lending </div>
   <div class="paper-author"> Natalie Playford </div>
