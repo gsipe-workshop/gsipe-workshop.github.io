@@ -52,6 +52,122 @@ author_profile: true
 }
 </style>
 <div class="paper-entry">
+  <div class="paper-date"> February 23, 2026</div>
+  <div class="paper-title"> The Political Economy of Concessional Climate Finance: Evidence from the GCF and CIF </div>
+  <div class="paper-author"> Abdulrasheed Isah </div>
+  <div class="paper-university">ETH Zurich</div>
+  <div class="abstract-label">Abstract:</div>
+  <div class="paper-abstract">
+   Climate finance is essential for supporting mitigation and adaptation in developing economies, 6 yet current flows fall short of the annual investment needs. Multilateral climate funds (MCFs) like 7 the Green Climate Fund (GCF) and Climate Investment Funds (CIF) play pivotal roles in providing 8 and mobilizing concessional climate finance, but empirical insights into drivers of their 9 concessionality design and financial allocations remain limited. This paper combines project 10 portfolio data, policy documents, participant observation, and 25 stakeholder interviews to 11 investigate factors influencing concessionality and finance deployment by GCF and CIF. Our 12 findings reveal distinct concessionality approaches in the two MCFs use influenced by six 13 determining and moderating factors including institutional design, project characteristics, recipient 14 country characteristics, and multilateral climate politics. We discuss insights to inform how MCFs 15 can better balance equity, effectiveness, and private capital mobilization. Understanding these 16 dynamics is critical for enhancing the multilateral climate finance architecture to support climate 17 action in developing countries.
+  </div>
+</div>
+
+
+<style>
+.paper-entry {
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: #fafbfc;
+}
+.paper-date {
+  color: #6c757d;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+.paper-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+.paper-author {
+  font-size: 16px;
+  color: #495057;
+  margin-bottom: 4px;
+}
+.paper-university {
+  font-size: 14px;
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+.paper-abstract {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #495057;
+  text-align: justify;
+}
+.abstract-label {
+  font-weight: 600;
+  color: #495057;
+  margin-bottom: 8px;
+}
+</style>
+<div class="paper-entry">
+  <div class="paper-date"> February 16, 2026</div>
+  <div class="paper-title"> Democracy and Financial Disintermediation: A Conjoint Experiment in Peru </div>
+  <div class="paper-author"> Ghita Chraibi </div>
+  <div class="paper-university">University of Virginia</div>
+  <div class="abstract-label">Abstract:</div>
+  <div class="paper-abstract">
+   Financial technologies (fintech) promise to democratize finance through cheaper, faster services, facilitating financial inclusion by resolving supply constraints. Then, why hasn't fintech solved financial inclusion in Peru, one of Latin America's least banked countries? This study builds on work revealing that payment choices reflect political preferences rather than economic efficiency alone, and that autocratic governance increases citizens' "exit" from formal financial systems. I term this "exit" financial disintermediation, distinguishing between intermediated fintech (mobile money) relying on trusted third parties and disintermediated alternatives (Bitcoin, cash) operating without central authorities while protecting anonymity. When citizens bypass banks and reject intermediated fintech, as in Peru, this reveals preferences for disintermediated finance. I argue cash remains Peru's primary payment method despite government fintech encouragement because cash's preferred attributes in contexts of eroding institutional trust (untraceable, immediate, final, requiring no inter-party trust) don't transfer to mobile money. Where financial disintermediation is likely due to trust erosion and democratic backsliding, individuals prefer fintech with cash-like attributes (Bitcoin). I test this through a conjoint experiment in Peru randomizing fintech payment attributes, providing micro-level evidence of how payment attributes impact financial behavior during democratic backsliding.
+  </div>
+</div>
+
+
+<style>
+.paper-entry {
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: #fafbfc;
+}
+.paper-date {
+  color: #6c757d;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+.paper-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+.paper-author {
+  font-size: 16px;
+  color: #495057;
+  margin-bottom: 4px;
+}
+.paper-university {
+  font-size: 14px;
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+.paper-abstract {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #495057;
+  text-align: justify;
+}
+.abstract-label {
+  font-weight: 600;
+  color: #495057;
+  margin-bottom: 8px;
+}
+</style>
+<div class="paper-entry">
   <div class="paper-date"> February 9, 2026</div>
   <div class="paper-title"> Deferring Punishment from Liberalizing Trade: The Effects of Tariff Phaseouts in NAFTA </div>
   <div class="paper-author"> Eric Thai </div>
