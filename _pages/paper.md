@@ -108,6 +108,64 @@ author_profile: true
 }
 </style>
 <div class="paper-entry">
+  <div class="paper-date"> March 2, 2026</div>
+  <div class="paper-title"> From Altruism to Advantage: The Geostrategic and Geoeconomic Turn in EU and US Development Policy (2015-2025) </div>
+  <div class="paper-author"> Benjamin Smith </div>
+  <div class="paper-university"> University of Oxford</div>
+  <div class="abstract-label">Abstract:</div>
+  <div class="paper-abstract">
+   In the context of increased security concerns and being surpassed by China (the world’s largest development aid donor), the European Union and the United States of America face a strategic dilemma. They must remain providers of development assistance that is high-quality, follows standards of democracy, human rights, and transparency, but is also as efficient as the assistance offered by their autocratic counterparts (China and Russia). This article argues that, as a result of this pressure, the European Union and the United States have reconfigured much of their development policy to suit their geostrategic and geoeconomic needs (rather than the needs of their recipients). This behaviour is not necessarily surprising, as both donors did so during the Cold War and the War on Terror, but scholarship has not yet examined this specific turn in development policy.
+  </div>
+</div>
+
+
+<style>
+.paper-entry {
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: #fafbfc;
+}
+.paper-date {
+  color: #6c757d;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+.paper-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+.paper-author {
+  font-size: 16px;
+  color: #495057;
+  margin-bottom: 4px;
+}
+.paper-university {
+  font-size: 14px;
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+.paper-abstract {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #495057;
+  text-align: justify;
+}
+.abstract-label {
+  font-weight: 600;
+  color: #495057;
+  margin-bottom: 8px;
+}
+</style>
+<div class="paper-entry">
   <div class="paper-date"> February 23, 2026</div>
   <div class="paper-title"> The Political Economy of Concessional Climate Finance: Evidence from the GCF and CIF </div>
   <div class="paper-author"> Abdulrasheed Isah </div>
@@ -117,7 +175,6 @@ author_profile: true
    Climate finance is essential for supporting mitigation and adaptation in developing economies, 6 yet current flows fall short of the annual investment needs. Multilateral climate funds (MCFs) like 7 the Green Climate Fund (GCF) and Climate Investment Funds (CIF) play pivotal roles in providing 8 and mobilizing concessional climate finance, but empirical insights into drivers of their 9 concessionality design and financial allocations remain limited. This paper combines project 10 portfolio data, policy documents, participant observation, and 25 stakeholder interviews to 11 investigate factors influencing concessionality and finance deployment by GCF and CIF. Our 12 findings reveal distinct concessionality approaches in the two MCFs use influenced by six 13 determining and moderating factors including institutional design, project characteristics, recipient 14 country characteristics, and multilateral climate politics. We discuss insights to inform how MCFs 15 can better balance equity, effectiveness, and private capital mobilization. Understanding these 16 dynamics is critical for enhancing the multilateral climate finance architecture to support climate 17 action in developing countries.
   </div>
 </div>
-
 
 <style>
 .paper-entry {
