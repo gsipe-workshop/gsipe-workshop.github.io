@@ -52,6 +52,62 @@ author_profile: true
 }
 </style>
 <div class="paper-entry">
+  <div class="paper-date"> March 9, 2026</div>
+  <div class="paper-title">  How Sovereign Wealth Funds Shape Host Country Policy </div>
+  <div class="paper-author"> Andrew T. Fairley and John Hicks (University of Wisconsin, Madison) </div>
+  <div class="abstract-label">Abstract:</div>
+  <div class="paper-abstract">
+  How do sovereign wealth funds (SWFs) leverage investment to secure favorable host country policies? We identify a novel mechanism of foreign influence—“corporate capture diplomacy”—whereby state investment vehicles acquire equity in other countries’ politically active firms to redirect their lobbying toward home state interests. This strategy exploits a regulatory loophole where foreign agent registration laws restrict some direct government lobbying but not equity ownership. We theorize a two-stage process. First, SWFs target firms with established political infrastructure, paying premiums for rapidly repurposable lobbying networks. Second, following investment, these firms shift their lobbying behavior toward the SWF’s home state interests. Using SWF investment data linked to US firm-level lobbying records, we find evidence consistent with both stages of our theory: SWFs disproportionately target lobbying-active firms and these firms subsequently shift lobbying expenditures toward policy issues aligned with home state objectives. We then show that these patterns cannot emerge from passive investment strategies alone and are in excess of general lobbying patterns from SWF independent firms. Our findings bridge sovereign wealth fund, corporate lobbying, and statecraft literatures, demonstrating how states can weaponize equity markets as instruments of geopolitical influence.
+  </div>
+</div>
+
+<style>
+.paper-entry {
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: #fafbfc;
+}
+.paper-date {
+  color: #6c757d;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+.paper-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+.paper-author {
+  font-size: 16px;
+  color: #495057;
+  margin-bottom: 4px;
+}
+.paper-university {
+  font-size: 14px;
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+.paper-abstract {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #495057;
+  text-align: justify;
+}
+.abstract-label {
+  font-weight: 600;
+  color: #495057;
+  margin-bottom: 8px;
+}
+</style>
+<div class="paper-entry">
   <div class="paper-date"> February 23, 2026</div>
   <div class="paper-title"> The Political Economy of Concessional Climate Finance: Evidence from the GCF and CIF </div>
   <div class="paper-author"> Abdulrasheed Isah </div>
