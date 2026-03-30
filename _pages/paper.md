@@ -52,6 +52,62 @@ author_profile: true
 }
 </style>
 <div class="paper-entry">
+  <div class="paper-date"> March 30, 2026</div>
+  <div class="paper-title"> Manufacturing. vs Power Generation: Divergent Effects of Industrial Policy on Chinese Solar Photovoltaic Firms </div>
+  <div class="paper-author"> Junda Li (University of Wisconsin, Madison) and Jianwen Lin (Korea University of Foreign Studies) </div>
+  <div class="abstract-label">Abstract:</div>
+  <div class="paper-abstract">
+ China’s rise to global dominance in solar photovoltaic manufacturing has been accompanied by an extensive and heterogeneous portfolio of industrial policies across subnational governments. However, how different types of policy shape firm-level outcomes remains poorly understood. Using a novel dataset of 1,528 local-level solar photovoltaic policies spanning 144 cities from 2006 to 2024, matched to listed firm data, we examine the divergent effects of demand-side power-generation policies (G policies) and supply-side manufacturing policies (M policies) on firms’ financial and innovation performance. Employing a two-way fixed effects framework, we find that power-generation policies are the primary driver of short-term firm revenue growth, while manufacturing policies are the primary driver of long-term invention patent output. These effects are concentrated among manufacturing firms and in the pre-2018 era before the phase-out of subsidies. These findings highlight the importance of industrial policy composition– not just intensity – in shaping industrial upgrading, and offer actionable lessons for countries seeking to develop competitive positions in clean energy industries.
+  </div>
+</div>
+
+<style>
+.paper-entry {
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: #fafbfc;
+}
+.paper-date {
+  color: #6c757d;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+.paper-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+.paper-author {
+  font-size: 16px;
+  color: #495057;
+  margin-bottom: 4px;
+}
+.paper-university {
+  font-size: 14px;
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+.paper-abstract {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #495057;
+  text-align: justify;
+}
+.abstract-label {
+  font-weight: 600;
+  color: #495057;
+  margin-bottom: 8px;
+}
+</style>
+<div class="paper-entry">
   <div class="paper-date"> March 9, 2026</div>
   <div class="paper-title">  How Sovereign Wealth Funds Shape Host Country Policy </div>
   <div class="paper-author"> Andrew T. Fairley and John Hicks (University of Wisconsin, Madison) </div>
