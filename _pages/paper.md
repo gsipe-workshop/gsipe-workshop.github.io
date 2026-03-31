@@ -52,6 +52,62 @@ author_profile: true
 }
 </style>
 <div class="paper-entry">
+  <div class="paper-date"> April 6, 2026</div>
+  <div class="paper-title"> Does gender parity translate into substantive representation? Evidence from legislative debates in Mexico, 2015-2024 </div>
+  <div class="paper-author"> Aideé Núñez Colin (University of Toronto) </div>
+  <div class="abstract-label">Abstract:</div>
+  <div class="paper-abstract">
+This project studies whether gender parity in legislatures leads to greater substantive representation for women. In 2019, Mexico approved a constitutional reform that required gender parity across all branches of government, enabling the country’s first fully gender-balanced lower chamber in the 2021 legislature. While this reform changed the descriptive composition of Congress, it remains unclear whether it altered the content of legislative debate. To answer this question, I compile a corpus of all congressional transcripts from 2015 to 2024, covering non-parity, transitional, and parity legislatures. I develop a validated dictionary of gender-related topics, including phrases linked to reproductive rights, labor equality, care systems, and violence against women. Using text-as-data methods, this project constructs a session-level measure of the share of legislative discussion devoted to gender issues and evaluates whether this share increases once parity is implemented. The analysis will rely on time-series models, including an ARIMA model with an intervention at the onset of the parity legislature, and will examine changes in both the level and trend of the agenda, using topic modeling as a robustness check to see whether gender-related themes emerge naturally in the corpus. This study is still in the early stages, but once complete it can provide early evidence on whether parity reforms can shift legislative priorities in practice.
+  </div>
+</div>
+
+<style>
+.paper-entry {
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: #fafbfc;
+}
+.paper-date {
+  color: #6c757d;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+.paper-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+.paper-author {
+  font-size: 16px;
+  color: #495057;
+  margin-bottom: 4px;
+}
+.paper-university {
+  font-size: 14px;
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+.paper-abstract {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #495057;
+  text-align: justify;
+}
+.abstract-label {
+  font-weight: 600;
+  color: #495057;
+  margin-bottom: 8px;
+}
+</style>
+<div class="paper-entry">
   <div class="paper-date"> March 30, 2026</div>
   <div class="paper-title"> Manufacturing. vs Power Generation: Divergent Effects of Industrial Policy on Chinese Solar Photovoltaic Firms </div>
   <div class="paper-author"> Junda Li (University of Wisconsin, Madison) and Jianwen Lin (Korea University of Foreign Studies) </div>
