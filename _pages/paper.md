@@ -4,6 +4,118 @@ title: "Paper"
 permalink: /paper/
 author_profile: true
 ---
+<style>
+.paper-entry {
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: #fafbfc;
+}
+.paper-date {
+  color: #6c757d;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+.paper-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+.paper-author {
+  font-size: 16px;
+  color: #495057;
+  margin-bottom: 4px;
+}
+.paper-university {
+  font-size: 14px;
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+.paper-abstract {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #495057;
+  text-align: justify;
+}
+.abstract-label {
+  font-weight: 600;
+  color: #495057;
+  margin-bottom: 8px;
+}
+</style>
+<div class="paper-entry">
+  <div class="paper-date"> April 27, 2026</div>
+  <div class="paper-title"> When Education Spending Works: Tax Policy and Human Capital Formation in Africa. </div>
+  <div class="paper-author"> Enock Bulime (Kansas State University) </div>
+  <div class="abstract-label">Abstract:</div>
+  <div class="paper-abstract">
+Why have three decades of expanded public education budgets produced such uneven human capital gains across Africa? This paper argues that the binding constraint is the joint configuration of taxation and spending, not expenditure levels alone. When schooling is financed from a narrow formal labor-tax base, the same instrument that funds schools compresses the after-tax wage premium households need to justify complementary private effort in skill acquisition. Education spending therefore “works” only where the broader fiscal bargain supports it. Using a panel of 37 African countries over 1980–2018, I estimate a positive direct effect of the effective labor tax rate and a negative tax–spending interaction, consistent with an incentive-compression mechanism. The marginal return to an additional percentage point of education spending turns negative once the effective labor tax rate exceeds 7.7 percent, a threshold already crossed by roughly one-fifth of sample country-periods. What matters is not how much states spend, but whether the underlying tax bargain aligns public provision with private incentive to invest.
+  </div>
+</div>
+
+<style>
+.paper-entry {
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: #fafbfc;
+}
+.paper-date {
+  color: #6c757d;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+.paper-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+.paper-author {
+  font-size: 16px;
+  color: #495057;
+  margin-bottom: 4px;
+}
+.paper-university {
+  font-size: 14px;
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+.paper-abstract {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #495057;
+  text-align: justify;
+}
+.abstract-label {
+  font-weight: 600;
+  color: #495057;
+  margin-bottom: 8px;
+}
+</style>
+<div class="paper-entry">
+  <div class="paper-date"> April 13, 2026</div>
+  <div class="paper-title"> Trading Peace for War: Market Embeddedness and Military Support in the US Financial Sector. </div>
+  <div class="paper-author"> Brandon Sullivan (Boston University) </div>
+  <div class="abstract-label">Abstract:</div>
+  <div class="paper-abstract">
+What explains variation in support for military force among financial actors during trade crises? The 2023 Red Sea disruption exposed a surprising divide: while some firms urged diplomatic restraint, others supported military intervention to secure trade routes. This paper investigates this divergence by examining the embeddedness of actors in global markets and how they cognitively frame trade risk. I argue that under acute disruption, embedded actors may shift from pacific preferences to support forcoercive state action, viewing military intervention as necessary to restore market stability. To test this claim, I field a survey experiment among U.S. banking and finance professionals, varying exposure to information about trade risk and measuring support for military deployment. Support varies systematically with the embeddedness of the international market of actors, with more embedded respondents - particularly senior decision makers - expressing greater support for military intervention. These findings suggest important scope conditions for claims in the capitalist peace and broader IPE literature, showing that economic interdependence does not uniformly reduce support for conflict. Under conditions of volatility, embedded actors may update their preferences, treating state-led intervention as a mechanism to preserve economic order. The paper contributes to research on economic actor behavior under geopolitical uncertainty, and revises microfoundational accounts of economic pacifism.
+  </div>
+</div>
+
 
 <style>
 .paper-entry {
