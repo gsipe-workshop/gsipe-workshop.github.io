@@ -4,6 +4,64 @@ title: "Paper"
 permalink: /paper/
 author_profile: true
 ---
+
+<style>
+.paper-entry {
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: #fafbfc;
+}
+.paper-date {
+  color: #6c757d;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+.paper-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+.paper-author {
+  font-size: 16px;
+  color: #495057;
+  margin-bottom: 4px;
+}
+.paper-university {
+  font-size: 14px;
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+.paper-abstract {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #495057;
+  text-align: justify;
+}
+.abstract-label {
+  font-weight: 600;
+  color: #495057;
+  margin-bottom: 8px;
+}
+</style>
+<div class="paper-entry">
+  <div class="paper-date"> May 4, 2026</div>
+  <div class="paper-title"> Global Trade Landscape Shift and the Empowerment of Domestic Sustainability Standards: Insight from Indonesia's Palm Oil Industry </div>
+  <div class="paper-author"> Keehon Lee (Georgetown University) </div>
+  <div class="abstract-label">Abstract:</div>
+  <div class="paper-abstract">
+The rise of domestic standards in commodity-producing countries in the Global South – commonly referred to as “Southern standards” – has sparked a significant debate regarding their evolving relationship with West-led transnational counterparts. This paper addresses this puzzle by investigating the conditions under which these interactions become competitive rather than complementary. While existing literature emphasizes the strategic choices of Global South governments, I propose a critical yet overlooked factor: the macro-level shift in global trade landscapes toward inter-developing country (“South-South”) trade. Using Indonesia’s palm oil industry as a case study, I employ a mixed-methods approach that integrates a novel mill-level dataset for statistical analysis with qualitative process-tracing. The study reveals that as commodity-producing firms become increasingly dependent on non-Western export markets, such as China and India, their reliance on domestic sustainability standards – specifically the Indonesia Sustainable Palm Oil (ISPO) scheme – grows significantly. This firm-level dependence, driven by lower compliance costs and the limited regulatory reach of Western schemes in emerging markets, empowers domestic governments to bolster the legal authority and scope of homegrown standards. Consequently, these standards are positioned as direct competitors to transnational schemes like the Roundtable on Sustainable Palm Oil (RSPO). By identifying private firms as key intermediaries, this study contributes to the political economy and global governance literature by illustrating how shifting trade structures reshape the authority of public and private regulatory regimes.
+  </div>
+</div>
+
+
 <style>
 .paper-entry {
   border: 1px solid #e1e5e9;
