@@ -52,6 +52,62 @@ author_profile: true
 }
 </style>
 <div class="paper-entry">
+  <div class="paper-date"> May 11, 2026</div>
+  <div class="paper-title"> Air Cargo Competition and the Implication of Trade </div>
+  <div class="paper-author"> Isabel Pham (Vienna University of Business and Economics) </div>
+  <div class="abstract-label">Abstract:</div>
+  <div class="paper-abstract">
+How does oligopolistic competition in transportation industries distort international trade patterns? I study this question in international air cargo markets, where route-level market concentration is severe and carriers strategically allocate service capacity. Using data on transportation and trade, I plan to document that (i) carrier outcomes vary substantially by route-level market structure, and (ii) aggregate exporter shipping choices respond to both air freight prices and service differentiation. I develop a quantitative trade model where oligopolistic carriers offer differentiated route-level services, generating endogenous transport prices that interact with heterogeneous exporter shipping decisions. The model, to be estimated to match observed aggregate trade–carrier–route allocations, enables me to quantify how transport market structure shapes trade elasticities and policy incidence. Counterfactual experiments evaluating two policies – carbon taxes on aviation, and tariff reductions – should reveal that ignoring strategic carrier responses leads to misattribution of policy effects: when carriers charge high prices, tariff reductions constitute a smaller share of exporters’ total trade costs, muting trade responses. The same tariff cut is expected to generate larger effects on competitive routes where transport prices are low. Because standard models assume uniform iceberg costs, they likely overestimate average trade elasticities and fail to predict route-level heterogeneity in policy effectiveness. An existing composition effect would imply that trade liberalization is most effective on routes with competitive transport markets – a margin absent from current policy evaluation frameworks.
+  </div>
+</div>
+
+<style>
+.paper-entry {
+  border: 1px solid #e1e5e9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  background-color: #fafbfc;
+}
+.paper-date {
+  color: #6c757d;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+.paper-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 8px;
+  line-height: 1.3;
+}
+.paper-author {
+  font-size: 16px;
+  color: #495057;
+  margin-bottom: 4px;
+}
+.paper-university {
+  font-size: 14px;
+  color: #6c757d;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+.paper-abstract {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #495057;
+  text-align: justify;
+}
+.abstract-label {
+  font-weight: 600;
+  color: #495057;
+  margin-bottom: 8px;
+}
+</style>
+<div class="paper-entry">
   <div class="paper-date"> May 4, 2026</div>
   <div class="paper-title"> Global Trade Landscape Shift and the Empowerment of Domestic Sustainability Standards: Insight from Indonesia's Palm Oil Industry </div>
   <div class="paper-author"> Keehon Lee (Georgetown University) </div>
