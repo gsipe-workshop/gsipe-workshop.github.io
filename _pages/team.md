@@ -8,13 +8,13 @@ author_profile: true
 ## Organizing
 
 <ul>
-    <li><a href="https://rennanpl.github.io/">Rennan Pastich (UFPE)</a></li>
     <li><a href="https://sites.google.com/view/enockbulime/">Enock W.N. Bulime (Kansas State University)</a></li>
     <li><a href="https://giuseppeperessotti.com">Giuseppe Peressotti (The University of Texas at Dallas)</a></li>
     <li><a href="https://polisci.osu.edu/people/pilapitiya.2">Sachi Pilapitiya (The Ohio State University)</a></li>
     <li><a href="https://joon-hyeok-lee.github.io/">Joon Hyeok Lee (Yale University)</a></li>
     <li><a href="https://polisci.ucla.edu/person/poonam-narewatt/">Poonam Narewatt (UCLA)</a></li>
     <li><a href="https://www.linkedin.com/in/scott-boyce-097508184">Scott Boyce (Indiana University Bloomington)</a></li>
+    <li><a href="https://rennanpl.github.io/">Rennan Pastich (Federal University of Pernambuco)</a></li>
 </ul>
 
 <hr>
