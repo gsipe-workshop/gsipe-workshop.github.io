@@ -5,210 +5,219 @@ permalink: /schedule/
 author_profile: true
 ---
 
-All workshop events take place virtually on Mondays, 12:00-13:00 Eastern Time.
+All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Eastern Time.
 
 *Links to workshop papers will be active as events draw closer [here](https://gsipe-workshop.github.io/paper/).*
 
 ## Upcoming Workshops
 
-**September 14**
 
-**[Practice Job Talk]**
+### September 14
 
-**"Squeezing the Balloon: How Anti-Corruption Enforcement Restructures Firm Corruption"**
+*Practice Job Talk*
 
-**Chengyu Fu**
+#### “Squeezing the Balloon: How Anti-Corruption Enforcement Restructures Firm Corruption”
 
-***Harvard University***
+**Chengyu Fu**  
+*Harvard University*
 
-*Discussant:* Jerry Min
+**Discussant:** Jerry Min
 
+---
 
-**September 21**
 
-**[Practice Job Talk]**
+### September 21
 
-**"When Legitimacy Becomes a Liability: How Economic Securitization Shapes Global Firms' Socio-Political Strategy"**
+*Practice Job Talk*
 
-**Yue Lin**
+#### “When Legitimacy Becomes a Liability: How Economic Securitization Shapes Global Firms’ Socio-Political Strategy”
 
-***UC Berkeley***
+**Yue Lin**  
+*UC Berkeley*
 
-*Discussant:* Xiuyu Li
+**Discussant:** Xiuyu Li
 
+---
 
-**September 28**
 
-**[Practice Job Talk]**
+### September 28
 
-**"Bias Against Mobile Capital: Evidence from U.S. Environmental Enforcement"**
+*Practice Job Talk*
 
-**Jerry Min**
+#### “Bias Against Mobile Capital: Evidence from U.S. Environmental Enforcement”
 
-***Harvard University***
+**Jerry Min**  
+*Harvard University*
 
-*Discussant:* Giuseppe Peressotti
+**Discussant:** Giuseppe Peressotti
 
+---
 
-**October 5**
 
-**[Practice Job Talk]**
+### October 5
 
-**"Rulemakers and Ruletakers in Digital Trade Governance: Network Structure and the Diffusion of Digital Provisions in Preferential Trade Agreements"**
+*Practice Job Talk*
 
-**Giuseppe Peressotti**
+#### “Rulemakers and Ruletakers in Digital Trade Governance: Network Structure and the Diffusion of Digital Provisions in Preferential Trade Agreements”
 
-***The University of Texas at Dallas***
+**Giuseppe Peressotti**  
+*The University of Texas at Dallas*
 
-*Discussant:* TBD
+**Discussant:** TBD
 
+---
 
-**October 12**
 
-**[Practice Job Talk]**
+### October 12
 
-**"Beyond Nationality: Domestic Embeddedness and Industrial Subsidies"**
+*Practice Job Talk*
 
-**Sujin Cha**
+#### “Beyond Nationality: Domestic Embeddedness and Industrial Subsidies”
 
-***University of Michigan***
+**Sujin Cha**  
+*University of Michigan*
 
-*Discussant:* Riccardo Di Cato
+**Discussant:** Riccardo Di Cato
 
+---
 
-**October 19**
 
-**[Practice Job Talk]**
+### October 19
 
-**"Seeds of Market-Based Capitalism: Christian Missionaries and China's Modernization"**
+*Practice Job Talk*
 
-**Riccardo Di Cato**
+#### “Seeds of Market-Based Capitalism: Christian Missionaries and China’s Modernization”
 
-***UC San Diego***
+**Riccardo Di Cato**  
+*UC San Diego*
 
-*Discussant:* Yangran Gao
+**Discussant:** Yangran Gao
 
+---
 
-**October 26**
 
-**[Standard Presentation]**
+### October 26
 
-**"Not in My District: The Political Geography of Export Controls"**
+*Standard Presentation*
 
-**Evan Mann**
+#### “Not in My District: The Political Geography of Export Controls”
 
-***UC San Diego***
+**Evan Mann**  
+*UC San Diego*
 
-*Discussant:* Iqbal Pervez
+**Discussant:** Iqbal Pervez
 
+---
 
-**November 2**
 
-**[Early Ideas]**
+### November 2
 
-**"Trade Creation or Trade Reorientation? The China–Laos Railway and Supply-Conditioned Integration"**
+*Early Ideas*
 
-**Luobing Deng**
+#### “Trade Creation or Trade Reorientation? The China–Laos Railway and Supply-Conditioned Integration”
 
-***Renmin University of China***
+**Luobing Deng**  
+*Renmin University of China*
 
-*Discussant:* Sujin Cha
+**Discussant:** Sujin Cha
 
+#### “Vulnerability and Voice: African Agency in reforming Agricultural Trade at the WTO”
 
-**"Vulnerability and Voice: African Agency in reforming Agricultural Trade at the WTO"**
+**Teesta Lahiri**  
+*Sant'Anna School of Advanced Studies*
 
-**Teesta Lahiri**
+**Discussant:** TBD
 
-***Sant'Anna School of Advanced Studies***
+---
 
-*Discussant:* TBD
 
+### November 9
 
-**November 9**
+*Standard Presentation*
 
-**[Standard Presentation]**
+#### “Policy Versus Access: How Do Firms Respond to Protectionism with Campaign Contributions?”
 
-**"Policy Versus Access: How Do Firms Respond to Protectionism with Campaign Contributions?"**
+**Xiuyu Li**  
+*New York University*
 
-**Xiuyu Li**
+**Discussant:** Luobing Deng
 
-***New York University***
+---
 
-*Discussant:* Luobing Deng
 
+### November 16
 
-**November 16**
+*Standard Presentation*
 
-**[Standard Presentation]**
+#### “Labor Politics in a Dual Economy”
 
-**"Labor Politics in a Dual Economy"**
+**Syamsul Bahri**  
+*University of Michigan*
 
-**Syamsul Bahri**
+**Discussant:** Saira Salman
 
-***University of Michigan***
+---
 
-*Discussant:* Saira Salman
 
+### November 23
 
-**November 23**
+*Standard Presentation*
 
-**[Standard Presentation]**
+#### “The Firm-Level Politics of Geoeconomic Adaptation”
 
-**"The Firm-Level Politics of Geoeconomic Adaptation"**
+**Tommaso Fonti**  
+*Geneva Graduate Institute*
 
-**Tommaso Fonti**
+**Discussant:** Nafisa Arshid
 
-***Geneva Graduate Institute***
+---
 
-*Discussant:* Nafisa Arshid
 
+### November 30
 
-**November 30**
+*Early Ideas*
 
-**[Early Ideas]**
+#### “The Impact of Renewable Portfolio Standards on Economic Growth in New Mexico: An Autoregressive Distributed Lag (ARDL) Approach”
 
-**"The Impact of Renewable Portfolio Standards on Economic Growth in New Mexico: An Autoregressive Distributed Lag (ARDL) Approach"**
+**Iqbal Pervez**  
+*New Mexico State University*
 
-**Iqbal Pervez**
+**Discussant:** Tommaso Fonti
 
-***New Mexico State University***
+#### “Displaced Knowledge? Credential Recognition and the Political Economy of Skilled Migration”
 
-*Discussant:* Tommaso Fonti
+**Saira Salman**  
+*University of Minnesota (Twin Cities)*
 
+**Discussant:** Syamsul Bahri
 
-**"Displaced Knowledge? Credential Recognition and the Political Economy of Skilled Migration"**
+---
 
-**Saira Salman**
 
-***University of Minnesota (Twin Cities)***
+### December 7
 
-*Discussant:* Syamsul Bahri
+*Standard Presentation*
 
+#### “ESG Backlash and Institutional Ownership Response”
 
-**December 7**
+**Nafisa Arshid**  
+*University of Bolzano/University of Trento*
 
-**[Standard Presentation]**
+**Discussant:** Evan Mann
 
-**"ESG Backlash and Institutional Ownership Response"**
+---
 
-**Nafisa Arshid**
 
-***University of Bolzano/University of Trento***
+### December 14
 
-*Discussant:* Evan Mann
+*Standard Presentation*
 
+#### “China's Electric Vehicle Revolution in Latin America: The Cases of Brazil and Mexico”
 
-**December 14**
+**Yangran Gao**  
+*University of Southern California*
 
-**[Standard Presentation]**
-
-**"China's Electric Vehicle Revolution in Latin America: The Cases of Brazil and Mexico"**
-
-**Yangran Gao**
-
-***University of Southern California***
-
-*Discussant:* Teesta Lahiri
+**Discussant:** Teesta Lahiri
 
 
 <!--
@@ -365,6 +374,8 @@ All workshop events take place virtually on Mondays, 12:00-13:00 Eastern Time.
 *Moderator:* Junda Li
 
 
+### Fall 2025
+
 **September 15**
 
 **"Money Talks: Using Cash and Bitcoin to Unpack The Politics of Financial Disintermediation"**
@@ -493,6 +504,8 @@ All workshop events take place virtually on Mondays, 12:00-13:00 Eastern Time.
 ***University of Toronto***
 
 
+### Spring 2025
+
 **May 12: Alicja Paulina Krubnik (McMaster University), "Energy Transitions as Transformative Openings? Critical Analysis of Development Financing in Brazil and Ecuador"**
 <br />
 *Moderator:* Fikayo Akeredolu (Oxford University) 
@@ -558,9 +571,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 Eastern Time.
 *Moderator:* Margaret Kenney (University of California, Berkeley)
 
 
-**January 20: WanTing Lee (Arizona State University), "How Foreign Direct Investment Affects Support for Defense Commitments"**
-<br />
-*Moderator:* Margaret Kenney (University of California, Berkeley) 
+### Fall 2024
 
 **December 9: Jing Li (Notre Dame), "Beyond Dollar Dominance: Why does Chile Diversify their Reserve Currency Portfolio?"**
 <br />
@@ -603,11 +614,7 @@ All workshop events take place virtually on Mondays, 12:00-13:00 Eastern Time.
 *Moderator:* Sujin Cha (University of Michigan) 
 
 
-## Previous Workshops
-
-**September 16： Tim Liptrot (Georgetown University), "Personalist Property: When do Autocratic Successions Cause FDI Expropriation?"**
-<br />
-*Moderator:* Sujin Cha (University of Michigan)
+### Spring 2024
 
 **May 6： Marnie Ginis (Columbia University), "Strategic Adoption of Production Technology"**
 <br />
@@ -625,11 +632,9 @@ All workshop events take place virtually on Mondays, 12:00-13:00 Eastern Time.
 <br />
 *Moderator:* Seung-Uk Huh (University of Illinois at Urbana-Champaign)
 
-
 **March 4： Seung-Uk Huh (University of Illinois at Urbana-Champaign), "Failed Coup Attempts and Fading Foreign Direct Investment in the Extractive Sector"**
 <br />
 *Moderator:* Yue Lin (University of California, Berkeley)
-
 
 **March 11： Yujin Zhang (Columbia University), "Openness and Prosperity: The Rise and Fall of Globalization and Mass Preferences for Free Trade"**
 <br />
@@ -639,11 +644,9 @@ All workshop events take place virtually on Mondays, 12:00-13:00 Eastern Time.
 <br />
 *Moderator:* Søren Frank Etzerodt (Technical University of Munich)
 
-
 **March 25： Alexander Yarkin (Brown University and LISER), "Lobbying for Industrialization: Theory and Evidence"**
 <br />
 *Moderator:* Sujin Cha (University of Michigan)
-
 
 **April 1： Natalie Romeri-Grass (Ohio State University), "From Fighters to Farmers in My Backyard? Social and Economic Cohesion Among Unlikely Neighbors in the Hardest of Contexts"**
 <br />
@@ -666,8 +669,9 @@ All workshop events take place virtually on Mondays, 12:00-13:00 Eastern Time.
 *Moderator:* Yujin Zhang (Columbia University)
 
 
-All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Eastern Time (UTC−05:00).
+### Fall 2023
 
+All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Eastern Time (UTC−05:00).
 
 **September 14	“The Politics of Compulsory Licensing: Democracy and Regulatory Threat in Public Health” [Sojun Park](https://www.sojunpark.com/) (Princeton University).** 
 <br />
@@ -697,7 +701,6 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 <br />
 *Moderator:* [Oriana Montti](https://www.orianamontti.com/) (Brandeis University)
 
-
 **October 31	“Effects of Trade Barriers on FDI: Evidence from Chinese Solar Panels” [Oriana Montti](https://www.orianamontti.com/) (Brandeis University)**
 <br />
 *Moderator:* Giulia Lo Forte (University of British Columbia)
@@ -714,7 +717,6 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 <br />
 *Moderator:* Isabella Bellezza-Smull (Brown University)
 
-
 **November 28	“Normative Preferences and Support for International Economic Dispute Settlement” Seung-Uk Huh (University of Illinois at Urbana-Champaign)**
 <br />
 *Moderator:* [Nicola Nones](https://www.nicolanones.com/) (University of Toronto)
@@ -727,6 +729,8 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 <br />
 *Moderator:* [Zarlasht Muhammad Razeq](https://www.zarlashtmrazeq.com/) (McGill University) 
 
+
+### Spring 2023
 
 **February 13: Michael Allen (Yale University), "Unbundling the State: Legal Development in an Era of Global, Private Governance"**
 <br />
@@ -780,145 +784,118 @@ All workshop events take place virtually on Mondays, 12:00-13:00 (1:00 pm) Easte
 <br />
 *Moderator:* RyuGyung (Rio) Park (University of California, Davis)
 
-*********************
 
+### Spring 2022
 
 February 7th: Ebad Ebadi (GWU), "*Adapting to Sanctions: Evidence from Firm Response and Market Reallocation in Iran.*"**
 <br />
 *Moderator:* Oriana Montti (Brandeis).
 
-
 **February 14th: Cynthia Couette (Université Laval), "*Intellectual Property, Public Health and the Influence of Experts.*"**
 <br />
 *Moderator:* Elizabeth Meehan (GWU).
-
 
 **February 21st: Harry Oppenheimer (Harvard), "*Does Data Follow the Flag?*"**
 <br />
 *Moderator:* Felipe Balcazar (NYU).
 
-
 **February 28th : Elisa Navarra (Université libre de Bruxelles - ECARES), "*Spillover effects of subsidies on downstream trade.*"**
 <br />
 *Moderator:* Lauren Konken (Princeton).
-
 
 **March 7th: Bjoern Brey (Universite Libre Bruxelles - ECARES), "*The consequences of a trade collapse: Economics and politics in Weimar Germany.*"**
 <br />
 *Moderator:* Sabreena Croteau (Chicago).
 
-
 **March 14th: Torsten Jaccard (Toronto), "*Who Pays for Protectionism? The Welfare and Substitution Effects of Tariff Changes.*"**
 <br />
 *Moderator:* Anthony James Calacino (Texas at Austin).
-
 
 **March 21st: Sojun Park (Princeton), "*Reputation as a Binding Constraint: How States Navigate TRIPS Flexibilities.*"**
 <br />
 *Moderator:* Zoe Xincheng Ge (NYU).
 
-
 **April 4th : Antoine Boucher (Université Paris Dauphine), "*Political Cycle in World Bank’s Procurement Allocation.*"**
 <br />
 *Moderator:* Nicola Nones (Virginia).
-
 
 **April 11th: Celestine Siameh (Minnesota, Twin Cities), "*Brexit and Global Value Chains: Beyond the UK and the EU.*"**
 <br />
 *Moderator:* Munzir Malik (Indian Institute of Technology).
 
-
 **April 18th: Zoe Ge (NYU), "*Self-Defeating Treaties: Global Value Chains and the Termination of Bilateral Investment Treaties*"**
 <br />
 *Moderator:* Frederik Heitmüller (Leiden University).
-
 
 **April 25th (Cancelled): Simon Happersberger (Vrije Universiteit Brussel), "*The Effectiveness of Environmental Provisions and the Greening of EU Trade. A Qualitative Comparative Analysis.*"**
 <br />
 *Moderator:* Ishana Ratan (Berkeley).
 
-
 **May 2nd: Nicola Nones (Virginia), "*The PIIGS Acronym as Heuristic Device during the European Sovereign Bond Crisis.*"**
 <br />
 *Moderator:* Amy Basu (Yale).
-
 
 **May 9th: Pengshan Pan (Pittsburgh), "*Foreign Mining Investment, Labor Market and Local Distrust: Evidence from Kyrgyzstan Kumtor Gold Mine.*"**
 <br />
 *Moderator:* Tanja Schweinberger (University of Geneva).
 
 
-2022fall
-
+### Fall 2022
 
 **September 12: Carlos Felipe Balcazar (New York University), "Unions and robots: International competition, automation and the political power of organized labor"**
 <br />
 *Moderator:* Aycan Katitas (Princeton University)
 
-
 **September 19: Maximiliano Sosa Andres (Uppsala University), "Legal uncertainty and its consequences: A natural language processing approach"**
 <br />
 *Moderator:* Elisa Navarra (Université Libre de Bruxelles)
-
 
 **September 26: Sabrina Arias (University of Pennsylvania), "Who Sets the Agenda? Diplomatic Capital, Small States, and Legislative Activities in the United Nations"**
 <br />
 *Moderator:* James Sundquist (Yale University)
 
-
 **October 3: Sojun Park (Princeton University), "The Politics of Compulsory Licensing : Electoral Accountability and Regulatory Threat"**
 <br />
 *Moderator:* RyuGyung Park (UC Davis)
-
 
 **October 10: Zarlasht M. Razeq (McGill University), "Comprehensive trade agreements, domestic institutions, and GVC integration: firm-level evidence"**
 <br />
 *Moderator:* Sujin Cha (University of Michigan)
 
-
 **October 17: Zoe Xincheng Ge (New York University), "Empowered by Information: Disease Outbreak Reporting at the World Health Organization"**
 <br />
 *Moderator:* Cleo O'Brien-Udry (Yale University)
-
 
 **October 24: Hao Zhang (MIT), "Commerce, Coalitions, and Global Value Chains: Evidence from Coordinated and Collective Lobbying"**
 <br />
 *Moderator:* Sojun Park (Princeton University)
 
-
 **October 31: ByungKoo Kim (University of Michigan), "Global production sharing and the new demands for deep preferential trade agreements"**
 <br />
 *Moderator:* Hao Zhang (MIT)
-
 
 **Novemver 7: Sayumi Miyano (Princeton University), "Regime Complexity and Overlapping Information: The Case of Energy Projections"**
 <br />
 *Moderator:* Zoe Ge (NYU)
  
-
 **November 14: Thomas Flaherty (UC San Diego), "Geographic Mobility and Globalization Backlash: Evidence from the NAFTA Import Shock and Populist Votes for Ross Perot"**
 <br />
 *Moderator:* Anthony Calacino (UT Austin)
-
 
 **November 21: Alex Yeandle (London School of Economics), "Why do ICTs reduce election fraud? Testing a new mechanism in Malawi"**
 <br />
 *Moderator:* Kathleen J. Brown (Leiden University)
 
-
 **November 28: Hongyi She (University of Rochester), "Learning About Trade"**
 <br />
 *Moderator:* Zarlasht M. Razeq (McGill University)
  
-
 **December 5: Adam Parker (Columbia University), "Union Structure and Labor’s Response to Automation: Evidence From the Postwar United States"**
 <br />
 *Moderator:* Kathleen J. Brown (Leiden University)
  
-
 **December 12: RyuGyung (Rio) Park (UC Davis), "Trading with China, Is It Really a Security Issue?, Causes of Securitization of Trade Among American Public"**
 <br />
 *Moderator:* Sanghyun Han (Georgia Institute of Technology)
 
 -->
-
