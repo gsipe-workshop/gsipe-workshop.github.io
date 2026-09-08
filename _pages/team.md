@@ -4,20 +4,40 @@ title: "Our Team"
 permalink: /team/
 author_profile: true
 ---
+
 ## Organizing
+
 <ul>
-    <li><a href="https://www.linkedin.com/in/kexin-bai-08a3921b0/">Kexin Bai (Texas A&M University)</a> - Chair - baikexin@tamu.edu</li>
-    <li><a href="https://rudraguhabiswas.org/">Rudra M Guha Biswas (University of California, Riverside)</a> - Vice Chair - rguha003@ucr.edu</li>
-    <li><a href="https://www.maziebernard.com/">Mazie Bernard (Purdue University)</a> - bernard1@purdue.edu </li>
-    <li><a href="https://sites.google.com/view/ghita-chraibi/bio">Ghita Chraibi (University of Virginia)</a> - usx8ns@virginia.edu</li>
-    <li><a href="https://adamlhobbs.com/">Adam Hobbs (University of California, Riverside)</a> - ahobb005@ucr.edu</li>
-    <li><a href="https://parkerli.org/">Yongzheng (Parker) Li (University of British Columbia)</a> - parkeryz@mail.ubc.ca</li>
+    <li><a href="https://rennanpl.github.io/">Rennan Pastich (UFPE)</a></li>
+    <li><a href="https://sites.google.com/view/enockbulime/">Enock W.N. Bulime (Kansas State University)</a></li>
+    <li><a href="https://giuseppeperessotti.com">Giuseppe Peressotti (The University of Texas at Dallas)</a></li>
+    <li><a href="https://polisci.osu.edu/people/pilapitiya.2">Sachi Pilapitiya (The Ohio State University)</a></li>
+    <li><a href="https://joon-hyeok-lee.github.io/">Joon Hyeok Lee (Yale University)</a></li>
+    <li><a href="https://polisci.ucla.edu/person/poonam-narewatt/">Poonam Narewatt (UCLA)</a></li>
+    <li><a href="https://www.linkedin.com/in/scott-boyce-097508184">Scott Boyce (Indiana University Bloomington)</a></li>
 </ul>
 
-<hr> 
+<hr>
 
 ## Former team members:
+
+### 2025-2026
+
+[Kexin Bai (Texas A&M University)](https://www.linkedin.com/in/kexin-bai-08a3921b0/)  
+
+[Rudra M Guha Biswas (University of California, Riverside)](https://rudraguhabiswas.org/)  
+
+[Mazie Bernard (Purdue University)](https://www.maziebernard.com/)  
+
+[Ghita Chraibi (University of Virginia)](https://sites.google.com/view/ghita-chraibi/bio)  
+
+[Adam Hobbs (University of California, Riverside)](https://adamlhobbs.com/)  
+
+[Yongzheng (Parker) Li (University of British Columbia)](https://parkerli.org/)  
+
+
 ### 2024-2025
+
 [Kexin Bai (Texas A&M University)](https://www.linkedin.com/in/kexin-bai-08a3921b0/)  
 
 [Mazie Bernard (Purdue University)](https://www.maziebernard.com/)  
@@ -36,7 +56,9 @@ author_profile: true
 
 [Yujin Zhang (Columbia University)](https://www.yujinzhang.com/)
 
+
 ### 2023-2024
+
 [IIaria Natali (Toulouse School of Economics)](https://sites.google.com/view/ilaria-natali/home)  
 
 [Ishana Ratan (University of California, Berkeley)](https://ishanaratan.com/)  
@@ -69,7 +91,6 @@ author_profile: true
 [Elisa Navarra (Université Libre de Bruxelles)](https://sites.google.com/view/elisanavarra)
 
 [Anthony Calacino (UT Austin)](https://cola.utexas.edu/government/graduate/profile.php?id=ac72973)
-
 
 [Celestine Siameh (Minnesota)](https://www.celestineogboh.com/)
 
