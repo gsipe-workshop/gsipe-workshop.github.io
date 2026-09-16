@@ -1,13 +1,13 @@
 ---
 layout: single
 title: "Job Market Candidates"
-permalink: /jobmarket_2025/ 
+permalink: /jobmarket_2026/ 
 author_profile: true
 ---
  
-Profiles of graduate students in international political economy on the 2025 job market can be found here. 
+Profiles of graduate students in international political economy on the 2026 job market can be found here. 
 
-Are you on the 2025 IPE job market and would like to be featured on this page? Fill out this <a href = "https://docs.google.com/forms/d/e/1FAIpQLSe0gVojrDDn-9lwx8JLeECqxfGkcWLLiHsWwLrcIDDVIwkTAg/viewform"><b>form</b></a>.
+Are you on the 2026 IPE job market and would like to be featured on this page? Fill out this <a href = "https://docs.google.com/forms/d/e/1FAIpQLSe0gVojrDDn-9lwx8JLeECqxfGkcWLLiHsWwLrcIDDVIwkTAg/viewform"><b>form</b></a>.
 
 <style>
 body {
@@ -82,6 +82,7 @@ body {
         </td>
     </tr>
 </thead>
+
 <thead>
     <tr>
         <td class="tg-0pky">
@@ -116,37 +117,75 @@ body {
         </td>
     </tr>
 </thead>
+
 <thead>
     <tr>
         <td class="tg-0pky">
-            <p style="font-size:20px"><a href="https://yejunejungpoli.com/"><b>Ye June Jung</b></a></p>
-            <a href="https://yejunejungpoli.com/">
-                <img src="https://gsipe-workshop.github.io/images/June_Jung - June Jung.png" style="max-width: 300px; max-height: 300px;">
+            <p style="font-size:20px"><a href="https://www.linkedin.com/in/tommasofonti/"><b>Tommaso Fonti</b></a></p>
+            <a href="https://www.linkedin.com/in/tommasofonti/">
+                <img src="https://gsipe-workshop.github.io/images/tommaso_fonti.jpg" style="max-width: 300px; max-height: 300px;">
             </a>
             <div class="tags">
-                <span class="tag">International Organizations</span>
-                <span class="tag">International Law</span>
-                <span class="tag">Trade</span>
+                <span class="tag">Geoeconomics</span>
+                <span class="tag">Climate Politics</span>
+                <span class="tag">State-Business Relations</span>
             </div>
             <div class="bio-text">
-                I am a PhD candidate at the University of California, San Diego, in a joint program with the School of Global Policy and Strategy (expected 2026), and a predoctoral fellow at the University of Mannheim. I study the intersection of international political economy and international organizations, with a focus on human rights, international trade, international law, the European Union, and the governance of artificial intelligence through the lens of human rights and economic integration. My job market paper, "Illiberal Human Rights Norms in Trade and the Effectiveness of Western Conditionalities", examines how emerging alternative trade networks undermine the effect of EU human rights conditionalities in trade. My dissertation investigates international and domestic institutional dynamics that shape and undermine liberal international norms through economic integration and trade networks. I use mixed methods, including original panel data analysis, text analysis, causal inference, and qualitative case studies.
+                Tommaso is a PhD Candidate in International Relations and Political Science at the Graduate Institute. Originally from Milan, Italy, he has an academic background spanning political science, economics, and international relations, with studies at Pompeu Fabra (Research Master in Political Science), the University of Milan (MSc in Economics and Political Science, BA in International Relations), and Sciences Po (Environmental Policy). His PhD investigates the shifts of state-business power relations caused by geoeconomics and climate change. Previously, Tommaso has worked at Bocconi University’s Social Inclusion Lab (Dondena) and at Centro Studi Luca D’Agliano. He is also an elected member of Milan’s City District Council, leading the Social Policy and Mobility Committee. These roles inspire his research on urban politics, with work in progress on how pedestrianization policies reduce radical right support in cities.
             </div>
         </td>
         <td class="tg-0pky">
-            <p style="font-size:20px"><a href="https://wp.nyu.edu/mengfan_cheng/"><b>Mengfan Cheng</b></a></p>
-            <a href="https://wp.nyu.edu/mengfan_cheng/">
-                <img src="https://gsipe-workshop.github.io/images/Cheng_Mengfan - Mengfan Cheng.jpg" style="max-width: 300px; max-height: 300px;">
+            <p style="font-size:20px"><a href="https://florenceyuelin.github.io/"><b>Yue Lin</b></a></p>
+            <a href="https://florenceyuelin.github.io/">
+                <img src="https://gsipe-workshop.github.io/images/yue_lin.jpg" style="max-width: 300px; max-height: 300px;">
             </a>
             <div class="tags">
-                <span class="tag">Finance</span>
-                <span class="tag">Development</span>
-                <span class="tag">Foreign Direct Investment</span>
-                <span class="tag">Identity</span>
+                <span class="tag">Geopolitics</span>
+                <span class="tag">Economic Statecraft</span>
+                <span class="tag">Multinational Corporations</span>
             </div>
             <div class="bio-text">
-                I am a Ph.D. candidate in the Wilf Family Department of Politics at New York University (NYU). I study the political economy of sovereign finance, with a special focus on sub-Saharan Africa. My research focuses on the strategic trade-offs across sovereign finance instruments such as bonds and foreign aid, the drivers behind sovereign financing decisions, and the downstream consequences of diverse access to creditors. My dissertation offers new explanations for recent rises in sovereign debt burden in sub-Saharan Africa and explores the domestic and international political drivers behind the shift from traditional instruments to market instruments.
+                Yue Lin is a Ph.D. Candidate in Political Science at the University of California, Berkeley, with a Designated Emphasis in Political Economy. She is a Data Science and AI Fellow at Berkeley’s D-Lab, a Hans J. Morgenthau Fellow at Notre Dame’s International Security Center, and an AI Academic Upskilling Fellow at the Oxford Martin AI Governance Initiative.
+                <br><br>
+                Yue is broadly interested in geopolitics, economic statecraft, multinational corporations, cross-border investment, and industrial policy. Her dissertation, <i>Championing Economic National Security in a De-Globalized Era</i>, asks why governments increasingly invoke national security to restrict foreign investment, and how multinational corporations adjust their political and social strategies in response. She combines an original legislative dataset with computational text analysis, experiments, and interviews to answer these questions. Her work has been published in <i>Law & Geoeconomics</i> and by Routledge.
+                <br><br>
+                Prior to Berkeley, Yue worked at the Center for Strategic and International Studies and the American Enterprise Institute. She holds an M.A. in International Economics and International Relations from Johns Hopkins University’s Paul H. Nitze School of Advanced International Studies and a B.Soc.Sci. in Government and International Relations from Hong Kong Baptist University, where she was awarded a national scholarship (top 0.05%) and graduated top of her cohort.
             </div>
         </td>
     </tr>
 </thead>
+
+<thead>
+    <tr>
+        <td class="tg-0pky">
+            <p style="font-size:20px"><a href="https://nicolas-wesseler.net"><b>Nicolas Wesseler</b></a></p>
+            <a href="https://nicolas-wesseler.net">
+                <img src="https://gsipe-workshop.github.io/images/nicolas_wesseler.jpg" style="max-width: 300px; max-height: 300px;">
+            </a>
+            <div class="tags">
+                <span class="tag">International Trade</span>
+                <span class="tag">Geoeconomics</span>
+                <span class="tag">Economic History</span>
+            </div>
+            <div class="bio-text">
+                I am a PhD candidate in Strategy and Business Economics at the UBC Sauder School of Business. I study international trade, political economy, and economic history, with a focus on geoeconomics. My dissertation examines how geopolitical alignment shapes trade and how governments use foreign aid and sanctions to pursue political objectives. I hold master’s degrees in economics from the Universities of Tübingen and Pavia and a bachelor’s degree in economics from the University of Münster. Before my doctoral studies, I was a pre-doctoral research associate at the University of Chicago.
+            </div>
+        </td>
+        <td class="tg-0pky">
+            <p style="font-size:20px"><a href="https://www.giuseppeperessotti.com/"><b>Giuseppe Peressotti</b></a></p>
+            <a href="https://www.giuseppeperessotti.com/">
+                <img src="https://gsipe-workshop.github.io/images/giuseppe_peressotti.jpg" style="max-width: 300px; max-height: 300px;">
+            </a>
+            <div class="tags">
+                <span class="tag">Trade Policy</span>
+                <span class="tag">Digital Governance</span>
+                <span class="tag">International Cooperation</span>
+            </div>
+            <div class="bio-text">
+                I am a PhD candidate in Public Policy and Political Economy at the University of Texas at Dallas. My primary research stands at the intersection of trade policy and digital governance, where I study the characteristics that shape the inclusion of digital provisions in PTAs, the actors best positioned to diffuse their preferred rules, and the conditions under which international commitments lead to domestic implementation. My work also focuses on two complementary lines of research: the first studies how governments pursue cooperation and signal international alignment through trade negotiations and expressions of interest in organizations like the BRICS; the second has been developed as part of UTD’s Pinckney Research Lab, where we examine how organized groups behave when domestic political arrangements come under strain, from challenges to democratic transitions to support for authoritarian coalitions.
+            </div>
+        </td>
+    </tr>
+</thead>
+
 </table>
